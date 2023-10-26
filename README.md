@@ -1,1 +1,1 @@
-# getbos.github.io
+# Gerakan ekonomi terbatas bersama orang sukses
