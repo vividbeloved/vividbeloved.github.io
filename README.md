@@ -9,7 +9,7 @@
 </div>
 
 ```
-	Setelah Anda menghasilkan $1 sehari, langkah selanjutnya adalah mendapatkan $10 sehari, lalu $100 sehari dan $1000 sehari.
+	Setelah Anda menghasilkan $1 sehari, langkah selanjutnya adalah mendapatkan $10 sehari, lalu $100 sehari.
 ```
 Menskalakan perdagangan Anda terdengar menarik, 
 
@@ -19,7 +19,7 @@ Inilah cara saya dapat menskalakan:
 
 1. Peningkatan Bertahap:
 
-Jangan melompat dari $100 ke $1.000 sekaligus.
+Jangan melompat dari $1 ke $10 sekaligus.
 
 Tingkatkan ukuran perdagangan Anda secara bertahap.
 
@@ -31,9 +31,9 @@ Saat Anda meningkatkan ukuran perdagangan Anda, pertahankan persentase risiko An
 
 Jika Anda mengambil risiko 1% per perdagangan pada akun $100, ambil risiko 1% yang sama ketika akun Anda tumbuh menjadi $1000.
 
-3. Keuntungan Investasi Kembali:
+3. Laba di Investasi Kembali:
 
-Gunakan keuntungan Anda untuk meningkatkan modal perdagangan Anda.
+Gunakan laba Anda untuk meningkatkan modal perdagangan Anda.
 
 Hal ini memungkinkan pertumbuhan gabungan menguntungkan Anda tanpa menyuntikkan uang baru.
 
@@ -57,4 +57,4 @@ Pastikan Anda siap secara mental untuk menangani tekanan yang meningkat.
 
 ## Dengan melakukan penskalaan secara hati-hati dan cerdas, Anda dapat meningkatkan pendapatan perdagangan sambil mengendalikan risiko.
 
-Ingatlah selalu bahwa keuntungan yang lebih tinggi biasanya disertai dengan risiko yang lebih tinggi.
+### Ingatlah selalu bahwa keuntungan yang lebih tinggi biasanya disertai dengan risiko yang lebih tinggi.
