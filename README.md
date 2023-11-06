@@ -58,3 +58,36 @@ Pastikan Anda siap secara mental untuk menangani tekanan yang meningkat.
 ## Dengan melakukan penskalaan secara hati-hati dan cerdas, Anda dapat meningkatkan pendapatan perdagangan sambil mengendalikan risiko.
 
 ### Ingatlah selalu bahwa keuntungan yang lebih tinggi biasanya disertai dengan risiko yang lebih tinggi.
+
+Orang pintar tidak akan berhasil.
+
+Saya telah melihat pola ini terjadi berkali-kali.
+
+Anda melihat seseorang yang benar-benar brilian.
+
+Wawasan yang luar biasa.
+Pemikiran strategis yang hebat.
+Ketekunan yang tinggi.
+
+Namun mereka gagal mencapai separuh kesuksesan orang lain yang tidak secerdas mereka.
+
+Saya telah banyak memikirkan hal ini… karena ini berlaku untuk saya sejak lama sebelum saya menemukan cara untuk membalikkan keadaan demi keuntungan saya.
+
+Inilah masalahnya:
+
+Keinginan terdalam orang pintar adalah terlihat pintar…
+
+Dan Anda tahu itu membuat Anda bodoh.
+
+Anda mulai mengoptimalkan semua yang Anda lakukan sehingga Anda mendapatkan pujian tersebut:
+
+“Oh, kamu luar biasa cerdas”
+“Astaga, kamu sangat brilian”
+
+Kalimat-kalimat ini adalah racun.
+
+Anda harus tidak peka terhadap hal ini, sama seperti Anda tidak peka terhadap hinaan.
+
+Sementara itu, pria dengan otak setengah kasar memaksakan jalannya menuju kesuksesan hanya dengan menjalankan proses yang sudah terbukti.
+
+Saya telah berhenti mencoba menemukan kembali roda setiap dua minggu sekali… dan sampai saya melakukan hal ini, saya dapat membebaskan pikiran saya untuk fokus pada hal yang benar-benar penting.
