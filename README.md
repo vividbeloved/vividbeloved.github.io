@@ -91,3 +91,11 @@ Anda harus tidak peka terhadap hal ini, sama seperti Anda tidak peka terhadap hi
 Sementara itu, pria dengan otak setengah kasar memaksakan jalannya menuju kesuksesan hanya dengan menjalankan proses yang sudah terbukti.
 
 Saya telah berhenti mencoba menemukan kembali roda setiap dua minggu sekali… dan sampai saya melakukan hal ini, saya dapat membebaskan pikiran saya untuk fokus pada hal yang benar-benar penting.
+
+```
+Rencana perdagangan Anda adalah panduan Anda
+
+Disiplin adalah teman Anda
+
+Pasar adalah guru Anda
+```
