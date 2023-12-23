@@ -101,3 +101,4 @@ Pasar adalah guru Anda
 ```
 
 ## Tujuan utama dan terpenting seorang pedagang di pasar uang adalah menjaga uangnya agar tidak hilang. Benar gak Bos?
+`halaman masih dalam pengembangan dan perbaikan`
