@@ -1,4 +1,4 @@
-# Gerakan ekonomi terbatas bersama orang sabar
+# Gerakan ekonomi terbatas Bersama orang sabar
 <h1 align="center">💙GetBos💙</h1>
 <div align="center">
     <a class="text-blue" href="https://mempool.space/address/1EZjeVjTZZNz5P9p4Qe9QxybCw2znxFB6B">Bitcoin</a> |
