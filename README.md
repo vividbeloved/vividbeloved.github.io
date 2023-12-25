@@ -103,3 +103,10 @@ Pasar adalah guru Anda
 
 ## Tujuan utama dan terpenting seorang pedagang di pasar uang adalah menjaga uangnya agar tidak hilang. Benar gak Bos?
 `halaman masih dalam pengembangan dan perbaikan`
+<div align="center">
+    <a class="text-blue" href="https://metabrani.github.io">MetaBrani</a> |
+	<a class="text-blue" href="https://primal.net/evo">Primal</a> |
+        <a class="text-blue" href="https://xe.com/">Cureency Exchange</a> |
+	<a class="text-blue" href="https://t.me/pasaruang">Telegram</a> |
+	<a class="text-blue" href="https://api.whatsapp.com/send?phone=6282264083228">WhatsApp</a> |
+</div>
