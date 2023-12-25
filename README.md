@@ -5,7 +5,8 @@
 	<a class="text-blue" href="https://x.com/getbos">x</a> |
         <a class="text-blue" href="https://xe.com/">Cureency Exchange</a> |
 	<a class="text-blue" href="https://t.me/bosbroker">Telegram</a> |
-	<a class="text-blue" href="https://api.whatsapp.com/send?phone=628999587888">WhatsApp</a>
+	<a class="text-blue" href="https://api.whatsapp.com/send?phone=628999587888">WhatsApp</a> |
+	<a class="text-blue" href="https://bitinfocharts.com/bitcoin/address/1EZjeVjTZZNz5P9p4Qe9QxybCw2znxFB6B">Bitinfo</a>
 </div>
 
 ```
