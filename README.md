@@ -14,9 +14,9 @@
 ```
 Menskalakan perdagangan Anda terdengar menarik, 
 
-tetapi kebanyakan orang melakukan kesalahan.
+tetapi kebanyakan orang belum melakukan.
 
-Inilah cara saya dapat menskalakan:
+Inilah cara saya menskalakan:
 
 ### Peningkatan Bertahap:
 
@@ -24,13 +24,21 @@ Jangan melompat dari $1 ke $10 sekaligus.
 
 Tingkatkan ukuran perdagangan Anda secara bertahap.
 
-Peningkatan kecil dan konsisten akan membantu mengelola risiko.
+Peningkatan kecil dan konsisten akan membantu mengelola peluang dan risiko.
 
-### Menjaga Rasio Risiko:
+### Menjaga Rasio Peluang Dan Risiko:
 
 Saat Anda meningkatkan ukuran perdagangan Anda, pertahankan persentase risiko Anda tetap konstan.
 
-Jika Anda mengambil risiko 1% per perdagangan pada akun $100, ambil risiko 1% yang sama ketika akun Anda tumbuh menjadi $1000.
+Jika Anda mengambil peluang dan risiko 1% per perdagangan pada akun $100, ambil risiko 1% yang sama ketika akun Anda tumbuh menjadi $1000.
+
+Jika Anda mengambil peluang dan risiko 10% per perdagangan pada akun $20, ambil risiko 10% yang sama ketika akun Anda tumbuh menjadi $50.
+
+Saya pernah gagal ketika ekuitas $19.08 menjadi $70 tetapi tidak menggunakan rasio peluang dan risiko seperti semula.
+
+Mengalami kejadian rugi yang drastis di sebabkan emosi yang takut kehilangan jumlah yang lebih besar dari biasanya.
+
+Sehingga logika terasa tertutup tanpa sadar ketika emosi mendominasi untuk mengambil keputusan.
 
 ### Laba di Investasi Kembali:
 
@@ -58,7 +66,7 @@ Pastikan Anda siap secara mental untuk menangani tekanan yang meningkat.
 
 ## Dengan melakukan penskalaan secara hati-hati dan cerdas, Anda dapat meningkatkan pendapatan perdagangan sambil mengendalikan risiko.
 
-### Ingatlah selalu bahwa keuntungan yang lebih tinggi biasanya disertai dengan risiko yang lebih tinggi.
+### Ingatlah selalu bahwa keuntungan yang lebih tinggi biasanya disertai dengan peluang dan risiko yang lebih tinggi.
 
 Orang pintar tidak akan berhasil.
 
