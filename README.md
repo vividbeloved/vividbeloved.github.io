@@ -1,4 +1,4 @@
-# Gerakan ekonomi trading Bitcoin orang sabar
+# Gerakan ekonomi trading Bitcoin other stuff
 <h1 align="center">💙GetBos💙</h1>
 <div align="center">
     <a class="text-blue" href="https://mempool.space/address/1EZjeVjTZZNz5P9p4Qe9QxybCw2znxFB6B">Bitcoin</a> |
