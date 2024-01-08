@@ -4,13 +4,14 @@
     <a class="text-blue" href="https://mempool.space/address/1EZjeVjTZZNz5P9p4Qe9QxybCw2znxFB6B">Bitcoin</a> |
 	<a class="text-blue" href="https://x.com/getbos">x</a> |
         <a class="text-blue" href="https://xe.com/">Cureency Exchange</a> |
-	<a class="text-blue" href="https://t.me/bosbroker">Telegram</a> |
+	<a class="text-blue" href="https://t.me/getboz">Telegram</a> |
 	<a class="text-blue" href="https://api.whatsapp.com/send?phone=628999587888">WhatsApp</a> |
-	<a class="text-blue" href="https://bitinfocharts.com/bitcoin/address/1EZjeVjTZZNz5P9p4Qe9QxybCw2znxFB6B">Bitinfo</a>
+	<a class="text-blue" href="https://bitinfocharts.com/bitcoin/address/1EZjeVjTZZNz5P9p4Qe9QxybCw2znxFB6B">Bitinfo</a> |
+	<a class="text-blue" href="https://lnmarkets.com/en">LNmarket</a>
 </div>
 
 ```
-	Setelah Anda menghasilkan $1 sehari, langkah selanjutnya adalah mendapatkan $10 sehari, lalu $100 sehari.
+ Setelah Anda berusaha menghasilkan $1 sehari, langkah selanjutnya adalah mendapatkan $10 sehari, lalu $100 sehari.
 ```
 Menskalakan perdagangan Anda terdengar menarik, 
 
@@ -36,7 +37,7 @@ Jika Anda mengambil peluang dan risiko 10% per perdagangan pada akun $20, ambil 
 
 Saya pernah gagal ketika ekuitas $19.08 menjadi $70 tetapi tidak menggunakan rasio peluang dan risiko seperti semula.
 
-Mengalami kejadian rugi yang drastis di sebabkan emosi yang takut kehilangan jumlah yang lebih besar dari biasanya.
+Mengalami kejadian rugi yang drastis disebabkan emosi yang takut kehilangan jumlah yang lebih besar dari biasanya.
 
 Sehingga logika terasa tertutup tanpa sadar ketika emosi mendominasi untuk mengambil keputusan.
 
