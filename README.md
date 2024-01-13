@@ -126,9 +126,13 @@ Evaluasi volume order
 
 ## Tujuan utama dan terpenting seorang pedagang di pasar uang adalah menjaga uangnya agar tidak hilang. Benar gak Bos?
 
-| Level | Modal | Target | Total |
-| ----- | ----- | ------ | ----- |
-| A     | B     | c      | d     |
+### Tabel ilustrasi pertumbuhan modal jika perbulan tumbuh 100%
+
+| Ekuitas   | Target   | Total      | Bulan         |
+| --------- | -------- | ---------- | ------------- |
+| $655,360  | $655,360 | $1,310,720 | Maret 2025    |
+| $327,680  | $327,680 | $655,360   | Februari 2025 |
+| $163,840  | $163,840 | $327,680   | Januari 2025  |
 
 `halaman masih dalam pengembangan dan perbaikan`
 <div align="center">
