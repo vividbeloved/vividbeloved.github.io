@@ -12,27 +12,36 @@
 </div>
 
 ```
- Setelah Anda berusaha menghasilkan $1 sehari, langkah selanjutnya adalah mendapatkan $10 sehari, lalu $100 sehari.
+                                       GetBos-Generate Economy Trade Bitcoin and Other Stuff
+                                      Hasilkan Ekonomi Perdagangan Bitcoin dan Barang Lainnya
 ```
-Menskalakan perdagangan Anda terdengar menarik, 
+Hasilkan ekonomi perdagangan
 
-tetapi kebanyakan orang belum melakukan.
+Kekayaan seseorang atau negara 
 
-Inilah cara saya menskalakan:
+Dibangun dengan cara perdagangan
+
+Tetapi kebanyakan orang belum melakukan
+
+Inilah cara kami memulai membangun kekayaan 
+
+Dimulai dengan satu kata **GETBOS** (Generate Economy Trade Bitcoin and Other Stuff)  
 
 ### Peningkatan Bertahap:
+
+Cara mendapat keuntungan dalam perdagangan.
 
 Jangan melompat dari $1 ke $10 sekaligus.
 
 Tingkatkan ukuran perdagangan Anda secara bertahap.
 
-Peningkatan kecil dan konsisten akan membantu mengelola peluang dan risiko.
+Peningkatan kecil dan konsisten akan membantu membuat peluang dan mengelola risiko.
 
 ### Menjaga Rasio Peluang Dan Risiko:
 
 Saat Anda meningkatkan ukuran perdagangan Anda, pertahankan persentase risiko Anda tetap konstan.
 
-Jika Anda mengambil peluang dan risiko 1% per perdagangan pada akun $100, ambil risiko 1% yang sama ketika akun Anda tumbuh menjadi $1000.
+Jika Anda mengambil peluang dan risiko 1% per perdagangan pada akun $100, ambil risiko 1% yang sama ketika akun/aset Anda tumbuh menjadi $1000.
 
 Jika Anda mengambil peluang dan risiko 10% per perdagangan pada akun $20, ambil risiko 10% yang sama ketika akun Anda tumbuh menjadi $50.
 
@@ -40,7 +49,7 @@ Saya pernah gagal ketika ekuitas $19.08 menjadi $70 tetapi tidak menggunakan ras
 
 Mengalami kejadian rugi yang drastis disebabkan emosi yang takut kehilangan jumlah yang lebih besar dari biasanya.
 
-Sehingga logika terasa tertutup tanpa sadar ketika emosi mendominasi untuk mengambil keputusan.
+Sehingga logika terasa terhambat tanpa sadar ketika emosi mendominasi untuk mengambil keputusan.
 
 ### Laba di Investasi Kembali:
 
@@ -52,7 +61,7 @@ Hal ini memungkinkan pertumbuhan gabungan menguntungkan Anda tanpa menyuntikkan 
 
 Pastikan strategi Anda berhasil pada volume yang lebih tinggi.
 
-Beberapa strategi yang berhasil dengan ukuran kecil mungkin tidak dapat diukur karena masalah slippage atau likuiditas.
+Beberapa strategi yang berhasil dengan ukuran kecil mungkin tidak dapat diukur karena masalah slippage atau likuiditas pasar.
 
 ### Pantau Kinerja:
 
@@ -106,9 +115,13 @@ Saya telah berhenti mencoba menemukan kembali roda setiap dua minggu sekali… d
 ```
 Rencana perdagangan Anda adalah panduan Anda
 
-Disiplin adalah teman Anda
+Disiplin adalah teman baik Anda
 
-Pasar adalah guru Anda
+Pasar adalah guru dan majikan Anda
+
+Lihat ukur cuan ulangi
+
+Evaluasi volume order
 ```
 
 ## Tujuan utama dan terpenting seorang pedagang di pasar uang adalah menjaga uangnya agar tidak hilang. Benar gak Bos?
