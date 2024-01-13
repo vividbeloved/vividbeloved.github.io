@@ -125,6 +125,11 @@ Evaluasi volume order
 ```
 
 ## Tujuan utama dan terpenting seorang pedagang di pasar uang adalah menjaga uangnya agar tidak hilang. Benar gak Bos?
+
+| Level | Modal | Target | Total |
+| ----- | ----- | ------ | ----- |
+| A     | B     | c      | d     |
+
 `halaman masih dalam pengembangan dan perbaikan`
 <div align="center">
     <a class="text-blue" href="https://metabrani.github.io">MetaBrani</a> |
