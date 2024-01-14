@@ -25,7 +25,7 @@ Tetapi kebanyakan orang belum melakukan
 
 Inilah cara kami memulai membangun kekayaan 
 
-Dimulai dengan satu kata [**GETBOS**](https://getbos.github.io) (Generate Economy Trade Bitcoin and Other Stuff)  
+Dimulai dengan satu kata [**GetBos**](https://getbos.github.io) (Generate Economy Trade Bitcoin and Other Stuff)  
 
 ### Peningkatan Bertahap:
 
