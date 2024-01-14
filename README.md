@@ -2,7 +2,6 @@
 <h1 align="center">💙GetBos💙</h1>
 <div align="center">
     <a class="text-blue" href="https://mempool.space/address/1EZjeVjTZZNz5P9p4Qe9QxybCw2znxFB6B">Bitcoin</a> |
-	<a class="text-blue" href="https://x.com/getbos">x</a> |
         <a class="text-blue" href="https://xe.com/">Cureency Exchange</a> |
 	<a class="text-blue" href="https://t.me/getboz">Telegram</a> |
 	<a class="text-blue" href="https://api.whatsapp.com/send?phone=628999587888">WhatsApp</a> |
@@ -15,7 +14,8 @@
                                          GetBos-Gate Economy Trade Bitcoin and Other Stuff
                                       Gerbang Ekonomi Perdagangkan Bitcoin dan Barang Lainnya
 ```
-![deprecated](https://img.shields.io/badge/Pengingat-8A2BE2) ![HaloBos](https://awesome.re/badge.svg)
+![deprecated](https://img.shields.io/badge/Pengingat-8A2BE2) ![HaloBos](https://awesome.re/badge.svg) ![](https://img.shields.io/github/followers/getbos) ![](https://img.shields.io/twitter/follow/getbos) ![](https://img.shields.io/keybase/btc/gainbrat) ![](https://img.shields.io/github/stars/getbos/getbos.github.io)
+
 
 Kekayaan seseorang atau negara 
 
