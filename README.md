@@ -12,8 +12,8 @@
 </div>
 
 ```
-                         GetBos-Gate Economy Trade Bitcoin and Other Stuff
-                      Gerbang Ekonomi Perdagangkan Bitcoin dan Barang Lainnya
+                                         GetBos-Gate Economy Trade Bitcoin and Other Stuff
+                                      Gerbang Ekonomi Perdagangkan Bitcoin dan Barang Lainnya
 ```
 ![deprecated](https://img.shields.io/badge/Pengingat-8A2BE2)
 
@@ -25,7 +25,7 @@ Namun, banyak orang belum melakukan
 
 Inilah cara kami memulai membangun kekayaan 
 
-Dimulai dengan satu kata [**GetBos**](https://getbos.github.io) (Gate Economy Trade Bitcoin and Other Stuff)  
+Dimulai dengan satu kata ![deprecated](https://img.shields.io/badge/GetBos-20B2AA?style=for-the-badge) Gate Economy Trade Bitcoin and Other Stuff
 
 ### Peningkatan Bertahap:
 
