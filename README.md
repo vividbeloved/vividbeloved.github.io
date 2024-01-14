@@ -15,7 +15,7 @@
                                          GetBos-Gate Economy Trade Bitcoin and Other Stuff
                                       Gerbang Ekonomi Perdagangkan Bitcoin dan Barang Lainnya
 ```
-![deprecated](https://img.shields.io/badge/Pengingat-8A2BE2)
+![deprecated](https://img.shields.io/badge/Pengingat-8A2BE2) ![HaloBos](https://awesome.re/badge.svg)
 
 Kekayaan seseorang atau negara 
 
