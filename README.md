@@ -1,4 +1,4 @@
-# [GetBos - Generate Economy Trade Bitcoin and Other Stuff](https://getbos.github.io)
+# [GetBos - Gate Economy Trade Bitcoin and Other Stuff](https://getbos.github.io)
 <h1 align="center">💙GetBos💙</h1>
 <div align="center">
     <a class="text-blue" href="https://mempool.space/address/1EZjeVjTZZNz5P9p4Qe9QxybCw2znxFB6B">Bitcoin</a> |
@@ -12,20 +12,18 @@
 </div>
 
 ```
-                                       GetBos-Generate Economy Trade Bitcoin and Other Stuff
-                                      Hasilkan Ekonomi Perdagangan Bitcoin dan Barang Lainnya
+                         GetBos-Gate Economy Trade Bitcoin and Other Stuff
+                      Gerbang Ekonomi Perdagangkan Bitcoin dan Barang Lainnya
 ```
-Hasilkan ekonomi perdagangan
-
 Kekayaan seseorang atau negara 
 
-Dibangun dengan cara perdagangan
+Dimulai dari gerbang perdagangan
 
-Tetapi kebanyakan orang belum melakukan
+Namun, banyak orang belum melakukan
 
 Inilah cara kami memulai membangun kekayaan 
 
-Dimulai dengan satu kata [**GetBos**](https://getbos.github.io) (Generate Economy Trade Bitcoin and Other Stuff)  
+Dimulai dengan satu kata [**GetBos**](https://getbos.github.io) (Gate Economy Trade Bitcoin and Other Stuff)  
 
 ### Peningkatan Bertahap:
 
@@ -126,7 +124,7 @@ Evaluasi volume order
 
 ## Tujuan utama dan terpenting seorang pedagang di pasar uang adalah menjaga uangnya agar tidak hilang. Benar gak Bos?
 
-### Tabel ilustrasi pertumbuhan modal jika perbulan tumbuh 100%
+### Tabel ilustrasi, jika pertumbuhan modal perbulan tumbuh 100%
 
 | Ekuitas   | Target   | Total      | Bulan          |
 | --------- | -------- | ---------- | -------------- |
@@ -148,7 +146,8 @@ Evaluasi volume order
 | $20       | $20      | $40        | Februari 2024  |
 | $10       | $10      | $20        | Januari 2024   |
 
-`halaman masih dalam pengembangan dan perbaikan`
+`halaman masih dalam pengembangan dan perbaikan-GetBos`
+- ![deprecated](https://img.shields.io/badge/status-perjalanan-green.svg?style=flat-square)
 <div align="center">
     <a class="text-blue" href="https://metabrani.github.io">MetaBrani</a> |
 	<a class="text-blue" href="https://primal.net/evo">Primal</a> |
