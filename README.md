@@ -149,7 +149,7 @@ Evaluasi volume order
 | $10       | $10      | $20        | Januari 2024   |
 
 `halaman masih dalam pengembangan dan perbaikan-GetBos`
-- ![deprecated](https://img.shields.io/badge/status-perjalanan-green.svg?style=flat-square)
+- ![deprecated](https://img.shields.io/badge/status-perjalanan-lime.svg?style=flat-square)
 - ![](https://img.shields.io/keybase/btc/gainbrat)
 - ![](https://img.shields.io/twitter/follow/getbos)
 <div align="center">
