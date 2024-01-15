@@ -11,8 +11,8 @@
 </div>
 
 ```
-                                         GetBos-Gate Economy Trade Bitcoin and Other Stuff
-                                      Gerbang Ekonomi Perdagangkan Bitcoin dan Barang Lainnya
+                                            Gate Economy Trade Bitcoin and Other Stuff
+                                      Gerbang Ekonomi Perdagangan Bitcoin dan Barang Lainnya
 ```
 ![deprecated](https://img.shields.io/badge/Pengingat-8A2BE2) ![HaloBos](https://awesome.re/badge.svg) ![](https://img.shields.io/github/followers/getbos) ![](https://img.shields.io/github/stars/getbos/getbos.github.io)
 
