@@ -14,7 +14,7 @@
                                          GetBos-Gate Economy Trade Bitcoin and Other Stuff
                                       Gerbang Ekonomi Perdagangkan Bitcoin dan Barang Lainnya
 ```
-![deprecated](https://img.shields.io/badge/Pengingat-8A2BE2) ![HaloBos](https://awesome.re/badge.svg) ![](https://img.shields.io/github/followers/getbos) ![](https://img.shields.io/twitter/follow/getbos) ![](https://img.shields.io/keybase/btc/gainbrat) ![](https://img.shields.io/github/stars/getbos/getbos.github.io)
+![deprecated](https://img.shields.io/badge/Pengingat-8A2BE2) ![HaloBos](https://awesome.re/badge.svg) ![](https://img.shields.io/github/followers/getbos) ![](https://img.shields.io/github/stars/getbos/getbos.github.io)
 
 
 Kekayaan seseorang atau negara 
@@ -150,6 +150,8 @@ Evaluasi volume order
 
 `halaman masih dalam pengembangan dan perbaikan-GetBos`
 - ![deprecated](https://img.shields.io/badge/status-perjalanan-green.svg?style=flat-square)
+- ![](https://img.shields.io/keybase/btc/gainbrat)
+- ![](https://img.shields.io/twitter/follow/getbos)
 <div align="center">
     <a class="text-blue" href="https://metabrani.github.io">MetaBrani</a> |
 	<a class="text-blue" href="https://primal.net/evo">Primal</a> |
