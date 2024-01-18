@@ -14,6 +14,8 @@
                                             Gate Economy Trade Bitcoin and Other Stuff
                                       Gerbang Ekonomi Perdagangan Bitcoin dan Barang Lainnya
 ```
+<img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fgetbos.github.io">
+
 ![deprecated](https://img.shields.io/badge/Pengingat-8A2BE2) ![luar biasa](https://awesome.re/badge.svg) ![](https://img.shields.io/github/followers/getbos) ![](https://img.shields.io/github/stars/getbos/getbos.github.io) ![](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge)
 ![](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge)
 
