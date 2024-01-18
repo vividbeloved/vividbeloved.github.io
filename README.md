@@ -1,13 +1,14 @@
 # [GetBos - Gate Economy Trade Bitcoin and Other Stuff](https://getbos.github.io)
 <h1 align="center">💙GetBos💙</h1>
-  <div align='center'>
+  
+<div align='center'>
 
   [![Discord][discord-shield]][discord-url]
 
   [![Telegram][telegram-shield]][telegram-url]
   [![X][x-shield]][x-url]
-
   </div>
+
 <div align="center">
     <a class="text-blue" href="https://mempool.space/address/1EZjeVjTZZNz5P9p4Qe9QxybCw2znxFB6B">Bitcoin</a> |
         <a class="text-blue" href="https://xe.com/">Cureency Exchange</a> |
