@@ -19,6 +19,7 @@
 ![deprecated](https://img.shields.io/badge/Pengingat-8A2BE2) ![luar biasa](https://awesome.re/badge.svg) ![](https://img.shields.io/github/followers/getbos) ![](https://img.shields.io/github/stars/getbos/getbos.github.io) ![](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge)
 ![](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge)
 
+<img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/GetBos">
 
 Kekayaan seseorang atau negara 
 
@@ -154,7 +155,6 @@ Evaluasi volume order
 `Situs masih dalam pengembangan dan perbaikan. Situs ini bersifat eksperimental. Silakan gunakan dengan risiko Anda sendiri — GetBos`
 - ![deprecated](https://img.shields.io/badge/status-berjalan-lime.svg?style=flat-square)
 - ![](https://img.shields.io/keybase/btc/gainbrat)
-- <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/GetBos">
 
 <div align="center">
     <a class="text-blue" href="https://metabrani.github.io">MetaBrani</a> |
