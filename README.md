@@ -2,10 +2,7 @@
 <h1 align="center">💙GetBos💙</h1>
   
 <div align='center'>
-[![Discord][discord-shield]][discord-url]
-[![Telegram][telegram-shield]][telegram-url]
-  [![X][x-shield]][x-url]
-  </div>
+![deprecated](https://img.shields.io/badge/Pengingat-8A2BE2) ![HaloBos](https://awesome.re/badge.svg) ![](https://img.shields.io/github/followers/getbos) ![](https://img.shields.io/github/stars/getbos/getbos.github.io) </div>
 
 <div align="center">
     <a class="text-blue" href="https://mempool.space/address/1EZjeVjTZZNz5P9p4Qe9QxybCw2znxFB6B">Bitcoin</a> |
