@@ -166,7 +166,6 @@ Evaluasi volume order
         <img src="https://img.shields.io/twitter/follow/getbos?style=social&logo=twitter"
             alt="follow on Twitter"></a>
 	<a href="https://www.facebook.com/metabrani" ><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-![](https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=for-the-badge)(https://twitter.com/getbos)
 
 <a href="https://twitter.com/getbos"><img src"https://img.shields.io/twitter/follow/getbos)
  
