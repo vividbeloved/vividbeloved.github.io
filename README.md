@@ -161,11 +161,11 @@ Evaluasi volume order
 	<a class="text-blue" href="https://api.whatsapp.com/send?phone=6282264083228">WhatsApp</a> |
 	<a class="text-blue" href="https://getalby.com/getbos">Alby</a>
 </div>
-<li><div align="center">
+
+<li>
+<div align="center">
 <a href="https://twitter.com/intent/follow?screen_name=getbos">
         <img src="https://img.shields.io/twitter/follow/getbos?style=social&logo=twitter"
             alt="follow on Twitter"></a>
 	<a href="https://www.facebook.com/metabrani" ><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-
-<a href="https://twitter.com/getbos"><img src="https://img.shields.io/twitter/follow/getbos</a>
  
