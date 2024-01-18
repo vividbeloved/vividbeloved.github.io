@@ -154,7 +154,8 @@ Evaluasi volume order
 `Situs masih dalam pengembangan dan perbaikan. Situs ini bersifat eksperimental. Silakan gunakan dengan risiko Anda sendiri — GetBos`
 - ![deprecated](https://img.shields.io/badge/status-berjalan-lime.svg?style=flat-square)
 - ![](https://img.shields.io/keybase/btc/gainbrat)
-<img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/GetBos">
+- <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/GetBos">
+
 <div align="center">
     <a class="text-blue" href="https://metabrani.github.io">MetaBrani</a> |
 	<a class="text-blue" href="https://primal.net/evo">Primal</a> |
