@@ -1,14 +1,6 @@
 # [GetBos - Gate Economy Trade Bitcoin and Other Stuff](https://getbos.github.io)
 <h1 align="center">💙GetBos💙</h1>
   
-  <div align='center'>
-
-![deprecated](https://img.shields.io/badge/Pengingat-8A2BE2) ![HaloBos](https://awesome.re/badge.svg) ![](https://img.shields.io/github/followers/getbos) ![](https://img.shields.io/github/stars/getbos/getbos.github.io) ![](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge)
-
-</div>
-
-  <div align='center'>
-
 [discord-shield]: https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge
 [discord-url]: https://discord.gg/R6qukEFgh
 [telegram-shield]: https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge
@@ -31,7 +23,8 @@
                                       Gerbang Ekonomi Perdagangan Bitcoin dan Barang Lainnya
 ```
 ![deprecated](https://img.shields.io/badge/Pengingat-8A2BE2) ![luar biasa](https://awesome.re/badge.svg) ![](https://img.shields.io/github/followers/getbos) ![](https://img.shields.io/github/stars/getbos/getbos.github.io) ![](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge)
-![](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge) ![](https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=for-the-badge)
+![](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge) ![](https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=for-the-badge)(https://twitter.com/getbos)
+
 
 Kekayaan seseorang atau negara 
 
