@@ -14,9 +14,7 @@
 [telegram-shield]: https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge
 [telegram-url]: https://t.me/geyserfund
 [x-shield]: https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=for-the-badge
-[x-url]: https://twitter.com/geyserfund
-
-  </div>
+[x-url]: https://twitter.com/geyserfu
 
 <div align="center">
     <a class="text-blue" href="https://mempool.space/address/1EZjeVjTZZNz5P9p4Qe9QxybCw2znxFB6B">Bitcoin</a> |
@@ -33,7 +31,7 @@
                                       Gerbang Ekonomi Perdagangan Bitcoin dan Barang Lainnya
 ```
 ![deprecated](https://img.shields.io/badge/Pengingat-8A2BE2) ![luar biasa](https://awesome.re/badge.svg) ![](https://img.shields.io/github/followers/getbos) ![](https://img.shields.io/github/stars/getbos/getbos.github.io) ![](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge)
-![](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge)
+![](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge) ![](https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=for-the-badge)
 
 Kekayaan seseorang atau negara 
 
