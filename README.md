@@ -3,7 +3,7 @@
   
 
 <div align="center">
-    <a class="text-blue" href="https://mempool.space/address/1EZjeVjTZZNz5P9p4Qe9QxybCw2znxFB6B">Bitcoin</a> | <a class=![deprecated](https://img.shields.io/badge/Pengingat-8A2BE2)=</a> |
+    <a class="text-blue" href="https://mempool.space/address/1EZjeVjTZZNz5P9p4Qe9QxybCw2znxFB6B">Bitcoin</a> |
 	<a class="text-blue" href="https://t.me/getboz">Telegram</a> |
 	<a class="text-blue" href="https://api.whatsapp.com/send?phone=628999587888">WhatsApp</a> |
 	<a class="text-blue" href="https://bitinfocharts.com/bitcoin/address/1EZjeVjTZZNz5P9p4Qe9QxybCw2znxFB6B">Bitinfo</a> |
