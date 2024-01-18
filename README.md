@@ -2,10 +2,8 @@
 <h1 align="center">💙GetBos💙</h1>
   
 <div align='center'>
-
-  [![Discord][discord-shield]][discord-url]
-
-  [![Telegram][telegram-shield]][telegram-url]
+[![Discord][discord-shield]][discord-url]
+[![Telegram][telegram-shield]][telegram-url]
   [![X][x-shield]][x-url]
   </div>
 
