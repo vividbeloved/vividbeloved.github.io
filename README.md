@@ -173,3 +173,9 @@ Evaluasi volume order
             alt="follow on Twitter"></a>
 	<a href="https://www.facebook.com/metabrani" ><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
  
+[discord-shield]: https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge
+[discord-url]: https://discord.gg/R6qukEFgh
+[telegram-shield]: https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge
+[telegram-url]: https://t.me/geyserfund
+[x-shield]: https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=for-the-badge
+[x-url]: https://twitter.com/geyserfund
