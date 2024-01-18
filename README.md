@@ -9,7 +9,7 @@
 
 <div align="center">
     <a class="text-blue" href="https://mempool.space/address/1EZjeVjTZZNz5P9p4Qe9QxybCw2znxFB6B">Bitcoin</a> |
-        <a class="text-blue" href="https://xe.com/">Cureency Exchange</a> |
+        <a class=![deprecated](https://img.shields.io/badge/Pengingat-8A2BE2)=</a> |
 	<a class="text-blue" href="https://t.me/getboz">Telegram</a> |
 	<a class="text-blue" href="https://api.whatsapp.com/send?phone=628999587888">WhatsApp</a> |
 	<a class="text-blue" href="https://bitinfocharts.com/bitcoin/address/1EZjeVjTZZNz5P9p4Qe9QxybCw2znxFB6B">Bitinfo</a> |
@@ -173,9 +173,3 @@ Evaluasi volume order
             alt="follow on Twitter"></a>
 	<a href="https://www.facebook.com/metabrani" ><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
  
-[discord-shield]: https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge
-[discord-url]: https://discord.gg/R6qukEFgh
-[telegram-shield]: https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge
-[telegram-url]: https://t.me/geyserfund
-[x-shield]: https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=for-the-badge
-[x-url]: https://twitter.com/geyserfund
