@@ -16,7 +16,7 @@
                                       Gerbang Ekonomi Perdagangan Bitcoin dan Barang Lainnya
 ```
 ![deprecated](https://img.shields.io/badge/Pengingat-8A2BE2) ![luar biasa](https://awesome.re/badge.svg) ![](https://img.shields.io/github/followers/getbos) ![](https://img.shields.io/github/stars/getbos/getbos.github.io) ![](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge)
-![](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge) ![](https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=for-the-badge)(https://twitter.com/getbos)
+![](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge)
 
 
 Kekayaan seseorang atau negara 
@@ -153,7 +153,6 @@ Evaluasi volume order
 `Situs masih dalam pengembangan dan perbaikan. Situs ini bersifat eksperimental. Silakan gunakan dengan risiko Anda sendiri — GetBos`
 - ![deprecated](https://img.shields.io/badge/status-berjalan-lime.svg?style=flat-square)
 - ![](https://img.shields.io/keybase/btc/gainbrat)
-- ![](https://img.shields.io/twitter/follow/getbos)
 <div align="center">
     <a class="text-blue" href="https://metabrani.github.io">MetaBrani</a> |
 	<a class="text-blue" href="https://primal.net/evo">Primal</a> |
@@ -167,4 +166,7 @@ Evaluasi volume order
         <img src="https://img.shields.io/twitter/follow/getbos?style=social&logo=twitter"
             alt="follow on Twitter"></a>
 	<a href="https://www.facebook.com/metabrani" ><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+![](https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=for-the-badge)(https://twitter.com/getbos)
+
+<a href="https://twitter.com/getbos"><img src"https://img.shields.io/twitter/follow/getbos)
  
