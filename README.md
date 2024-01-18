@@ -3,7 +3,6 @@
   
 <div align="center">
     <a class="text-blue" href="https://mempool.space/address/1EZjeVjTZZNz5P9p4Qe9QxybCw2znxFB6B">Bitcoin</a> | 
-<img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/shields_io">
     	<a class="text-blue" href="https://t.me/getboz">Telegram</a> |
     	<a class="text-blue" href="https://api.whatsapp.com/send?phone=628999587888">WhatsApp</a> |
 	   <a class="text-blue" href="https://bitinfocharts.com/bitcoin/address/1EZjeVjTZZNz5P9p4Qe9QxybCw2znxFB6B">Bitinfo</a> |
@@ -155,6 +154,7 @@ Evaluasi volume order
 `Situs masih dalam pengembangan dan perbaikan. Situs ini bersifat eksperimental. Silakan gunakan dengan risiko Anda sendiri — GetBos`
 - ![deprecated](https://img.shields.io/badge/status-berjalan-lime.svg?style=flat-square)
 - ![](https://img.shields.io/keybase/btc/gainbrat)
+<img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/GetBos">
 <div align="center">
     <a class="text-blue" href="https://metabrani.github.io">MetaBrani</a> |
 	<a class="text-blue" href="https://primal.net/evo">Primal</a> |
