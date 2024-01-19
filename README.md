@@ -2,9 +2,9 @@
 <h1 align="center">💙GetBos💙</h1>
   
 <div align="center">
-    <a class="text-blue" href="https://mempool.space/address/1EZjeVjTZZNz5P9p4Qe9QxybCw2znxFB6B">Bitcoin</a> | 
+    <a class="text-blue" href="https://bitcoin.org/id/">Bitcoin</a> | 
     	<a class="text-blue" href="https://t.me/getboz">Telegram</a> |
-    	<a class="text-blue" href="https://api.whatsapp.com/send?phone=628999587888">WhatsApp</a> |
+    	<a class="text-lime" href="https://api.whatsapp.com/send?phone=628999587888">WhatsApp</a> |
 	   <a class="text-blue" href="https://bitinfocharts.com/bitcoin/address/1EZjeVjTZZNz5P9p4Qe9QxybCw2znxFB6B">Bitinfo</a> |
 	   <a class="text-blue" href="https://lnmarkets.com/en">LNmarket</a> |
 	   <a class="text-blue" href="https://mempool.space/tools/calculator">Mempool</a>
