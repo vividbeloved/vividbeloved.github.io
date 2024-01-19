@@ -119,13 +119,13 @@ Saya telah berhenti mencoba menemukan kembali roda setiap dua minggu sekali… d
 ```
 Rencana perdagangan Anda adalah panduan Anda
 
-Disiplin adalah teman baik Anda
+Disiplin adalah guru Anda
 
-Pasar adalah guru dan majikan Anda
+Pasar adalah majikan Anda
 
 Lihat ukur cuan ulangi
 
-Evaluasi volume order
+Evaluasi volume objek
 ```
 
 ## Tujuan utama dan terpenting seorang pedagang di pasar uang adalah menjaga uangnya agar tidak hilang. Benar gak Bos?
