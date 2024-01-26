@@ -10,6 +10,18 @@
 	   <a class="text-blue" href="https://lnmarkets.com/en">LNmarket</a> |
 	   <a class="text-blue" href="https://mempool.space/tools/calculator">Mempool</a>
 </div>
+<section class="hero-heading-left" style="padding-top: 50px;">
+    <div class="container-2">
+      <div class="hero-wrapper" style="padding-bottom: 0px;">
+        <div class="hero-split">
+          <p class="paragraph" style="font-size: 24px;">Google Research</p>
+          <h1 class="heading-5">GetBos</h1>
+          <p class="margin-bottom-24px">A Space-Time Diffusion Model for Video Generation</p>
+          <a href="https://arxiv.org/abs/2401.12945" class="button-primary w-button">Read Paper</a>
+        </div>
+      </div>
+    </div>
+  </section>
 
 ```
                                             Gate Economy Trade Bitcoin and Other Stuff
