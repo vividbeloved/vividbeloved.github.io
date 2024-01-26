@@ -1,14 +1,5 @@
 # [GetBos - Gate Economy Trade Bitcoin and Other Stuff](https://getbos.github.io)
- <div align="center">
-  <nav role="navigation" class="nav-menu w-nav-menu">
-        <a href="#section_text_to_video" class="navitem w-nav-link">Text-to-Video</a>
-        <a href="#section_image_to_video" class="navitem w-nav-link">Image-to-Video</a>
-        <a href="#section_stylized_generation" class="navitem w-nav-link">Stylized Generation</a>
-        <a href="#section_video_stylization" class="navitem w-nav-link">Video Stylization</a>
-        <a href="#section_magic_animator" class="navitem w-nav-link">Cinemagraphs</a>
-        <a href="#section_inpainting" class="navitem w-nav-link">Inpainting</a>
-      </nav>
-	 </div>
+
 <h1 align="center">💙GetBos💙</h1>
   
 <div align="center">
