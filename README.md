@@ -12,8 +12,8 @@
     <div class="container-2">
       <div class="hero-wrapper" style="padding-bottom: 0px;">
         <div class="hero-split">
-          <p class="paragraph" style="font-size: 24px;">Evo Research</p>
-          <h1 class="heading-5">GetBos</h1>
+          <p class="paragraph" style="font-size: 24px;">GetBos Research</p>
+          <h1 class="heading-5">Hidup akan lebih bahagia, jika sama-sama kayanya</h1>
           <p class="margin-bottom-24px">A Space-Time Diffusion Model for Video Generation</p>
           <a href="https://arxiv.org/abs/2401.12945" class="button-primary w-button">Read Paper</a>
         </div>
@@ -147,24 +147,27 @@ Evaluasi volume objek
 | Ekuitas   | ![deprecated](https://img.shields.io/badge/Target-8A2BE2)   | Total      | Bulan          |
 | --------- | ----------------------------------------------------------- | ---------- | -------------- |
 | $655,360  | ![deprecated](https://img.shields.io/badge/$655,360-8A2BE2) | $1,310,720 | Mei 2025       |
-| $327,680  | $327,680 | $655,360   | April 2025     |
-| $163,840  | $163,840 | $327,680   | Maret 2025     |
-| $81,920   | $81,920  | $163,840   | Februari 2025  |
-| $40,960   | $40,960  | $81,920    | Januari 2025   |
-| $20,480   | $20,480  | $40,960    | Desember 2024  |
-| $10,240   | $10,240  | $20,480    | November 2024  |
-| $5,120    | $5,120   | $10,240    | Oktober 2024   |
-| $2,560    | $2,560   | $5,120     | September 2024 |
-| $1,280    | $1,280   | $2,560     | Agustus 2024   |
-| $640      | $640     | $1,280     | Juli 2024      |
-| $320      | $320     | $640       | Juni 2024      |
-| $160      | $160     | $320       | Mei 2024       |
-| $80       | $80      | $160       | April 2024     |
-| $40       | $40      | $80        | Maret 2024     |
-| $20       | $20      | $40        | Februari 2024  |
-| $10       | $10      | $20        | Januari 2024   |
+| $327,680  | ![deprecated](https://img.shields.io/badge/$327,680-8A2BE2) | $655,360   | April 2025     |
+| $163,840  | ![deprecated](https://img.shields.io/badge/$163,840-8A2BE2) | $327,680   | Maret 2025     |
+| $81,920   | ![deprecated](https://img.shields.io/badge/$81,920-8A2BE2)  | $163,840   | Februari 2025  |
+| $40,960   | ![deprecated](https://img.shields.io/badge/$40,960-8A2BE2)  | $81,920    | Januari 2025   |
+| $20,480   | ![deprecated](https://img.shields.io/badge/$20,480-8A2BE2)  | $40,960    | Desember 2024  |
+| $10,240   | ![deprecated](https://img.shields.io/badge/$10,240-8A2BE2)  | $20,480    | November 2024  |
+| $5,120    | ![deprecated](https://img.shields.io/badge/$5,120-8A2BE2)   | $10,240    | Oktober 2024   |
+| $2,560    | ![deprecated](https://img.shields.io/badge/$2,560-8A2BE2)   | $5,120     | September 2024 |
+| $1,280    | ![deprecated](https://img.shields.io/badge/$1,280-8A2BE2)   | $2,560     | Agustus 2024   |
+| $640      | ![deprecated](https://img.shields.io/badge/$640-8A2BE2)     | $1,280     | Juli 2024      |
+| $320      | ![deprecated](https://img.shields.io/badge/$320-8A2BE2)     | $640       | Juni 2024      |
+| $160      | ![deprecated](https://img.shields.io/badge/$160-8A2BE2)     | $320       | Mei 2024       |
+| $80       | ![deprecated](https://img.shields.io/badge/$80-8A2BE2)      | $160       | April 2024     |
+| $40       | ![deprecated](https://img.shields.io/badge/$40-8A2BE2)      | $80        | Maret 2024     |
+| $20       | ![deprecated](https://img.shields.io/badge/$20-8A2BE2)      | $40        | Februari 2024  |
+| ![deprecated](https://img.shields.io/badge/$10-2be23e)       | ![deprecated](https://img.shields.io/badge/$10-8A2BE2)      | ![deprecated](https://img.shields.io/badge/$20-3422E2)        | ![deprecated](https://img.shields.io/badge/Januari_2024-E22E2B)   |
 
-`Situs masih dalam pengembangan dan perbaikan. Situs ini bersifat eksperimental. Silakan gunakan dengan risiko Anda sendiri — GetBos`
+ ![deprecated](https://img.shields.io/badge/Situs_masih_dalam_pembangunan_dan_perbaikan.-2BE28A)  
+ ![deprecated](https://img.shields.io/badge/Situs_ini_bersifat_eksperimental.-8A2BE2)  
+ ![deprecated](https://img.shields.io/badge/Silahkan_menggunakan_dengan_risiko_Anda_sendiri.-E22E2B)
+ 
 - ![deprecated](https://img.shields.io/badge/status-berjalan-lime.svg?style=flat-square)
 - ![](https://img.shields.io/keybase/btc/gainbrat)
 
