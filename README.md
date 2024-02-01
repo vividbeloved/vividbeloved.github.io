@@ -1,6 +1,4 @@
 # [GetBos - Gate Economy Trade Bitcoin and Other Stuff](https://getbos.github.io)
-
-<h1 align="center">💙GetBos💙</h1>
   
 <div align="center">
     <a class="text-blue" href="https://bitcoin.org/id/">Bitcoin</a> | 
