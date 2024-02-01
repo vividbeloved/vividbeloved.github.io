@@ -12,7 +12,7 @@
     <div class="container-2">
       <div class="hero-wrapper" style="padding-bottom: 0px;">
         <div class="hero-split">
-          <p class="paragraph" style="font-size: 24px;">Google Research</p>
+          <p class="paragraph" style="font-size: 24px;">Evo Research</p>
           <h1 class="heading-5">GetBos</h1>
           <p class="margin-bottom-24px">A Space-Time Diffusion Model for Video Generation</p>
           <a href="https://arxiv.org/abs/2401.12945" class="button-primary w-button">Read Paper</a>
@@ -28,25 +28,26 @@
 <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fgetbos.github.io">
 
 ![deprecated](https://img.shields.io/badge/Pengingat-8A2BE2) ![luar biasa](https://awesome.re/badge.svg) ![](https://img.shields.io/github/followers/getbos) ![](https://img.shields.io/github/stars/getbos/getbos.github.io) ![](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge)
-![](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge)
 
-<img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/GetBos">
-
-Kekayaan seseorang atau negara 
+<img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/GetBos丰"> 
 
 Dimulai dari gerbang perdagangan
 
-Namun, banyak orang belum melakukan
+Kekayaan seseorang dan negara cepat terwujud
 
-Inilah cara kami memulai membangun kekayaan 
+Namun, saya pikir masih banyak orang yang belum melakukannya
 
-Dimulai dengan satu kata ![deprecated](https://img.shields.io/badge/GetBos-20B2AA?style=for-the-badge) Gate Economy Trade Bitcoin and Other Stuff
+Inilah cara kami memulai membangun kekayaan 丰
 
-### Peningkatan Bertahap:
+Dengan semboyan ![deprecated](https://img.shields.io/badge/EVO-8A2BE2) Excellence Vivid Opportunity
 
-Cara mendapat keuntungan dalam perdagangan.
+Kita mulai lagi dengan kata ![deprecated](https://img.shields.io/badge/GetBos-8A2BE2) Gate Economy Trade Bitcoin and Other Stuff
 
-Jangan melompat dari $1 ke $10 sekaligus.
+## Peningkatan Bertahap:
+
+Cara menumbuhkan keuntungan dalam perdagangan.
+
+Jangan tergesa-gesa ingin melompat dari $1 ke $10 sekaligus.
 
 Tingkatkan ukuran perdagangan Anda secara bertahap.
 
@@ -143,9 +144,9 @@ Evaluasi volume objek
 
 ### Tabel ilustrasi, jika pertumbuhan modal perbulan tumbuh 100%
 
-| Ekuitas   | Target   | Total      | Bulan          |
-| --------- | -------- | ---------- | -------------- |
-| $655,360  | $655,360 | $1,310,720 | Mei 2025       |
+| Ekuitas   | ![deprecated](https://img.shields.io/badge/Target-8A2BE2)   | Total      | Bulan          |
+| --------- | ----------------------------------------------------------- | ---------- | -------------- |
+| $655,360  | ![deprecated](https://img.shields.io/badge/$655,360-8A2BE2) | $1,310,720 | Mei 2025       |
 | $327,680  | $327,680 | $655,360   | April 2025     |
 | $163,840  | $163,840 | $327,680   | Maret 2025     |
 | $81,920   | $81,920  | $163,840   | Februari 2025  |
