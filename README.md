@@ -7,8 +7,8 @@
 	   <a class="text-blue" href="https://bitinfocharts.com/bitcoin/address/1EZjeVjTZZNz5P9p4Qe9QxybCw2znxFB6B">Bitinfo</a> |
 	   <a class="text-blue" href="https://lnmarkets.com/en">LNmarket</a> |
 	   <a class="text-blue" href="https://mempool.space/tools/calculator">Mempool</a>
-<a class=text-pink"href="
-https://mempool.space/tx/d248d2d06e4bece2afc225ed5a1427e0f7dc769c5d3df795c7e9b7f667eae6b3">Ordinals</a>
+<a class="text-pink"
+href="https://mempool.space/tx/d248d2d06e4bece2afc225ed5a1427e0f7dc769c5d3df795c7e9b7f667eae6b3">Ordinals</a>
 </div>
 <section class="hero-heading-left" style="padding-top: 50px;">
     <div class="container-2">
