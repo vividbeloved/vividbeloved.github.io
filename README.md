@@ -171,6 +171,7 @@ Pasar adalah majikan Anda
  
 - ![deprecated](https://img.shields.io/badge/status-berjalan-lime.svg?style=flat-square)
 - ![](https://img.shields.io/keybase/btc/gainbrat)
+- ![](https://img.shields.io/keybase/btc/getbos)
 
 <div align="center">
     <a class="text-blue" href="https://metabrani.github.io">MetaBrani</a> |
