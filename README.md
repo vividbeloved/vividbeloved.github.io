@@ -15,7 +15,7 @@ href="https://mempool.space/tx/d248d2d06e4bece2afc225ed5a1427e0f7dc769c5d3df795c
       <div class="hero-wrapper" style="padding-bottom: 0px;">
         <div class="hero-split">
           <p class="paragraph" style="font-size: 24px;">GetBos Research</p>
-          <h1 class="heading-5">Hidup akan lebih bahagia, jika sama-sama kayanya</h1>
+          <h1 class="heading-5">Hidup banyak bahagianya, jika sama-sama kayanya丰</h1>
           <p class="margin-bottom-24px">A Space-Time Diffusion Model for Video Generation</p>
           <a href="https://arxiv.org/abs/2401.12945" class="button-primary w-button">Read Paper</a>
         </div>
@@ -48,7 +48,7 @@ Kita mulai lagi dengan kata ![deprecated](https://img.shields.io/badge/GetBos-8A
 
 ## Peningkatan Bertahap:
 
-Cara menumbuhkan keuntungan dalam perdagangan.
+Teori cara menumbuhkan keuntungan dalam perdagangan.
 
 Jangan tergesa-gesa ingin melompat dari $1 ke $10 sekaligus.
 
