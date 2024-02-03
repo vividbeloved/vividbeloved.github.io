@@ -15,7 +15,7 @@ href="https://mempool.space/tx/d248d2d06e4bece2afc225ed5a1427e0f7dc769c5d3df795c
       <div class="hero-wrapper" style="padding-bottom: 0px;">
         <div class="hero-split">
           <p class="paragraph" style="font-size: 24px;">GetBos Research</p>
-          <h1 class="heading-5">Hidup banyak bahagianya, jika sama-sama kayanya丰</h1>
+          <h1 class="heading-5">Hidup banyak bahagianya, jika sama-sama kayanya 丰</h1>
           <p class="margin-bottom-24px">A Space-Time Diffusion Model for Video Generation</p>
           <a href="https://arxiv.org/abs/2401.12945" class="button-primary w-button">Read Paper</a>
         </div>
@@ -99,39 +99,6 @@ Keterangan lebih lanjut tentang pengetahuan <a href="https://positivepsychology.
 ## Dengan melakukan penskalaan secara hati-hati dan cerdas, Anda dapat meningkatkan pendapatan perdagangan sambil mengendalikan risiko.
 
 ### Ingatlah selalu bahwa keuntungan yang lebih tinggi biasanya disertai dengan peluang dan risiko yang lebih tinggi.
-
-Orang pintar tidak akan berhasil.
-
-Saya telah melihat pola ini terjadi berkali-kali.
-
-Anda melihat seseorang yang benar-benar brilian.
-
-Wawasan yang luar biasa.
-Pemikiran strategis yang hebat.
-Ketekunan yang tinggi.
-
-Namun mereka gagal mencapai separuh kesuksesan orang lain yang tidak secerdas mereka.
-
-Saya telah banyak memikirkan hal ini… karena ini berlaku untuk saya sejak lama sebelum saya menemukan cara untuk membalikkan keadaan demi keuntungan saya.
-
-Inilah masalahnya:
-
-Keinginan terdalam orang pintar adalah terlihat pintar…
-
-Dan Anda tahu itu membuat Anda bodoh.
-
-Anda mulai mengoptimalkan semua yang Anda lakukan sehingga Anda mendapatkan pujian tersebut:
-
-“Oh, kamu luar biasa cerdas”
-“Astaga, kamu sangat brilian”
-
-Kalimat-kalimat ini adalah racun.
-
-Anda harus tidak peka terhadap hal ini, sama seperti Anda tidak peka terhadap hinaan.
-
-Sementara itu, pria dengan otak setengah kasar memaksakan jalannya menuju kesuksesan hanya dengan menjalankan proses yang sudah terbukti.
-
-Saya telah berhenti mencoba menemukan kembali roda setiap dua minggu sekali… dan sampai saya melakukan hal ini, saya dapat membebaskan pikiran saya untuk fokus pada hal yang benar-benar penting.
 
 ```
 Rencana perdagangan Anda adalah panduan Anda
