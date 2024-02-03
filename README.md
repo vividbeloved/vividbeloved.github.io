@@ -30,7 +30,7 @@ href="https://mempool.space/tx/d248d2d06e4bece2afc225ed5a1427e0f7dc769c5d3df795c
 <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fgetbos.github.io">
 
 ![deprecated](https://img.shields.io/badge/Pengingat-8A2BE2) ![luar biasa](https://awesome.re/badge.svg) ![](https://img.shields.io/github/followers/getbos) ![](https://img.shields.io/github/stars/getbos/getbos.github.io) ![](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge)
-![](https://img.shields.io/keybase/btc/getbos)<https://getbos.github.io>
+![](https://img.shields.io/keybase/btc/getbos)
 
 <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/GetBos丰"> 
 
