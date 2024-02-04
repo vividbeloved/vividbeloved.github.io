@@ -205,19 +205,18 @@ Pasar adalah majikan Anda
 - <img alt="X (formerly Twitter)" src="https://img.shields.io/twitter/follow/GetBos丰"> 
 
 <div align="center">
-    <a class="text-blue" href="https://metabrani.github.io">MetaBrani</a> |
+        <a class="text-blue" href="https://metabrani.github.io">MetaBrani</a> |
 	<a class="text-blue" href="https://primal.net/evo">Primal</a> |
         <a class="text-blue" href="https://atomicwallet.io">Atomic Wallet</a> |
 	<a class="text-blue" href="https://t.me/pasaruang">Telegram</a> |
 	<a class="text-blue" href="https://api.whatsapp.com/send?phone=6282264083228">WhatsApp</a> |
 	<a class="text-blue" href="https://getalby.com/getbos">Alby</a>
 </div>
-
-<li>
+<li></li>
 <div align="center">
 <a href="https://twitter.com/intent/follow?screen_name=getbos">
-        <img src="https://img.shields.io/twitter/follow/getbos?style=social&logo=twitter"
-            alt="follow on Twitter"></a>
-	<a href="https://www.facebook.com/metabrani" ><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<img src="https://img.shields.io/twitter/follow/getbos?style=social&logo=twitter" alt="follow on Twitter"></a>
+<a href="https://www.facebook.com/metabrani" >
+<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
  <!-- Tautan CSS -->
 <link rel="stylesheet" type="text/css" href="style.css">
