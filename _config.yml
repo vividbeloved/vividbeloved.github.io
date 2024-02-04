@@ -1,5 +1,4 @@
-title: GetBos
-description: Gapura Ekonomi Perdagangan Bitcoin dan Barang Lainnya
-url: https://www.getbos.github.io
-theme: tema-situs
+# _config.yml
+
+markdown: kramdown
 
