@@ -134,6 +134,10 @@ Pasar adalah majikan Anda
 | $20       | ![deprecated](https://img.shields.io/badge/$20-8A2BE2)      | $40        | ![deprecated](https://img.shields.io/badge/Februari_2024-e1f205)  |
 | ![deprecated](https://img.shields.io/badge/$10-2be23e)       | ![deprecated](https://img.shields.io/badge/$10-8A2BE2)      | ![deprecated](https://img.shields.io/badge/$20-3422E2)        | ![deprecated](https://img.shields.io/badge/Januari_2024-E22E2B)   |
 
+### Transaksi GetBos di jaringan Bitcoin
+1. Bukti transaksi perdana dengan tulisan  <a href="https://mempool.space/tx/f61be88b48af826c9056f6fc1c7391ca8e052a83d8f00efc5a6c4025c389f280" class="button-primary w-button">OP_RETURN getbos gate economy trade bitcoin and other stuff</a>
+2. Jika melihat di <a href="https://mempool.space/block/000000000000000000028611f8e3fc06e80ca6e1cd7df45c0fdf7cd524fda567" class="button-primary w-button">Block 828889</a> mempool, ada di halaman 27.
+
  ![deprecated](https://img.shields.io/badge/Situs_ini_dalam_pengembangan-3422E2)  
  ![deprecated](https://img.shields.io/badge/Halaman_bersifat_eksperimental-8A2BE2)  
  ![deprecated](https://img.shields.io/badge/Silahkan_menggunakan_dengan_riset_dan_risiko_Anda_sendiri-E22E2B)
