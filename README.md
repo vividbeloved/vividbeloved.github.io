@@ -1,3 +1,51 @@
+# Selamat Datang di Situs Saya
+
+Ini adalah beranda situs web GitHub Pages saya. Di bawah ini adalah beberapa bagian utama yang dapat Anda tambahkan ke halaman GitHub Pages Anda.
+
+## Tentang Saya
+
+Tulis sedikit tentang diri Anda atau proyek Anda di sini.
+
+## Portfolio
+
+Berikut adalah beberapa proyek yang pernah saya kerjakan:
+
+1. [Proyek Satu](link_proyek_satu)
+2. [Proyek Dua](link_proyek_dua)
+3. [Proyek Tiga](link_proyek_tiga)
+
+## Blog
+
+Saya juga menulis artikel di blog. Cek artikel terbaru:
+
+- [Judul Artikel Satu](link_artikel_satu)
+- [Judul Artikel Dua](link_artikel_dua)
+
+## Cara Menghubungi
+
+Jika Anda ingin menghubungi saya, Anda dapat melalui:
+
+- Email: [email@example.com](mailto:email@example.com)
+- Twitter: [@username](https://twitter.com/username)
+
+## Kode HTML Sederhana
+
+Berikut adalah contoh kode HTML sederhana:
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Halaman GitHub Pages</title>
+</head>
+<body>
+  <h1>Selamat Datang di GitHub Pages</h1>
+  <p>Ini adalah halaman sederhana menggunakan HTML.</p>
+</body>
+</html>
+
 # [GetBos - Gate Economy Trade Bitcoin and Other Stuff](https://getbos.github.io)
   
 <div align="center">
