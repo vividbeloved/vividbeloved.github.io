@@ -1,16 +1,14 @@
 # [GetBos - Gate Economy Trade Bitcoin and Other Stuff](https://getbos.github.io)
   
 <div align="center">
- <div style="background-color:#715a88">
-    <a class="text-black" href="https://bitcoin.org/id/">Bitcoin</a> | 
-    	<a class="text-black" href="https://btcscan.org/address/1DEUSxZqiWNMdLNhrHNBL6PYDKq5qWdcug">Btcscan</a> |
-    	<a class="text-black" href="https://api.whatsapp.com/send?phone=628999587888">WhatsApp</a> |
-	   <a class="text-black" href="https://bitinfocharts.com/bitcoin/address/1EZjeVjTZZNz5P9p4Qe9QxybCw2znxFB6B">Bitinfo</a> |
-	   <a class="text-black" href="https://lnmarkets.com/en">LNmarket</a> |
-	   <a class="text-black" href="https://mempool.space/tools/calculator">Mempool</a> |
+<a class="text-black" href="https://bitcoin.org/id/">Bitcoin</a> | 
+<a class="text-black" href="https://btcscan.org/address/1DEUSxZqiWNMdLNhrHNBL6PYDKq5qWdcug">Btcscan</a> |
+<a class="text-black" href="https://api.whatsapp.com/send?phone=628999587888">WhatsApp</a> |
+<a class="text-black" href="https://bitinfocharts.com/bitcoin/address/1EZjeVjTZZNz5P9p4Qe9QxybCw2znxFB6B">Bitinfo</a> |
+<a class="text-black" href="https://lnmarkets.com/en">LNmarket</a> |
+<a class="text-black" href="https://mempool.space/tools/calculator">Mempool</a> |
 <a class="text-black"
 href="https://mempool.space/tx/d248d2d06e4bece2afc225ed5a1427e0f7dc769c5d3df795c7e9b7f667eae6b3">Ordinals</a>
- </div>
 </div>
 <section class="hero-heading-left" style="padding-top: 50px;">
     <div class="container-2">
