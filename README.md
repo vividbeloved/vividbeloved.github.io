@@ -1,6 +1,7 @@
 # [GetBos - Gate Economy Trade Bitcoin and Other Stuff](https://getbos.github.io)
   
 <div align="center">
+ <div style="background-color:#8205f2">
     <a class="text-blue" href="https://bitcoin.org/id/">Bitcoin</a> | 
     	<a class="text-blue" href="https://btcscan.org/address/1DEUSxZqiWNMdLNhrHNBL6PYDKq5qWdcug">Btcscan</a> |
     	<a class="text-lime" href="https://api.whatsapp.com/send?phone=628999587888">WhatsApp</a> |
@@ -9,17 +10,16 @@
 	   <a class="text-e1f205" href="https://mempool.space/tools/calculator">Mempool</a> |
 <a class="text-8205f2"
 href="https://mempool.space/tx/d248d2d06e4bece2afc225ed5a1427e0f7dc769c5d3df795c7e9b7f667eae6b3">Ordinals</a>
+ </div>
 </div>
 <section class="hero-heading-left" style="padding-top: 50px;">
     <div class="container-2">
       <div class="hero-wrapper" style="padding-bottom: 0px;">
         <div class="hero-split">
-	 <div style="background-color:#8205f2">
           <p class="paragraph" style="font-size: 24px;">GetBos Research</p>
           <h1 class="heading-5">Hidup banyak bahagianya, jika sama-sama kayanya 丰</h1>
           <p class="margin-bottom-24px">A Space-Time Diffusion Model for Video Generation</p>
           <a href="https://arxiv.org/abs/2401.12945" class="button-primary w-button">Read Paper</a>
-	 </div>
         </div>
       </div>
     </div>
