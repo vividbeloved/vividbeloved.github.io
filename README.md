@@ -125,11 +125,11 @@ Pasar adalah majikan Anda
 | $2,560    | ![deprecated](https://img.shields.io/badge/$2,560-8A2BE2)   | $5,120     | September 2024 |
 | $1,280    | ![deprecated](https://img.shields.io/badge/$1,280-8A2BE2)   | $2,560     | Agustus 2024   |
 | $640      | ![deprecated](https://img.shields.io/badge/$640-8A2BE2)     | $1,280     | Juli 2024      |
-| $320      | ![deprecated](https://img.shields.io/badge/$320-8A2BE2)     | $640       | Juni 2024      |
-| $160      | ![deprecated](https://img.shields.io/badge/$160-8A2BE2)     | $320       | Mei 2024       |
-| $80       | ![deprecated](https://img.shields.io/badge/$80-8A2BE2)      | $160       | April 2024     |
-| $40       | ![deprecated](https://img.shields.io/badge/$40-8A2BE2)      | $80        | Maret 2024     |
-| $20       | ![deprecated](https://img.shields.io/badge/$20-8A2BE2)      | $40        | Februari 2024  |
+| $320      | ![deprecated](https://img.shields.io/badge/$320-8A2BE2)     | $640       | ![deprecated](https://img.shields.io/badge/Juni_2024-2be23e)      |
+| $160      | ![deprecated](https://img.shields.io/badge/$160-8A2BE2)     | $320       | ![deprecated](https://img.shields.io/badge/Mei_2024-2be23e)       |
+| $80       | ![deprecated](https://img.shields.io/badge/$80-8A2BE2)      | $160       | ![deprecated](https://img.shields.io/badge/April_2024-2be23e)     |
+| $40       | ![deprecated](https://img.shields.io/badge/$40-8A2BE2)      | $80        | ![deprecated](https://img.shields.io/badge/Maret_2024-2be23e)     |
+| $20       | ![deprecated](https://img.shields.io/badge/$20-8A2BE2)      | $40        | ![deprecated](https://img.shields.io/badge/Februari_2024-e1f205)  |
 | ![deprecated](https://img.shields.io/badge/$10-2be23e)       | ![deprecated](https://img.shields.io/badge/$10-8A2BE2)      | ![deprecated](https://img.shields.io/badge/$20-3422E2)        | ![deprecated](https://img.shields.io/badge/Januari_2024-E22E2B)   |
 
  ![deprecated](https://img.shields.io/badge/Situs_ini_dalam_pengembangan-3422E2)  
