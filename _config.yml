@@ -1,4 +1,2 @@
-# _config.yml
-
-markdown: kramdown
-
+baseURL: "https://getbos.github.io"
+title: EVO Excellent Vivid Opportunity
