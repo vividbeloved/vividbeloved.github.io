@@ -12,7 +12,7 @@ href="https://mempool.space/tx/d248d2d06e4bece2afc225ed5a1427e0f7dc769c5d3df795c
 </div>
 <section class="hero-heading-left" style="padding-top: 50px;">
     <div class="container-2">
-      <div class="hero-wrapper" style="padding-bottom: 0px;">
+      <div class="hero-wrapper" style="padding-bottom: 6px;">
         <div class="hero-split">
 	 <div style="border:28px solid #8205f2">
           <p class="paragraph" style="font-size: 24px;">GetBos Research</p>
