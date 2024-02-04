@@ -1,7 +1,7 @@
 # [GetBos - Gate Economy Trade Bitcoin and Other Stuff](https://getbos.github.io)
   
 <div align="center">
- <div style="background-color:#8205f2">
+ <div style="background-color:715a88">
     <a class="text-blue" href="https://bitcoin.org/id/">Bitcoin</a> | 
     	<a class="text-blue" href="https://btcscan.org/address/1DEUSxZqiWNMdLNhrHNBL6PYDKq5qWdcug">Btcscan</a> |
     	<a class="text-lime" href="https://api.whatsapp.com/send?phone=628999587888">WhatsApp</a> |
