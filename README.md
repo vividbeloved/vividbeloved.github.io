@@ -16,10 +16,12 @@ href="https://mempool.space/tx/d248d2d06e4bece2afc225ed5a1427e0f7dc769c5d3df795c
     <div class="container-2">
       <div class="hero-wrapper" style="padding-bottom: 0px;">
         <div class="hero-split">
+	 <div style="border:3px solid #8205f2">
           <p class="paragraph" style="font-size: 24px;">GetBos Research</p>
           <h1 class="heading-5">Hidup banyak bahagianya, jika sama-sama kayanya 丰</h1>
           <p class="margin-bottom-24px">A Space-Time Diffusion Model for Video Generation</p>
           <a href="https://arxiv.org/abs/2401.12945" class="button-primary w-button">Read Paper</a>
+	 </div>
         </div>
       </div>
     </div>
