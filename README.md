@@ -27,7 +27,7 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
 
 ## Gambar
 
-![Logo GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+![Logo GitHub](https://img.shields.io/github/followers/getbos)
 
 ## Tautan
 
@@ -86,7 +86,7 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
 ![deprecated](https://img.shields.io/badge/Pengingat-8A2BE2) ![luar biasa](https://awesome.re/badge.svg) 
 ![](https://img.shields.io/github/followers/getbos) ![](https://img.shields.io/github/stars/getbos/getbos.github.io)
 
-![Logo GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+![Logo GitHub](https://pbs.twimg.com/media/GFhO_rRbQAAd7bF?format=jpg)
 
 
 Dimulai dari gerbang perdagangan
