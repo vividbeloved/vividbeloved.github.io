@@ -26,6 +26,7 @@ href="https://mempool.space/tx/d248d2d06e4bece2afc225ed5a1427e0f7dc769c5d3df795c
 ```
                                             Gate Economy Trade Bitcoin and Other Stuff
                                       Gerbang Ekonomi Perdagangan Bitcoin dan Barang Lainnya
+                                                   Peluang Nyata yang Luar Biasa
 ```
 <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fgetbos.github.io">
 
@@ -40,9 +41,9 @@ Namun, saya pikir masih banyak orang yang belum melakukannya
 
 Inilah cara kami memulai membangun kekayaan 丰 tahun ini
 
-Dengan semboyan ![deprecated](https://img.shields.io/badge/EVO-8A2BE2) Excellence Vivid Opportunity
+Dengan semboyan ![deprecated](https://img.shields.io/badge/EVO_-_Excellent_Vivid_Opportunity-8A2BE2) Peluang Nyata yang Luar Biasa
 
-Dan melangkah menuju ![deprecated](https://img.shields.io/badge/GetBos-8A2BE2) Gate Economy Trade Bitcoin and Other Stuff
+Menuju ![deprecated](https://img.shields.io/badge/GetBos_-_Gate_Economy_Trade_Bitcoin_and_Other_Stuff-8A2BE2) Gerbang Ekonomi Perdagangan Bitcoin dan Barang Lainnya
 
 ## Peningkatan Bertahap:
 
