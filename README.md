@@ -1,5 +1,56 @@
+<!-- Tautan CSS -->
+<link rel="stylesheet" type="text/css" href="style.css">
+
 # [GetBos - Gate Economy Trade Bitcoin and Other Stuff](https://getbos.github.io)
-  
+
+  <!-- Navbar -->
+<nav class="navbar">
+  <ul>
+    <li><a href="#">Beranda</a></li>
+    <li><a href="#">Tentang</a></li>
+    <li><a href="#">Proyek</a></li>
+    <li><a href="#">Kontak</a></li>
+  </ul>
+</nav>
+
+## Tentang Saya
+
+Tulis sedikit tentang diri Anda atau proyek Anda di sini.
+
+## Portfolio
+
+Berikut adalah beberapa proyek yang pernah saya kerjakan:
+
+1. [Proyek Satu](link_proyek_satu)
+2. [Proyek Dua](link_proyek_dua)
+3. [Proyek Tiga](link_proyek_tiga)
+
+## Gambar
+
+![Logo GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
+## Tautan
+
+[GitHub Pages](https://pages.github.com/)
+
+## Daftar
+
+- Item Pertama
+- Item Kedua
+  - Subitem 1
+  - Subitem 2
+- Item Ketiga
+
+## Teks Terkait
+
+*teks miring* atau _teks miring_
+**teks tebal** atau __teks tebal__
+
+## Daftar Nomor
+
+1. Item Pertama
+2. Item Kedua
+3. Item Ketiga
 <div align="center">
 <a class="text-black" href="https://bitcoin.org/id/">Bitcoin</a> | 
 <a class="text-black" href="https://btcscan.org/address/1DEUSxZqiWNMdLNhrHNBL6PYDKq5qWdcug">Btcscan</a> |
@@ -168,4 +219,5 @@ Pasar adalah majikan Anda
         <img src="https://img.shields.io/twitter/follow/getbos?style=social&logo=twitter"
             alt="follow on Twitter"></a>
 	<a href="https://www.facebook.com/metabrani" ><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
- 
+ <!-- Tautan CSS -->
+<link rel="stylesheet" type="text/css" href="style.css">
