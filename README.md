@@ -29,10 +29,8 @@ href="https://mempool.space/tx/d248d2d06e4bece2afc225ed5a1427e0f7dc769c5d3df795c
 ```
 <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fgetbos.github.io">
 
-![deprecated](https://img.shields.io/badge/Pengingat-8A2BE2) ![luar biasa](https://awesome.re/badge.svg) ![](https://img.shields.io/github/followers/getbos) ![](https://img.shields.io/github/stars/getbos/getbos.github.io) ![](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge)
-![](https://img.shields.io/keybase/btc/getbos)
-
-<img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/GetBos丰"> 
+![deprecated](https://img.shields.io/badge/Pengingat-8A2BE2) ![luar biasa](https://awesome.re/badge.svg) 
+![](https://img.shields.io/github/followers/getbos) ![](https://img.shields.io/github/stars/getbos/getbos.github.io)
 
 Dimulai dari gerbang perdagangan
 
@@ -40,11 +38,11 @@ Kekayaan seseorang dan negara cepat terwujud
 
 Namun, saya pikir masih banyak orang yang belum melakukannya
 
-Inilah cara kami memulai membangun kekayaan 丰
+Inilah cara kami memulai membangun kekayaan 丰 tahun ini
 
 Dengan semboyan ![deprecated](https://img.shields.io/badge/EVO-8A2BE2) Excellence Vivid Opportunity
 
-Kita mulai lagi dengan kata ![deprecated](https://img.shields.io/badge/GetBos-8A2BE2) Gate Economy Trade Bitcoin and Other Stuff
+Dan melangkah menuju ![deprecated](https://img.shields.io/badge/GetBos-8A2BE2) Gate Economy Trade Bitcoin and Other Stuff
 
 ## Peningkatan Bertahap:
 
@@ -133,12 +131,15 @@ Pasar adalah majikan Anda
 | $20       | ![deprecated](https://img.shields.io/badge/$20-8A2BE2)      | $40        | Februari 2024  |
 | ![deprecated](https://img.shields.io/badge/$10-2be23e)       | ![deprecated](https://img.shields.io/badge/$10-8A2BE2)      | ![deprecated](https://img.shields.io/badge/$20-3422E2)        | ![deprecated](https://img.shields.io/badge/Januari_2024-E22E2B)   |
 
- ![deprecated](https://img.shields.io/badge/Situs_masih_dalam_pembangunan_dan_perbaikan.-2BE28A)  
- ![deprecated](https://img.shields.io/badge/Situs_ini_bersifat_eksperimental.-8A2BE2)  
- ![deprecated](https://img.shields.io/badge/Silahkan_menggunakan_dengan_risiko_Anda_sendiri.-E22E2B)
+ ![deprecated](https://img.shields.io/badge/Situs_ini_dalam_pengembangan-3422E2)  
+ ![deprecated](https://img.shields.io/badge/Halaman_bersifat_eksperimental-8A2BE2)  
+ ![deprecated](https://img.shields.io/badge/Silahkan_menggunakan_dengan_riset_dan_risiko_Anda_sendiri-E22E2B)
  
 - ![deprecated](https://img.shields.io/badge/status-berjalan-lime.svg?style=flat-square)
 - ![](https://img.shields.io/keybase/btc/gainbrat)
+- ![](https://img.shields.io/keybase/btc/getbos)
+- ![](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge)
+- <img alt="X (formerly Twitter)" src="https://img.shields.io/twitter/follow/GetBos丰"> 
 
 <div align="center">
     <a class="text-blue" href="https://metabrani.github.io">MetaBrani</a> |
