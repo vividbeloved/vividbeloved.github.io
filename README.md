@@ -52,12 +52,10 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
 2. Item Kedua
 3. Item Ketiga
 
--   <img src="./applications/mail/src/favicon.svg" style="vertical-align: middle" height="20" width="20" /> <span style="vertical-align: middle; display: inline-block">Proton Mail</span>
--   <img src="./applications/calendar/src/favicon.svg" style="vertical-align: middle" height="20" width="20" /> <span style="vertical-align: middle; display: inline-block">Proton Calendar</span>
--   <img src="./applications/drive/src/favicon.svg" style="vertical-align: middle" height="20" width="20" /> <span style="vertical-align: middle; display: inline-block">Proton Drive</span>
--   <img src="./applications/account/src/favicon.svg" style="vertical-align: middle" height="20" width="20" /> <span style="vertical-align: middle; display: inline-block">Proton Account</span>
--   <img src="./applications/vpn-settings/src/favicon.svg" style="vertical-align: middle" height="20" width="20" /> <span style="vertical-align: middle; display: inline-block">Proton VPN</span>
--   <img src="./applications/pass-extension/public/assets/protonpass-icon.svg" style="vertical-align: middle" height="20" width="20" /> <span style="vertical-align: middle; display: inline-block">Proton Pass</span>
+## Proyek
+1. Proyek 1
+2. Proyek 2
+3. Proyek 3
 
 <div align="center">
 <a class="text-black" href="https://bitcoin.org/id/">Bitcoin</a> | 
