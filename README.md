@@ -10,7 +10,7 @@
   </ul>
 </nav>
 
-# Tentang Saya [GetBos - Gate Economy Trade Bitcoin and Other Stuff](https://getbos.github.io)
+# [GetBos - Gate Economy Trade Bitcoin and Other Stuff](https://getbos.github.io)
 
 Tulis sedikit tentang diri Anda atau proyek Anda di sini.
 
@@ -88,7 +88,7 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
 ![deprecated](https://img.shields.io/badge/Pengingat-8A2BE2) ![luar biasa](https://awesome.re/badge.svg) 
 ![](https://img.shields.io/github/followers/getbos) ![](https://img.shields.io/github/stars/getbos/getbos.github.io)
 
-![Logo GitHub](https://pbs.twimg.com/media/GFhO_rRbQAAd7bF?format=jpg)
+![Logo GitHub](https://img.shields.io/badge/Gambar-8A2BE2)
 
 
 Dimulai dari gerbang perdagangan
@@ -165,7 +165,7 @@ Rencana adalah panduan Anda
 Disiplin adalah guru Anda
 ```
 
-## Tujuan utama dan terpenting seorang pedagang di pasar uang adalah menjaga uangnya agar tidak hilang. Benar gak Bos?
+##### Tujuan utama dan terpenting seorang pedagang di pasar uang adalah menjaga uangnya agar tidak hilang. Benar gak Bos?
 
 ### Tabel ilustrasi, jika pertumbuhan modal perbulan tumbuh 100%
 
