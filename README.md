@@ -56,13 +56,13 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
 3. Proyek 3
 
 <div align="center">
-<a class="text-black" href="https://bitcoin.org/id/">Bitcoin</a> | 
-<a class="text-black" href="https://btcscan.org/address/1DEUSxZqiWNMdLNhrHNBL6PYDKq5qWdcug">Btcscan</a> |
-<a class="text-black" href="https://timechaincalendar.com/en">TimeChainBitcoin</a> |
-<a class="text-black" href="https://bitinfocharts.com/bitcoin/address/1EZjeVjTZZNz5P9p4Qe9QxybCw2znxFB6B">Bitinfo</a> |
-<a class="text-black" href="https://lnmarkets.com/en">LNmarket</a> |
-<a class="text-black" href="https://mempool.space/tools/calculator">Mempool</a> |
-<a class="text-black" href="https://mempool.space/tx/d248d2d06e4bece2afc225ed5a1427e0f7dc769c5d3df795c7e9b7f667eae6b3">Ordinals</a>
+<a class="text-black" href="https://bitcoin.org/id/" target="_blank">Bitcoin</a> | 
+<a class="text-black" href="https://btcscan.org/address/1DEUSxZqiWNMdLNhrHNBL6PYDKq5qWdcug" target="_blank">Btcscan</a> |
+<a class="text-black" href="https://timechaincalendar.com/en" target="_blank">TimeChainBitcoin</a> |
+<a class="text-black" href="https://bitinfocharts.com/bitcoin/address/1EZjeVjTZZNz5P9p4Qe9QxybCw2znxFB6B" target="_blank">Bitinfo</a> |
+<a class="text-black" href="https://lnmarkets.com/en" target="_blank">LNmarket</a> |
+<a class="text-black" href="https://mempool.space/tools/calculator" target="_blank">Mempool</a> |
+<a class="text-black" href="https://mempool.space/tx/d248d2d06e4bece2afc225ed5a1427e0f7dc769c5d3df795c7e9b7f667eae6b3" target="_blank">Ordinals</a>
 </div><section class="hero-heading-left" style="padding-top: 50px;">
     <div class="container-2">
       <div class="hero-wrapper" style="padding-bottom: 6px;">
@@ -73,7 +73,7 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
             <h1 class="heading-5">Merindukan Tatanan Masyarakat Sejahterah 丰</h1>
 	   </div>
           <p class="margin-bottom-24px">A Space-Time Diffusion Model for Video Generation</p>
-          <a href="https://arxiv.org/abs/2401.12945" class="button-primary w-button">Read Paper</a>
+          <a href="https://arxiv.org/abs/2401.12945" target="_blank">Read Paper</a>
 	 </div>
         </div>
       </div>
@@ -151,7 +151,7 @@ Semakin besar angka di layar berarti perubahan emosi yang semakin besar.
 
 Pastikan Anda siap secara mental untuk menangani tekanan yang meningkat.
 
-Keterangan lebih lanjut tentang pengetahuan <a href="https://positivepsychology.com/mihaly-csikszentmihalyi-father-of-flow/" class="button-primary w-button">Psikologi Positif</a> agar emosi semakin baik dan terkontrol.
+Keterangan lebih lanjut tentang pengetahuan <a href="https://positivepsychology.com/mihaly-csikszentmihalyi-father-of-flow/" target="_blank">Psikologi Positif</a> agar emosi semakin baik dan terkontrol.
 
 ## Dengan melakukan penskalaan secara hati-hati dan cerdas, Anda dapat meningkatkan pendapatan perdagangan sambil mengendalikan risiko.
 
@@ -190,7 +190,7 @@ Disiplin adalah guru Anda
 | ![deprecated](https://img.shields.io/badge/$10-2be23e)       | ![deprecated](https://img.shields.io/badge/$10-8A2BE2)      | ![deprecated](https://img.shields.io/badge/$20-3422E2)        | ![deprecated](https://img.shields.io/badge/Januari_2024-E22E2B)   |
 
 ### Transaksi GetBos di jaringan Bitcoin
-1. Bukti transaksi perdana dengan tulisan  <a href="https://mempool.space/tx/f61be88b48af826c9056f6fc1c7391ca8e052a83d8f00efc5a6c4025c389f280" class="button-primary w-button">OP_RETURN</a> getbos gate economy trade bitcoin and other stuff
+1. Bukti transaksi perdana dengan tulisan  <a href="https://mempool.space/tx/f61be88b48af826c9056f6fc1c7391ca8e052a83d8f00efc5a6c4025c389f280" target="_blank">OP_RETURN</a> getbos gate economy trade bitcoin and other stuff
 2. Jika melihat di <a href="https://mempool.space/block/000000000000000000028611f8e3fc06e80ca6e1cd7df45c0fdf7cd524fda567" target="_blank">Block 828889</a>mempool, ada di halaman 27. 
 3. Urutan 656 dari total 2,814 transaksi dalam 1 block.
 4. Block 828889 selesai jam 20:12 WIB
