@@ -15,7 +15,7 @@ body {
 
 /* Navbar Styles */
 .navbar {
-  background-color: #155115;
+  background-color: #8A2BE2;
   overflow: hidden;
 }
 
@@ -30,7 +30,7 @@ body {
 
 .navbar a {
   display: block;
-  color: #901d1d;
+  color: #333;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
