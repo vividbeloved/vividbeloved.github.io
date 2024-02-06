@@ -2,7 +2,6 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 
 # [GetBos - Gate Economy Trade Bitcoin and Other Stuff](https://getbos.github.io)
-
   <!-- Navbar -->
 <nav class="navbar">
   <ul>
@@ -174,7 +173,7 @@ Disiplin adalah guru Anda
 
 | ![deprecated](https://img.shields.io/badge/Ekuitas-8A2BE2)   | ![deprecated](https://img.shields.io/badge/Target-8A2BE2)   | ![deprecated](https://img.shields.io/badge/Total-8A2BE2)      | ![deprecated](https://img.shields.io/badge/Bulan-8A2BE2)          |
 | --------- | ----------------------------------------------------------- | ---------- | -------------- |
-| $655,360  | ![deprecated](https://img.shields.io/badge/$655,360-8A2BE2) | $1,310,720 | Mei 2025       |
+| ![deprecated](https://img.shields.io/badge/$655,360-8A2BE2)  | ![deprecated](https://img.shields.io/badge/$655,360-8A2BE2) | ![deprecated](https://img.shields.io/badge/$1,310,720-8A2BE2) | ![deprecated](https://img.shields.io/badge/Mei_2025-8A2BE2)       |
 | $327,680  | ![deprecated](https://img.shields.io/badge/$327,680-8A2BE2) | $655,360   | April 2025     |
 | $163,840  | ![deprecated](https://img.shields.io/badge/$163,840-8A2BE2) | $327,680   | Maret 2025     |
 | $81,920   | ![deprecated](https://img.shields.io/badge/$81,920-8A2BE2)  | $163,840   | Februari 2025  |
