@@ -1,6 +1,9 @@
 # Pengaturan tema
 theme: jekyll-theme-slate
 
+# Pengaturan judul situs
+title: Blog Baru Saya
+
 # Pengaturan CSS tambahan
 sass:
   style: compressed
