@@ -174,7 +174,7 @@ Pasar adalah majikan Anda
 
 ### Tabel ilustrasi, jika pertumbuhan modal perbulan tumbuh 100%
 
-| Ekuitas   | ![deprecated](https://img.shields.io/badge/Target-8A2BE2)   | Total      | Bulan          |
+| ![deprecated](https://img.shields.io/badge/Ekuitas-8A2BE2)   | ![deprecated](https://img.shields.io/badge/Target-8A2BE2)   | ![deprecated](https://img.shields.io/badge/Total-8A2BE2)      | ![deprecated](https://img.shields.io/badge/Bulan-8A2BE2)          |
 | --------- | ----------------------------------------------------------- | ---------- | -------------- |
 | $655,360  | ![deprecated](https://img.shields.io/badge/$655,360-8A2BE2) | $1,310,720 | Mei 2025       |
 | $327,680  | ![deprecated](https://img.shields.io/badge/$327,680-8A2BE2) | $655,360   | April 2025     |
