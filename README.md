@@ -81,9 +81,9 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
   </section>
 
 ```
-                          Gate Economy Trade Bitcoin and Other Stuff
-                   Gerbang Ekonomi Perdagangan Bitcoin dan Barang Lainnya
-                                Peluang Nyata yang Luar Biasa
+                       Gate Economy Trade Bitcoin and Other Stuff
+               Gerbang Ekonomi Perdagangan Bitcoin dan Barang Lainnya
+                              Peluang Nyata yang Luar Biasa
 ```
 ![deprecated](https://img.shields.io/badge/Pengingat-8A2BE2) ![luar biasa](https://awesome.re/badge.svg) 
 ![](https://img.shields.io/github/followers/getbos) ![](https://img.shields.io/github/stars/getbos/getbos.github.io)
@@ -172,16 +172,16 @@ Disiplin adalah guru Anda
 | ![deprecated](https://img.shields.io/badge/Ekuitas-8A2BE2)   | ![deprecated](https://img.shields.io/badge/Target-8A2BE2)   | ![deprecated](https://img.shields.io/badge/Total-8A2BE2)      | ![deprecated](https://img.shields.io/badge/Bulan-8A2BE2)          |
 | --------- | ----------------------------------------------------------- | ---------- | -------------- |
 | ![deprecated](https://img.shields.io/badge/$655,360-8A2BE2)  | ![deprecated](https://img.shields.io/badge/$655,360-8A2BE2) | ![deprecated](https://img.shields.io/badge/$1,310,720-8A2BE2) | ![deprecated](https://img.shields.io/badge/Mei_2025-8A2BE2)       |
-| ![deprecated](https://img.shields.io/badge/$327,680-3422E2)  | ![deprecated](https://img.shields.io/badge/$327,680-8A2BE2) | ![deprecated](https://img.shields.io/badge/$655,360-2be23e)   | April 2025     |
-| ![deprecated](https://img.shields.io/badge/$163,840-3422E2)  | ![deprecated](https://img.shields.io/badge/$163,840-8A2BE2) | ![deprecated](https://img.shields.io/badge/$327,680-2be23e)   | Maret 2025     |
-| ![deprecated](https://img.shields.io/badge/$81,920-3422E2)   | ![deprecated](https://img.shields.io/badge/$81,920-8A2BE2)  | ![deprecated](https://img.shields.io/badge/$163,840-2be23e)   | Februari 2025  |
-| ![deprecated](https://img.shields.io/badge/$40,960-3422E2)   | ![deprecated](https://img.shields.io/badge/$40,960-8A2BE2)  | ![deprecated](https://img.shields.io/badge/$81,920-2be23e)    | Januari 2025   |
-| ![deprecated](https://img.shields.io/badge/$20,480-3422E2)   | ![deprecated](https://img.shields.io/badge/$20,480-8A2BE2)  | ![deprecated](https://img.shields.io/badge/$40,960-2be23e)    | Desember 2024  |
-| ![deprecated](https://img.shields.io/badge/$10,240-3422E2)   | ![deprecated](https://img.shields.io/badge/$10,240-8A2BE2)  | ![deprecated](https://img.shields.io/badge/$20,480-2be23e)    | November 2024  |
-| ![deprecated](https://img.shields.io/badge/$5,120-3422E2)    | ![deprecated](https://img.shields.io/badge/$5,120-8A2BE2)   | ![deprecated](https://img.shields.io/badge/$10,240-2be23e)    | Oktober 2024   |
-| ![deprecated](https://img.shields.io/badge/$2,560-3422E2)    | ![deprecated](https://img.shields.io/badge/$2,560-8A2BE2)   | ![deprecated](https://img.shields.io/badge/$5,120-2be23e)     | September 2024 |
-| ![deprecated](https://img.shields.io/badge/$1,280-3422E2)    | ![deprecated](https://img.shields.io/badge/$1,280-8A2BE2)   | ![deprecated](https://img.shields.io/badge/$2,560-2be23e)     | Agustus 2024   |
-| ![deprecated](https://img.shields.io/badge/$640-3422E2)      | ![deprecated](https://img.shields.io/badge/$640-8A2BE2)     | ![deprecated](https://img.shields.io/badge/$1,280-2be23e)     | Juli 2024      |
+| ![deprecated](https://img.shields.io/badge/$327,680-3422E2)  | ![deprecated](https://img.shields.io/badge/$327,680-8A2BE2) | ![deprecated](https://img.shields.io/badge/$655,360-2be23e)   | ![deprecated](https://img.shields.io/badge/April_2025-2be23e)     |
+| ![deprecated](https://img.shields.io/badge/$163,840-3422E2)  | ![deprecated](https://img.shields.io/badge/$163,840-8A2BE2) | ![deprecated](https://img.shields.io/badge/$327,680-2be23e)   | ![deprecated](https://img.shields.io/badge/Maret_2025-2be23e)     |
+| ![deprecated](https://img.shields.io/badge/$81,920-3422E2)   | ![deprecated](https://img.shields.io/badge/$81,920-8A2BE2)  | ![deprecated](https://img.shields.io/badge/$163,840-2be23e)   | ![deprecated](https://img.shields.io/badge/Februari_2025-2be23e)  |
+| ![deprecated](https://img.shields.io/badge/$40,960-3422E2)   | ![deprecated](https://img.shields.io/badge/$40,960-8A2BE2)  | ![deprecated](https://img.shields.io/badge/$81,920-2be23e)    | ![deprecated](https://img.shields.io/badge/Januari_2025-2be23e)   |
+| ![deprecated](https://img.shields.io/badge/$20,480-3422E2)   | ![deprecated](https://img.shields.io/badge/$20,480-8A2BE2)  | ![deprecated](https://img.shields.io/badge/$40,960-2be23e)    | ![deprecated](https://img.shields.io/badge/Desember_2024-2be23e)  |
+| ![deprecated](https://img.shields.io/badge/$10,240-3422E2)   | ![deprecated](https://img.shields.io/badge/$10,240-8A2BE2)  | ![deprecated](https://img.shields.io/badge/$20,480-2be23e)    | ![deprecated](https://img.shields.io/badge/November_2024-2be23e)  |
+| ![deprecated](https://img.shields.io/badge/$5,120-3422E2)    | ![deprecated](https://img.shields.io/badge/$5,120-8A2BE2)   | ![deprecated](https://img.shields.io/badge/$10,240-2be23e)    | ![deprecated](https://img.shields.io/badge/Oktober_2024-2be23e)   |
+| ![deprecated](https://img.shields.io/badge/$2,560-3422E2)    | ![deprecated](https://img.shields.io/badge/$2,560-8A2BE2)   | ![deprecated](https://img.shields.io/badge/$5,120-2be23e)     | ![deprecated](https://img.shields.io/badge/September_2024-2be23e) |
+| ![deprecated](https://img.shields.io/badge/$1,280-3422E2)    | ![deprecated](https://img.shields.io/badge/$1,280-8A2BE2)   | ![deprecated](https://img.shields.io/badge/$2,560-2be23e)     | ![deprecated](https://img.shields.io/badge/Agustus_2024-2be23e)   |
+| ![deprecated](https://img.shields.io/badge/$640-3422E2)      | ![deprecated](https://img.shields.io/badge/$640-8A2BE2)     | ![deprecated](https://img.shields.io/badge/$1,280-2be23e)     | ![deprecated](https://img.shields.io/badge/Juli_2024-2be23e)      |
 | ![deprecated](https://img.shields.io/badge/$320-3422E2)      | ![deprecated](https://img.shields.io/badge/$320-8A2BE2)     | ![deprecated](https://img.shields.io/badge/$640-2be23e)       | ![deprecated](https://img.shields.io/badge/Juni_2024-2be23e)      |
 | ![deprecated](https://img.shields.io/badge/$160-3422E2)      | ![deprecated](https://img.shields.io/badge/$160-8A2BE2)     | ![deprecated](https://img.shields.io/badge/$320-2be23e)       | ![deprecated](https://img.shields.io/badge/Mei_2024-2be23e)       |
 | ![deprecated](https://img.shields.io/badge/$80-3422E2)       | ![deprecated](https://img.shields.io/badge/$80-8A2BE2)      | ![deprecated](https://img.shields.io/badge/$160-2be23e)       | ![deprecated](https://img.shields.io/badge/April_2024-2be23e)     |
