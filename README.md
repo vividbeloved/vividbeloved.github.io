@@ -81,9 +81,9 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
   </section>
 
 ```
-                       Gate Economy Trade Bitcoin and Other Stuff
-               Gerbang Ekonomi Perdagangan Bitcoin dan Barang Lainnya
-                              Peluang Nyata yang Luar Biasa
+                   Gate Economy Trade Bitcoin and Other Stuff
+            Gerbang Ekonomi Perdagangan Bitcoin dan Barang Lainnya
+                          Peluang Nyata yang Luar Biasa
 ```
 ![deprecated](https://img.shields.io/badge/Pengingat-8A2BE2) ![luar biasa](https://awesome.re/badge.svg) 
 ![](https://img.shields.io/github/followers/getbos) ![](https://img.shields.io/github/stars/getbos/getbos.github.io)
@@ -221,3 +221,8 @@ Disiplin adalah guru Anda
    <img src="https://img.shields.io/badge/twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="twitter"></a>
  <!-- Tautan CSS -->
 <link rel="stylesheet" type="text/css" href="style.css">
+<a href="https://www.facebook.com/metabrani" >
+   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+ <a href="https://www.twitter.com/getbos" >
+   <img src="https://img.shields.io/badge/twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="twitter"></a>
+
