@@ -19,7 +19,7 @@ Tulis sedikit tentang diri Anda atau proyek Anda di sini.
 Berikut adalah beberapa proyek yang pernah saya kerjakan:
 
 1. [Proyek Satu](https://metabrani.github.io)
-2. [Proyek Dua](link_proyek_dua)
+2. [Proyek Dua](https://mempool.space/tx/f61be88b48af826c9056f6fc1c7391ca8e052a83d8f00efc5a6c4025c389f280) OP_RETURN getbos
 3. [Proyek Tiga](link_proyek_tiga)
 
 ## Gambar
@@ -165,7 +165,7 @@ Rencana adalah panduan Anda
 Disiplin adalah guru Anda
 ```
 
-##### Tujuan utama dan terpenting seorang pedagang di pasar uang adalah menjaga uangnya agar tidak hilang. Benar gak Bos?
+### Tujuan utama dan terpenting seorang pedagang di pasar uang adalah menjaga uangnya agar tidak hilang. Benar gak Bos?
 
 ### Tabel ilustrasi, jika pertumbuhan modal perbulan tumbuh 100%
 
@@ -214,7 +214,7 @@ Disiplin adalah guru Anda
    <img src="https://img.shields.io/badge/twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="twitter"></a>
 	<a href="https://www.telegram.com/getboz" >
    <img src="https://img.shields.io/badge/telegram-%231877F2.svg?&style=flat-square&logo=telegram&logoColor=white" alt="telegram"></a>
- <a href="https://www.youtube.com/getbos" >
+ <a href="https://www.youtube.com/@getbos" >
    <img src="https://img.shields.io/badge/youtube-%231877F2.svg?&style=flat-square&logo=youtube&logoColor=white" alt="youtube"></a>
    <a href="https://www.getalby.com/getbos" >
    <img src="https://img.shields.io/badge/getalby-%231877F2.svg?&style=flat-square&logo=getalby&logoColor=white" alt="getalby"></a>
