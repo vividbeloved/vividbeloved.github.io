@@ -215,9 +215,9 @@ Disiplin adalah guru Anda
 </div>
 <li></li>
 <div align="center">
-<a href="https://twitter.com/intent/follow?screen_name=getbos">
-<img src="https://img.shields.io/twitter/follow/getbos?style=social&logo=twitter" alt="follow on Twitter"></a>
-<a href="https://www.facebook.com/metabrani" >
-<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+ <a href="https://www.facebook.com/metabrani" >
+   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+ <a href="https://www.twitter.com/getbos" >
+   <img src="https://img.shields.io/badge/twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="twitter"></a>
  <!-- Tautan CSS -->
 <link rel="stylesheet" type="text/css" href="style.css">
