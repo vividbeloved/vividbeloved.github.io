@@ -21,7 +21,7 @@ Tulis sedikit tentang diri Anda atau proyek Anda di sini.
 
 Berikut adalah beberapa proyek yang pernah saya kerjakan:
 
-1. [Proyek Satu](link_proyek_satu)
+1. [Proyek Satu](https://metabrani.github.io)
 2. [Proyek Dua](link_proyek_dua)
 3. [Proyek Tiga](link_proyek_tiga)
 
