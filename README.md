@@ -10,7 +10,7 @@
   </ul>
 </nav>
 
-# [GetBos - Gate Economy Trade Bitcoin and Other Stuff](https://getbos.github.io)
+# [Gerbang Ekonomi Menuju Masa Depan 丰](https://getbos.github.io)
 
 Tulis sedikit tentang diri Anda atau proyek Anda di sini.
 
