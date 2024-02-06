@@ -1,44 +1,10 @@
-# Pengaturan umum
-title: Blog Saya
-description: Blog pribadi dengan berbagai artikel menarik.
-
-# Pengaturan situs
-url: https://namasitus.com
-baseurl: "/blog"
-
-# Pengaturan waktu dan tanggal
-timezone: Asia/Jakarta
-
 # Pengaturan tema
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
 
-# Pengaturan author
-author:
-  name: John Doe
-  bio: Seorang penulis dan pembuat konten.
+# Pengaturan CSS tambahan
+sass:
+  style: compressed
 
-# Pengaturan sosial media
-social:
-  twitter: username_twitter
-  github: username_github
-
-# Pengaturan Google Analytics
-google_analytics: UA-123456789-1
-
-# Pengaturan menu navigasi
-navigation:
-  - title: Beranda
-    url: /
-  - title: Artikel
-    url: /artikel/
-  - title: Tentang Saya
-    url: /tentang/
-
-# Pengaturan halaman khusus
-pages:
-  - title: Kebijakan Privasi
-    url: /kebijakan-privasi/
-
-# Pengaturan custom
-custom_setting: Nilai kustom disini
-
+# Pengaturan kustom CSS
+custom_css:
+  - assets/css/custom.css
