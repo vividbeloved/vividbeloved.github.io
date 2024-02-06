@@ -101,7 +101,7 @@ Kekayaan seseorang dan negara cepat terwujud
 
 Namun, saya pikir masih banyak orang yang belum melakukannya
 
-Inilah cara kami memulai membangun kekayaan 丰 tahun ini
+Inilah cara kami memulai membangun kekayaan 丰 tahun ini dengan semangat
 
 Dengan semboyan ![deprecated](https://img.shields.io/badge/EVO_-_Excellent_Vivid_Opportunity-8A2BE2) Peluang Nyata yang Luar Biasa
 
