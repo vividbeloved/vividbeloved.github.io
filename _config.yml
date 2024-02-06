@@ -1,8 +1,20 @@
 # Pengaturan tema
-theme: jekyll-theme-slate
+remote_theme: mmistakes/minimal-mistakes
 
-# Pengaturan judul situs
-title: GetBos 丰
+# Informasi situs
+title: Blog Minimal Saya 丰
+
+description: Blog pribadi dengan tampilan minimalis.
+author:
+  name: Jack Bos
+  bio: Seorang penulis dan pembuat konten.
+
+# Pengaturan kustom
+social:
+  - title: GitHub
+    url: https://github.com/getbos
+  - title: Twitter
+    url: https://twitter.com/getbos
 
 # Pengaturan CSS tambahan
 sass:
