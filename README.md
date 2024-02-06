@@ -115,15 +115,15 @@ Peningkatan kecil dan konsisten akan membantu membuat peluang dan mengelola risi
 
 ### Menjaga Rasio Peluang Dan Risiko:
 
-Saat Anda meningkatkan ukuran perdagangan Anda, pertahankan persentase risiko Anda tetap konstan.
+Saat Anda meningkatkan ukuran perdagangan Anda, pertahankan persentase risiko Anda tetap konstan
 
-Jika Anda mengambil peluang dan risiko 1% per perdagangan pada akun $100, ambil risiko 1% yang sama ketika akun/aset Anda tumbuh menjadi $1000.
+Jika Anda mengambil peluang dan risiko 1% per perdagangan pada akun $100, ambil risiko 1% yang sama ketika akun/aset Anda tumbuh menjadi $1000
 
 Jika Anda mengambil peluang dan risiko 10% per perdagangan pada akun $20, ambil risiko 10% yang sama ketika akun Anda tumbuh menjadi $50.
 
-Saya pernah gagal ketika ekuitas $19.08 menjadi $70 tetapi tidak menggunakan rasio peluang dan risiko seperti semula.
+Saya pernah gagal kembali ke saldo $1 lagi, setelah ekuitas $19.08 menjadi $70. Terjadi, karena tidak menggunakan rasio peluang dan risiko seperti semula.
 
-Mengalami kejadian rugi yang drastis disebabkan emosi yang takut kehilangan jumlah yang lebih besar dari biasanya.
+Mengalami kejadian rugi yang drastis disebabkan emosi yang takut kehilangan jumlah yang lebih besar dari biasanya dan berharap akan kembali lagi.
 
 Sehingga logika terasa terhambat tanpa sadar ketika emosi mendominasi untuk mengambil keputusan.
 
@@ -172,21 +172,21 @@ Disiplin adalah guru Anda
 | ![deprecated](https://img.shields.io/badge/Ekuitas-8A2BE2)   | ![deprecated](https://img.shields.io/badge/Target-8A2BE2)   | ![deprecated](https://img.shields.io/badge/Total-8A2BE2)      | ![deprecated](https://img.shields.io/badge/Bulan-8A2BE2)          |
 | --------- | ----------------------------------------------------------- | ---------- | -------------- |
 | ![deprecated](https://img.shields.io/badge/$655,360-8A2BE2)  | ![deprecated](https://img.shields.io/badge/$655,360-8A2BE2) | ![deprecated](https://img.shields.io/badge/$1,310,720-8A2BE2) | ![deprecated](https://img.shields.io/badge/Mei_2025-8A2BE2)       |
-| ![deprecated](https://img.shields.io/badge/$327,680-3422E2)  | ![deprecated](https://img.shields.io/badge/$327,680-8A2BE2) | $655,360   | April 2025     |
-| ![deprecated](https://img.shields.io/badge/$163,840-3422E2)  | ![deprecated](https://img.shields.io/badge/$163,840-8A2BE2) | $327,680   | Maret 2025     |
-| ![deprecated](https://img.shields.io/badge/$81,920-3422E2)   | ![deprecated](https://img.shields.io/badge/$81,920-8A2BE2)  | $163,840   | Februari 2025  |
-| ![deprecated](https://img.shields.io/badge/$40,960-3422E2)   | ![deprecated](https://img.shields.io/badge/$40,960-8A2BE2)  | $81,920    | Januari 2025   |
-| ![deprecated](https://img.shields.io/badge/$20,480-3422E2)   | ![deprecated](https://img.shields.io/badge/$20,480-8A2BE2)  | $40,960    | Desember 2024  |
-| ![deprecated](https://img.shields.io/badge/$10,240-3422E2)   | ![deprecated](https://img.shields.io/badge/$10,240-8A2BE2)  | $20,480    | November 2024  |
-| ![deprecated](https://img.shields.io/badge/$5,120-3422E2)    | ![deprecated](https://img.shields.io/badge/$5,120-8A2BE2)   | $10,240    | Oktober 2024   |
-| ![deprecated](https://img.shields.io/badge/$2,560-3422E2)    | ![deprecated](https://img.shields.io/badge/$2,560-8A2BE2)   | $5,120     | September 2024 |
-| ![deprecated](https://img.shields.io/badge/$1,280-3422E2)    | ![deprecated](https://img.shields.io/badge/$1,280-8A2BE2)   | $2,560     | Agustus 2024   |
-| ![deprecated](https://img.shields.io/badge/$640-3422E2)      | ![deprecated](https://img.shields.io/badge/$640-8A2BE2)     | $1,280     | Juli 2024      |
-| ![deprecated](https://img.shields.io/badge/$320-3422E2)      | ![deprecated](https://img.shields.io/badge/$320-8A2BE2)     | $640       | ![deprecated](https://img.shields.io/badge/Juni_2024-2be23e)      |
-| ![deprecated](https://img.shields.io/badge/$160-3422E2)      | ![deprecated](https://img.shields.io/badge/$160-8A2BE2)     | $320       | ![deprecated](https://img.shields.io/badge/Mei_2024-2be23e)       |
-| ![deprecated](https://img.shields.io/badge/$80-3422E2)       | ![deprecated](https://img.shields.io/badge/$80-8A2BE2)      | $160       | ![deprecated](https://img.shields.io/badge/April_2024-2be23e)     |
-| ![deprecated](https://img.shields.io/badge/$40-3422E2)       | ![deprecated](https://img.shields.io/badge/$40-8A2BE2)      | $80        | ![deprecated](https://img.shields.io/badge/Maret_2024-2be23e)     |
-| ![deprecated](https://img.shields.io/badge/$20-3422E2)       | ![deprecated](https://img.shields.io/badge/$20-8A2BE2)      | $40        | ![deprecated](https://img.shields.io/badge/Februari_2024-e1f205)  |
+| ![deprecated](https://img.shields.io/badge/$327,680-3422E2)  | ![deprecated](https://img.shields.io/badge/$327,680-8A2BE2) | ![deprecated](https://img.shields.io/badge/$655,360-2be23e)   | April 2025     |
+| ![deprecated](https://img.shields.io/badge/$163,840-3422E2)  | ![deprecated](https://img.shields.io/badge/$163,840-8A2BE2) | ![deprecated](https://img.shields.io/badge/$327,680-2be23e)   | Maret 2025     |
+| ![deprecated](https://img.shields.io/badge/$81,920-3422E2)   | ![deprecated](https://img.shields.io/badge/$81,920-8A2BE2)  | ![deprecated](https://img.shields.io/badge/$163,840-2be23e)   | Februari 2025  |
+| ![deprecated](https://img.shields.io/badge/$40,960-3422E2)   | ![deprecated](https://img.shields.io/badge/$40,960-8A2BE2)  | ![deprecated](https://img.shields.io/badge/$81,920-2be23e)    | Januari 2025   |
+| ![deprecated](https://img.shields.io/badge/$20,480-3422E2)   | ![deprecated](https://img.shields.io/badge/$20,480-8A2BE2)  | ![deprecated](https://img.shields.io/badge/$40,960-2be23e)    | Desember 2024  |
+| ![deprecated](https://img.shields.io/badge/$10,240-3422E2)   | ![deprecated](https://img.shields.io/badge/$10,240-8A2BE2)  | ![deprecated](https://img.shields.io/badge/$20,480-2be23e)    | November 2024  |
+| ![deprecated](https://img.shields.io/badge/$5,120-3422E2)    | ![deprecated](https://img.shields.io/badge/$5,120-8A2BE2)   | ![deprecated](https://img.shields.io/badge/$10,240-2be23e)    | Oktober 2024   |
+| ![deprecated](https://img.shields.io/badge/$2,560-3422E2)    | ![deprecated](https://img.shields.io/badge/$2,560-8A2BE2)   | ![deprecated](https://img.shields.io/badge/$5,120-2be23e)     | September 2024 |
+| ![deprecated](https://img.shields.io/badge/$1,280-3422E2)    | ![deprecated](https://img.shields.io/badge/$1,280-8A2BE2)   | ![deprecated](https://img.shields.io/badge/$2,560-2be23e)     | Agustus 2024   |
+| ![deprecated](https://img.shields.io/badge/$640-3422E2)      | ![deprecated](https://img.shields.io/badge/$640-8A2BE2)     | ![deprecated](https://img.shields.io/badge/$1,280-2be23e)     | Juli 2024      |
+| ![deprecated](https://img.shields.io/badge/$320-3422E2)      | ![deprecated](https://img.shields.io/badge/$320-8A2BE2)     | ![deprecated](https://img.shields.io/badge/$640-2be23e)       | ![deprecated](https://img.shields.io/badge/Juni_2024-2be23e)      |
+| ![deprecated](https://img.shields.io/badge/$160-3422E2)      | ![deprecated](https://img.shields.io/badge/$160-8A2BE2)     | ![deprecated](https://img.shields.io/badge/$320-2be23e)       | ![deprecated](https://img.shields.io/badge/Mei_2024-2be23e)       |
+| ![deprecated](https://img.shields.io/badge/$80-3422E2)       | ![deprecated](https://img.shields.io/badge/$80-8A2BE2)      | ![deprecated](https://img.shields.io/badge/$160-2be23e)       | ![deprecated](https://img.shields.io/badge/April_2024-2be23e)     |
+| ![deprecated](https://img.shields.io/badge/$40-3422E2)       | ![deprecated](https://img.shields.io/badge/$40-8A2BE2)      | ![deprecated](https://img.shields.io/badge/$80-2be23e)       | ![deprecated](https://img.shields.io/badge/Maret_2024-2be23e)     |
+| ![deprecated](https://img.shields.io/badge/$20-3422E2)       | ![deprecated](https://img.shields.io/badge/$20-8A2BE2)      | ![deprecated](https://img.shields.io/badge/$40-3422E2)        | ![deprecated](https://img.shields.io/badge/Februari_2024-e1f205)  |
 | ![deprecated](https://img.shields.io/badge/$10-2be23e)       | ![deprecated](https://img.shields.io/badge/$10-8A2BE2)      | ![deprecated](https://img.shields.io/badge/$20-3422E2)        | ![deprecated](https://img.shields.io/badge/Januari_2024-E22E2B)   |
 
 ### Transaksi GetBos di jaringan Bitcoin
