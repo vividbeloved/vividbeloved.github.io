@@ -70,7 +70,7 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
 	 <div style="border:28px solid #8205f2">
           <p class="paragraph" style="font-size: 24px;">GetBos Research</p>
 	   <div align="center">
-            <h1 class="heading-5">Hidup banyak bahagianya, jika sama-sama kayanya 丰</h1>
+            <h1 class="heading-5">Merindukan tatanan masyarakat yang sejahterah 丰</h1>
 	   </div>
           <p class="margin-bottom-24px">A Space-Time Diffusion Model for Video Generation</p>
           <a href="https://arxiv.org/abs/2401.12945" class="button-primary w-button">Read Paper</a>
