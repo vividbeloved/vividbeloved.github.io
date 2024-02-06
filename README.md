@@ -172,21 +172,21 @@ Disiplin adalah guru Anda
 | ![deprecated](https://img.shields.io/badge/Ekuitas-8A2BE2)   | ![deprecated](https://img.shields.io/badge/Target-8A2BE2)   | ![deprecated](https://img.shields.io/badge/Total-8A2BE2)      | ![deprecated](https://img.shields.io/badge/Bulan-8A2BE2)          |
 | --------- | ----------------------------------------------------------- | ---------- | -------------- |
 | ![deprecated](https://img.shields.io/badge/$655,360-8A2BE2)  | ![deprecated](https://img.shields.io/badge/$655,360-8A2BE2) | ![deprecated](https://img.shields.io/badge/$1,310,720-8A2BE2) | ![deprecated](https://img.shields.io/badge/Mei_2025-8A2BE2)       |
-| $327,680  | ![deprecated](https://img.shields.io/badge/$327,680-8A2BE2) | $655,360   | April 2025     |
-| $163,840  | ![deprecated](https://img.shields.io/badge/$163,840-8A2BE2) | $327,680   | Maret 2025     |
-| $81,920   | ![deprecated](https://img.shields.io/badge/$81,920-8A2BE2)  | $163,840   | Februari 2025  |
-| $40,960   | ![deprecated](https://img.shields.io/badge/$40,960-8A2BE2)  | $81,920    | Januari 2025   |
-| $20,480   | ![deprecated](https://img.shields.io/badge/$20,480-8A2BE2)  | $40,960    | Desember 2024  |
-| $10,240   | ![deprecated](https://img.shields.io/badge/$10,240-8A2BE2)  | $20,480    | November 2024  |
-| $5,120    | ![deprecated](https://img.shields.io/badge/$5,120-8A2BE2)   | $10,240    | Oktober 2024   |
-| $2,560    | ![deprecated](https://img.shields.io/badge/$2,560-8A2BE2)   | $5,120     | September 2024 |
-| $1,280    | ![deprecated](https://img.shields.io/badge/$1,280-8A2BE2)   | $2,560     | Agustus 2024   |
-| $640      | ![deprecated](https://img.shields.io/badge/$640-8A2BE2)     | $1,280     | Juli 2024      |
-| $320      | ![deprecated](https://img.shields.io/badge/$320-8A2BE2)     | $640       | ![deprecated](https://img.shields.io/badge/Juni_2024-2be23e)      |
-| $160      | ![deprecated](https://img.shields.io/badge/$160-8A2BE2)     | $320       | ![deprecated](https://img.shields.io/badge/Mei_2024-2be23e)       |
-| $80       | ![deprecated](https://img.shields.io/badge/$80-8A2BE2)      | $160       | ![deprecated](https://img.shields.io/badge/April_2024-2be23e)     |
-| $40       | ![deprecated](https://img.shields.io/badge/$40-8A2BE2)      | $80        | ![deprecated](https://img.shields.io/badge/Maret_2024-2be23e)     |
-| $20       | ![deprecated](https://img.shields.io/badge/$20-8A2BE2)      | $40        | ![deprecated](https://img.shields.io/badge/Februari_2024-e1f205)  |
+| ![deprecated](https://img.shields.io/badge/$327,680-3422E2)  | ![deprecated](https://img.shields.io/badge/$327,680-8A2BE2) | $655,360   | April 2025     |
+| ![deprecated](https://img.shields.io/badge/$163,840-3422E2)  | ![deprecated](https://img.shields.io/badge/$163,840-8A2BE2) | $327,680   | Maret 2025     |
+| ![deprecated](https://img.shields.io/badge/$81,920-3422E2)   | ![deprecated](https://img.shields.io/badge/$81,920-8A2BE2)  | $163,840   | Februari 2025  |
+| ![deprecated](https://img.shields.io/badge/$40,960-3422E2)   | ![deprecated](https://img.shields.io/badge/$40,960-8A2BE2)  | $81,920    | Januari 2025   |
+| ![deprecated](https://img.shields.io/badge/$20,480-3422E2)   | ![deprecated](https://img.shields.io/badge/$20,480-8A2BE2)  | $40,960    | Desember 2024  |
+| ![deprecated](https://img.shields.io/badge/$10,240-3422E2)   | ![deprecated](https://img.shields.io/badge/$10,240-8A2BE2)  | $20,480    | November 2024  |
+| ![deprecated](https://img.shields.io/badge/$5,120-3422E2)    | ![deprecated](https://img.shields.io/badge/$5,120-8A2BE2)   | $10,240    | Oktober 2024   |
+| ![deprecated](https://img.shields.io/badge/$2,560-3422E2)    | ![deprecated](https://img.shields.io/badge/$2,560-8A2BE2)   | $5,120     | September 2024 |
+| ![deprecated](https://img.shields.io/badge/$1,280-3422E2)    | ![deprecated](https://img.shields.io/badge/$1,280-8A2BE2)   | $2,560     | Agustus 2024   |
+| ![deprecated](https://img.shields.io/badge/$640-3422E2)      | ![deprecated](https://img.shields.io/badge/$640-8A2BE2)     | $1,280     | Juli 2024      |
+| ![deprecated](https://img.shields.io/badge/$320-3422E2)      | ![deprecated](https://img.shields.io/badge/$320-8A2BE2)     | $640       | ![deprecated](https://img.shields.io/badge/Juni_2024-2be23e)      |
+| ![deprecated](https://img.shields.io/badge/$160-3422E2)      | ![deprecated](https://img.shields.io/badge/$160-8A2BE2)     | $320       | ![deprecated](https://img.shields.io/badge/Mei_2024-2be23e)       |
+| ![deprecated](https://img.shields.io/badge/$80-3422E2)       | ![deprecated](https://img.shields.io/badge/$80-8A2BE2)      | $160       | ![deprecated](https://img.shields.io/badge/April_2024-2be23e)     |
+| ![deprecated](https://img.shields.io/badge/$40-3422E2)       | ![deprecated](https://img.shields.io/badge/$40-8A2BE2)      | $80        | ![deprecated](https://img.shields.io/badge/Maret_2024-2be23e)     |
+| ![deprecated](https://img.shields.io/badge/$20-3422E2)       | ![deprecated](https://img.shields.io/badge/$20-8A2BE2)      | $40        | ![deprecated](https://img.shields.io/badge/Februari_2024-e1f205)  |
 | ![deprecated](https://img.shields.io/badge/$10-2be23e)       | ![deprecated](https://img.shields.io/badge/$10-8A2BE2)      | ![deprecated](https://img.shields.io/badge/$20-3422E2)        | ![deprecated](https://img.shields.io/badge/Januari_2024-E22E2B)   |
 
 ### Transaksi GetBos di jaringan Bitcoin
