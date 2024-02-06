@@ -1,20 +1,19 @@
 # Pengaturan tema
 remote_theme: mmistakes/minimal-mistakes
 
-# Pengaturan Informasi situs
-title: Blog Minimal Saya 丰
-
+# Informasi situs
+title: Blog Minimal Saya
 description: Blog pribadi dengan tampilan minimalis.
 author:
-  name: Jack Bos
+  name: John Doe
   bio: Seorang penulis dan pembuat konten.
 
 # Pengaturan kustom
 social:
   - title: GitHub
-    url: https://github.com/getbos
+    url: https://github.com/username
   - title: Twitter
-    url: https://twitter.com/getbos
+    url: https://twitter.com/username
 
 # Pengaturan CSS tambahan
 sass:
