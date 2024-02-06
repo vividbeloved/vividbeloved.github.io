@@ -1,7 +1,0 @@
-remote_theme: mmistakes/minimal-mistakes
-plugins:
-  - jekyll-remote-theme
-
-# Menambahkan CSS kustom
-stylesheets:
-  - "/assets/css/custom.css"
