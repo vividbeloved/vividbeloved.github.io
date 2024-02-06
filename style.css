@@ -19,62 +19,7 @@ body {
   overflow: hidden;
 }
 
-.navbar ul {
-  list-style-type: none;
-}
-
-.navbar li {
-  float: left;
-  margin: 0;
-}
-
-.navbar a {
-  display: block;
-  color: #333;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
-
-.navbar a:hover {
-  background-color: #ddd;
-  color: #333;
-}
-
-/* Heading Styles */
-h1, h2, h3 {
-  color: #333;
-}
-
-/* Link Styles */
-a {
-  color: #007BFF;
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
-/* Container Styles */
-.container {
-  width: 80%;
-  margin: 0 auto;
-}
-
-/* Button Styles */
-.button {
-  display: inline-block;
-  padding: 10px 20px;
-  background-color: #007BFF;
-  color: #fff;
-  text-decoration: none;
-  border-radius: 5px;
-}
-
-.button:hover {
-  background-color: #0056b3;
-}
+/* ... (Sisipkan CSS lainnya sesuai kebutuhan Anda) ... */
 
 /* Footer Styles */
 .footer {
