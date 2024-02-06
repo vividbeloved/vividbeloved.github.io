@@ -200,15 +200,15 @@ Disiplin adalah guru Anda
  ![deprecated](https://img.shields.io/badge/Silahkan_menggunakan_dengan_riset_dan_risiko_Anda_sendiri-E22E2B)
  
  ![deprecated](https://img.shields.io/badge/status-berjalan-lime.svg?style=flat-square)
- ![](https://img.shields.io/keybase/btc/gainbrat) <a href="https://mempool.space/address/1EZjeVjTZZNz5P9p4Qe9QxybCw2znxFB6B" >
+ ![](https://img.shields.io/keybase/btc/gainbrat) <a href="https://mempool.space/address/1EZjeVjTZZNz5P9p4Qe9QxybCw2znxFB6B" target="_blank">
    <img src="https://img.shields.io/badge/mempool-%231877F2.svg?&style=flat-square&logo=mempool&logoColor=white" alt="mempool"></a>
    
- ![](https://img.shields.io/keybase/btc/getbos) <a href="https://mempool.space/address/1DEUSxZqiWNMdLNhrHNBL6PYDKq5qWdcug" >
+ ![](https://img.shields.io/keybase/btc/getbos) <a href="https://mempool.space/address/1DEUSxZqiWNMdLNhrHNBL6PYDKq5qWdcug" target="_blank">
    <img src="https://img.shields.io/badge/mempool-%231877F2.svg?&style=flat-square&logo=mempool&logoColor=white" alt="mempool"></a>
     ![deprecated](https://img.shields.io/badge/status-berjalan-lime.svg?style=flat-square)
 
 <div align="center">
- <a href="https://www.facebook.com/metabrani" >
+ <a href="https://www.facebook.com/metabrani" target="_blank">
    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
  <a href="https://www.twitter.com/getbos" >
    <img src="https://img.shields.io/badge/twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="twitter"></a>
