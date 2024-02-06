@@ -1,7 +1,5 @@
 <!-- Tautan CSS -->
 <link rel="stylesheet" type="text/css" href="style.css">
-
-# [GetBos - Gate Economy Trade Bitcoin and Other Stuff](https://getbos.github.io)
   <!-- Navbar -->
 <nav class="navbar">
   <ul>
@@ -12,7 +10,7 @@
   </ul>
 </nav>
 
-## Tentang Saya
+# Tentang Saya [GetBos - Gate Economy Trade Bitcoin and Other Stuff](https://getbos.github.io)
 
 Tulis sedikit tentang diri Anda atau proyek Anda di sini.
 
