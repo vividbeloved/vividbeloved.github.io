@@ -26,6 +26,7 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
 3. [Proyek Tiga](link_proyek_tiga)
 
 ## Gambar
+<img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fgetbos.github.io">
 
 ![Logo GitHub](https://img.shields.io/github/followers/getbos)
 
@@ -87,8 +88,6 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
                                       Gerbang Ekonomi Perdagangan Bitcoin dan Barang Lainnya
                                                    Peluang Nyata yang Luar Biasa
 ```
-<img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fgetbos.github.io">
-
 ![deprecated](https://img.shields.io/badge/Pengingat-8A2BE2) ![luar biasa](https://awesome.re/badge.svg) 
 ![](https://img.shields.io/github/followers/getbos) ![](https://img.shields.io/github/stars/getbos/getbos.github.io)
 
@@ -162,12 +161,11 @@ Keterangan lebih lanjut tentang pengetahuan <a href="https://positivepsychology.
 ### Ingatlah selalu bahwa keuntungan yang lebih tinggi biasanya disertai dengan peluang dan risiko yang lebih tinggi.
 
 ```
-Rencana perdagangan Anda adalah panduan Anda
-
-Disiplin adalah guru Anda
-
 Pasar adalah majikan Anda
 
+Rencana adalah panduan Anda
+
+Disiplin adalah guru Anda
 ```
 
 ## Tujuan utama dan terpenting seorang pedagang di pasar uang adalah menjaga uangnya agar tidak hilang. Benar gak Bos?
