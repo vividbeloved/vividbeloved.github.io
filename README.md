@@ -25,7 +25,7 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
 ## Gambar
 <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fgetbos.github.io">
 
-![Logo GitHub](https://img.shields.io/github/followers/getbos)
+![Logo GitHub](https://img.shields.io/github/followers/getbos) ![image](https://github.com/getbos/getbos.github.io/assets/149059120/79258aee-f2d8-4a1c-bc06-124e2fec49ea)
 
 ## Tautan
 
@@ -70,7 +70,7 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
 	 <div style="border:28px solid #8205f2">
           <p class="paragraph" style="font-size: 24px;">GetBos Research</p>
 	   <div align="center">
-            <h1 class="heading-5">Merindukan tatanan masyarakat yang sejahterah 丰</h1>
+            <h1 class="heading-5">Merindukan Tatanan Masyarakat Sejahterah 丰</h1>
 	   </div>
           <p class="margin-bottom-24px">A Space-Time Diffusion Model for Video Generation</p>
           <a href="https://arxiv.org/abs/2401.12945" class="button-primary w-button">Read Paper</a>
