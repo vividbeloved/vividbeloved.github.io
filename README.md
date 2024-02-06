@@ -200,29 +200,26 @@ Disiplin adalah guru Anda
  ![deprecated](https://img.shields.io/badge/Silahkan_menggunakan_dengan_riset_dan_risiko_Anda_sendiri-E22E2B)
  
 - ![deprecated](https://img.shields.io/badge/status-berjalan-lime.svg?style=flat-square)
-- ![](https://img.shields.io/keybase/btc/gainbrat)
-- ![](https://img.shields.io/keybase/btc/getbos)
-- ![](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge)
-- <img alt="X (formerly Twitter)" src="https://img.shields.io/twitter/follow/GetBos丰"> 
+- ![](https://img.shields.io/keybase/btc/gainbrat) <a href="https://mempool.space/address/1EZjeVjTZZNz5P9p4Qe9QxybCw2znxFB6B" >
+   <img src="https://img.shields.io/badge/mempool-%231877F2.svg?&style=flat-square&logo=mempool&logoColor=white" alt="mempool"></a>
+- ![](https://img.shields.io/keybase/btc/getbos) <a href="https://mempool.space/address/1DEUSxZqiWNMdLNhrHNBL6PYDKq5qWdcug" >
+   <img src="https://img.shields.io/badge/mempool-%231877F2.svg?&style=flat-square&logo=mempool&logoColor=white" alt="mempool"></a>
 
-<div align="center">
-        <a class="text-blue" href="https://metabrani.github.io">MetaBrani</a> |
-	<a class="text-blue" href="https://primal.net/evo">Primal</a> |
-        <a class="text-blue" href="https://atomicwallet.io">Atomic Wallet</a> |
-	<a class="text-blue" href="https://t.me/pasaruang">Telegram</a> |
-	<a class="text-blue" href="https://api.whatsapp.com/send?phone=6282264083228">WhatsApp</a> |
-	<a class="text-blue" href="https://getalby.com/getbos">Alby</a>
-</div>
-<li></li>
 <div align="center">
  <a href="https://www.facebook.com/metabrani" >
    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
  <a href="https://www.twitter.com/getbos" >
    <img src="https://img.shields.io/badge/twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="twitter"></a>
+	<a href="https://www.telegram.com/getboz" >
+   <img src="https://img.shields.io/badge/telegram-%231877F2.svg?&style=flat-square&logo=telegram&logoColor=white" alt="telegram"></a>
+ <a href="https://www.youtube.com/getbos" >
+   <img src="https://img.shields.io/badge/youtube-%231877F2.svg?&style=flat-square&logo=youtube&logoColor=white" alt="youtube"></a>
+   <a href="https://www.getalby.com/getbos" >
+   <img src="https://img.shields.io/badge/getalby-%231877F2.svg?&style=flat-square&logo=getalby&logoColor=white" alt="getalby"></a>
+ <a href="https://www.primal.net/evo" >
+   <img src="https://img.shields.io/badge/primal-%231877F2.svg?&style=flat-square&logo=primal&logoColor=white" alt="primal"></a>
+
+
  <!-- Tautan CSS -->
 <link rel="stylesheet" type="text/css" href="style.css">
-<a href="https://www.facebook.com/metabrani" >
-   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
- <a href="https://www.twitter.com/getbos" >
-   <img src="https://img.shields.io/badge/twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="twitter"></a>
 
