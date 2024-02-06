@@ -18,7 +18,7 @@ Tulis sedikit tentang diri Anda atau proyek Anda di sini.
 
 Berikut adalah beberapa proyek yang pernah saya kerjakan:
 
-1. [Proyek Satu](link_proyek_satu) <a href="https://metabrani.github.io/" target="_blank">MetaBrani</a> metabrani.github.io
+1. [Proyek Satu](link_proyek_satu) k <a href="https://metabrani.github.io/" target="_blank">MetaBrani</a> metabrani.github.io
 2. [Proyek Dua](https://mempool.space/tx/f61be88b48af826c9056f6fc1c7391ca8e052a83d8f00efc5a6c4025c389f280) OP_RETURN getbos
 3. [Proyek Tiga](link_proyek_tiga) <a href="https://getbos.github.io/" target="_blank">Akses Situs Web</a> uji comit
    
