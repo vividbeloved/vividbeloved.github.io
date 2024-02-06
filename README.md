@@ -210,15 +210,15 @@ Disiplin adalah guru Anda
 <div align="center">
  <a href="https://www.facebook.com/metabrani" target="_blank">
    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
- <a href="https://www.twitter.com/getbos" >
+ <a href="https://www.twitter.com/getbos" target="_blank">
    <img src="https://img.shields.io/badge/twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="twitter"></a>
-	<a href="https://www.telegram.com/getboz" >
+	<a href="https://www.telegram.com/getboz" target="_blank">
    <img src="https://img.shields.io/badge/telegram-%231877F2.svg?&style=flat-square&logo=telegram&logoColor=white" alt="telegram"></a>
- <a href="https://www.youtube.com/@getbos" >
+ <a href="https://www.youtube.com/@getbos" target="_blank">
    <img src="https://img.shields.io/badge/youtube-%231877F2.svg?&style=flat-square&logo=youtube&logoColor=white" alt="youtube"></a>
-   <a href="https://www.getalby.com/getbos" >
+   <a href="https://www.getalby.com/getbos" target="_blank">
    <img src="https://img.shields.io/badge/getalby-%231877F2.svg?&style=flat-square&logo=getalby&logoColor=white" alt="getalby"></a>
- <a href="www.primal.net/evo" target="_blank">
+ <a href="https://primal.net/evo" target="_blank">
    <img src="https://img.shields.io/badge/primal-%231877F2.svg?&style=flat-square&logo=primal&logoColor=white" alt="primal"></a>
 
  <!-- Tautan CSS -->
