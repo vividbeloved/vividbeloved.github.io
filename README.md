@@ -20,10 +20,9 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
 
 1. [Proyek Satu](https://metabrani.github.io) metabrani.github.io
 2. [Proyek Dua](https://mempool.space/tx/f61be88b48af826c9056f6fc1c7391ca8e052a83d8f00efc5a6c4025c389f280) OP_RETURN getbos
-3. [Proyek Tiga]link_proyek_tiga <a href="https://getbos.github.io/" target="_blank" rel="noopener noreferrer">Akses Situs Web</a>
+3. [Proyek Tiga](link_proyek_tiga)
 
-
-
+   
 ## Gambar
 <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fgetbos.github.io">
 
