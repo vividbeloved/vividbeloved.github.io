@@ -191,7 +191,7 @@ Disiplin adalah guru Anda
 
 ### Transaksi GetBos di jaringan Bitcoin
 1. Bukti transaksi perdana dengan tulisan  <a href="https://mempool.space/tx/f61be88b48af826c9056f6fc1c7391ca8e052a83d8f00efc5a6c4025c389f280" class="button-primary w-button">OP_RETURN</a> getbos gate economy trade bitcoin and other stuff
-2. Jika melihat di <a href="https://mempool.space/block/000000000000000000028611f8e3fc06e80ca6e1cd7df45c0fdf7cd524fda567" class="button-primary w-button">Block 828889</a> mempool, ada di halaman 27.
+2. Jika melihat di <a href="https://mempool.space/block/000000000000000000028611f8e3fc06e80ca6e1cd7df45c0fdf7cd524fda567" target="_blank">Block 828889</a>mempool, ada di halaman 27. 
 3. Urutan 656 dari total 2,814 transaksi dalam 1 block.
 4. Block 828889 selesai jam 20:12 WIB
 
@@ -218,7 +218,7 @@ Disiplin adalah guru Anda
    <img src="https://img.shields.io/badge/youtube-%231877F2.svg?&style=flat-square&logo=youtube&logoColor=white" alt="youtube"></a>
    <a href="https://www.getalby.com/getbos" >
    <img src="https://img.shields.io/badge/getalby-%231877F2.svg?&style=flat-square&logo=getalby&logoColor=white" alt="getalby"></a>
- <a href="https://www.primal.net/evo" >
+ <a href="www.primal.net/evo" target="_blank">
    <img src="https://img.shields.io/badge/primal-%231877F2.svg?&style=flat-square&logo=primal&logoColor=white" alt="primal"></a>
 
  <!-- Tautan CSS -->
