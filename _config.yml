@@ -1,24 +1,7 @@
-# Pengaturan tema
 remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-remote-theme
 
-# Informasi situs
-title: Blog Minimal Saya
-description: Blog pribadi dengan tampilan minimalis.
-author:
-  name: John Doe
-  bio: Seorang penulis dan pembuat konten.
-
-# Pengaturan kustom
-social:
-  - title: GitHub
-    url: https://github.com/username
-  - title: Twitter
-    url: https://twitter.com/username
-
-# Pengaturan CSS tambahan
-sass:
-  style: compressed
-
-# Pengaturan kustom CSS
-custom_css:
-  - assets/css/custom.css
+# Menambahkan CSS kustom
+stylesheets:
+  - "/assets/css/custom.css"
