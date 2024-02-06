@@ -27,7 +27,7 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
 ## Gambar
 <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fgetbos.github.io">
 
-![Logo GitHub](https://img.shields.io/github/followers/getbos) ![image](https://github.com/getbos/getbos.github.io/assets/149059120/79258aee-f2d8-4a1c-bc06-124e2fec49ea)
+![Logo GitHub](https://img.shields.io/github/followers/getbos)
 
 ## Tautan
 
