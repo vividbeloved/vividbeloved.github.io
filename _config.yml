@@ -1,2 +1,9 @@
-# Dalam file _config.yml
-remote_theme: "mmistakes/minimal-mistakes"
+# Konfigurasi Jekyll
+title: "GetBos Web"
+description: "Situs Web GetBos"
+theme: "jekyll/minimal-mistakes"
+url: "https://getbos.github.io"
+
+# Pengaturan GitHub Pages
+repository: "getbos/getbos.github.io"
+branch: "main"
