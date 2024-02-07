@@ -8,7 +8,7 @@ body {
 }
 
 header {
-    background-color: #333;
+    background-color: #ff0000; /* Ganti dengan warna merah yang diinginkan (#ff0000 adalah kode warna merah) */
     color: #fff;
     padding: 20px;
     text-align: center;
