@@ -1,7 +1,7 @@
 <!-- Tautan CSS -->
 <link rel="stylesheet" type="text/css" href="style.css">
 
-# [Gerbang Ekonomi Menuju Masa Depan 丰](https://getbos.github.io)
+# [Gerbang Ekonomi Menuju Masa Depan 丰 :rocket:](https://getbos.github.io)
   <!-- Navbar -->
 <nav class="navbar">
   <ul>
