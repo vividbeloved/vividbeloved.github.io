@@ -5,6 +5,18 @@ body {
   margin: 20px;
 }
 
+body {
+  text-align: center;
+}
+
+<div class="centered-text">
+  <p>Teks yang ingin di pusatkan.</p>
+</div>
+
+.centered-text {
+  text-align: center;
+}
+
 /* Style untuk judul utama */
 h1 {
   color: #333;
