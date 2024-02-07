@@ -12,7 +12,19 @@
 
 # [Gerbang Ekonomi Menuju Masa Depan 丰](https://getbos.github.io)
 
+## Belum dirapikan
+
 Tulis sedikit tentang diri Anda atau proyek Anda di sini.
+
+:rocket: Proyek diluncurkan!
+
+- [x] Tugas Selesai
+- [ ] Tugas Belum Selesai
+
+ ![Build Status](https://img.shields.io/travis/getbos/getbos.github.io/master.svg)
+
+
+
 
 ## Portfolio
 
