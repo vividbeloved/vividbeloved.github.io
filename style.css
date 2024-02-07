@@ -5,20 +5,23 @@ body {
     height: 100vh;
     margin: 0;
     text-align: center;
+    font-family: 'Arial', sans-serif;
+    background-color: #f7f7f7; /* Warna latar belakang halaman */
+}
+
+header {
+    background-color: #333; /* Warna latar belakang header */
+    color: #fff; /* Warna teks header */
+    padding: 20px;
 }
 
 h1 {
-    color: #333;
     font-size: 36px;
     margin: 0;
 }
 
-header {
-    margin-top: 50px; /* Optional: Untuk memberikan sedikit ruang atas header */
-}
-
-header h1 {
-    margin-bottom: 20px; /* Optional: Untuk memberikan sedikit ruang bawah judul */
+nav {
+    margin-top: 20px;
 }
 
 nav ul {
@@ -28,12 +31,22 @@ nav ul {
 
 nav li {
     display: inline-block;
-    margin-right: 20px; /* Optional: Untuk memberikan sedikit ruang antara elemen menu */
+    margin-right: 20px;
 }
 
 nav a {
     text-decoration: none;
-    color: #333; /* Warna tautan */
+    color: #fff; /* Warna teks tautan navigasi */
     font-weight: bold;
-    font-size: 16px; /* Ukuran teks */
+    font-size: 16px;
+}
+
+.content {
+    margin-top: 20px;
+    max-width: 600px; /* Lebar maksimum konten */
+}
+
+/* Gaya tambahan untuk tautan yang dihover */
+nav a:hover {
+    text-decoration: underline;
 }
