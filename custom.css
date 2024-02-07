@@ -1,99 +1,22 @@
-/* Style untuk body */
-body {
-  font-family: 'Arial', sans-serif;
-  line-height: 1.6;
-  margin: 20px;
+/* custom.css */
+
+/* Aturan khusus untuk halaman tertentu atau komponen tambahan */
+.header-special {
+    background-color: #ffcc00;
+    color: #333;
 }
 
-body {
-  text-align: center;
+.content-custom {
+    background-color: #e0e0e0;
+    padding: 30px;
 }
 
-<div class="centered-text">
-  <p>Teks yang ingin di pusatkan.</p>
-</div>
-
-.centered-text {
-  text-align: center;
+/* Aturan untuk mengubah warna tautan pada konten */
+.content-custom a {
+    color: #0066cc;
 }
 
-/* Style untuk judul utama */
-h1 {
-  color: #333;
-}
-
-/* Style untuk tautan */
-a {
-  color: #0078d4;
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
-/* Style untuk blok kode */
-pre {
-  background-color: #f8f8f8;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  padding: 10px;
-  overflow: auto;
-}
-
-/* Style untuk highlight kode */
-code {
-  color: #333;
-}
-
-/* Style untuk blok kutipan */
-blockquote {
-  border-left: 4px solid #0078d4;
-  padding: 10px;
-  margin: 0;
-}
-
-/* Style untuk gambar */
-img {
-  max-width: 100%;
-  height: auto;
-}
-
-/* Style untuk tabel */
-table {
-  border-collapse: collapse;
-  width: 100%;
-}
-
-th, td {
-  border: 1px solid #ddd;
-  padding: 8px;
-  text-align: left;
-}
-
-th {
-  background-color: #f2f2f2;
-}
-
-/* Style untuk list */
-ul, ol {
-  margin-top: 0;
-  margin-bottom: 20px;
-}
-
-/* Style untuk footnotes */
-.footnotes {
-  font-size: 0.9em;
-}
-
-/* Style untuk garis pemisah */
-hr {
-  border: 1px solid #ddd;
-}
-
-/* Style untuk konten responsif */
-@media only screen and (max-width: 600px) {
-  body {
-    font-size: 14px;
-  }
+/* Animasi tambahan untuk tautan */
+.content-custom a:hover {
+    text-decoration: underline;
 }
