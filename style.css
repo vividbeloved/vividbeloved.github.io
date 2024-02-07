@@ -1,54 +1,21 @@
-/* style.css */
-
 body {
-    font-family: 'Arial', sans-serif;
-    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
     color: #333;
-    margin: 0;
+    margin: 20px;
 }
 
 header {
-    background-color: #ff0000; /* Ganti dengan warna merah yang diinginkan (#ff0000 adalah kode warna merah) */
+    background-color: #007BFF;
     color: #fff;
-    padding: 20px;
+    padding: 10px;
     text-align: center;
 }
 
-h1 {
-    font-size: 36px;
-    margin-bottom: 10px;
-}
-
-nav {
+footer {
+    margin-top: 20px;
+    padding: 10px;
     text-align: center;
-}
-
-nav ul {
-    list-style: none;
-    padding: 0;
-}
-
-nav li {
-    display: inline-block;
-    margin-right: 20px;
-}
-
-nav a {
-    text-decoration: none;
-    color: #333;
-    font-weight: bold;
-    font-size: 16px;
-    transition: color 0.3s ease;
-}
-
-nav a:hover {
-    color: #f00;
-}
-
-.content {
-    max-width: 800px;
-    margin: 20px auto;
-    padding: 20px;
-    background-color: #fff;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #007BFF;
+    color: #fff;
 }
