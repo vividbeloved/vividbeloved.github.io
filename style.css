@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+}
+
+header {
+    margin-top: 50px; /* Optional: Untuk memberikan sedikit ruang atas header */
+}
+
+header h1 {
+    margin-bottom: 20px; /* Optional: Untuk memberikan sedikit ruang bawah judul */
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 20px; /* Optional: Untuk memberikan sedikit ruang antara elemen menu */
+}
+
+nav a {
+    text-decoration: none;
+    color: #333; /* Warna tautan */
+    font-weight: bold;
+    font-size: 16px; /* Ukuran teks */
+}
