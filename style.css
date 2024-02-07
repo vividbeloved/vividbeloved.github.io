@@ -1,27 +1,30 @@
-body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
+/* Reset CSS */
+body, h1, h2, p, ul {
     margin: 0;
-    text-align: center;
+    padding: 0;
+}
+
+body {
     font-family: 'Arial', sans-serif;
-    background-color: #f7f7f7; /* Warna latar belakang halaman */
+    background-color: #f4f4f4;
+    color: #333;
 }
 
 header {
-    background-color: #333; /* Warna latar belakang header */
-    color: #fff; /* Warna teks header */
+    background-color: #333;
+    color: #fff;
     padding: 20px;
+    text-align: center;
 }
 
 h1 {
     font-size: 36px;
-    margin: 0;
+    margin-bottom: 10px;
 }
 
 nav {
     margin-top: 20px;
+    text-align: center;
 }
 
 nav ul {
@@ -36,17 +39,28 @@ nav li {
 
 nav a {
     text-decoration: none;
-    color: #fff; /* Warna teks tautan navigasi */
+    color: #333;
     font-weight: bold;
     font-size: 16px;
+    transition: color 0.3s ease;
+}
+
+nav a:hover {
+    color: #f00;
 }
 
 .content {
-    margin-top: 20px;
-    max-width: 600px; /* Lebar maksimum konten */
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-/* Gaya tambahan untuk tautan yang dihover */
-nav a:hover {
-    text-decoration: underline;
+/* Media query untuk responsivitas */
+@media screen and (max-width: 600px) {
+    nav li {
+        display: block;
+        margin-bottom: 10px;
+    }
 }
