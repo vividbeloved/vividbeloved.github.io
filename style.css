@@ -1,13 +1,10 @@
-/* Reset CSS */
-body, h1, h2, p, ul {
-    margin: 0;
-    padding: 0;
-}
+/* style.css */
 
 body {
     font-family: 'Arial', sans-serif;
     background-color: #f4f4f4;
     color: #333;
+    margin: 0;
 }
 
 header {
@@ -23,7 +20,6 @@ h1 {
 }
 
 nav {
-    margin-top: 20px;
     text-align: center;
 }
 
@@ -55,12 +51,4 @@ nav a:hover {
     padding: 20px;
     background-color: #fff;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
-
-/* Media query untuk responsivitas */
-@media screen and (max-width: 600px) {
-    nav li {
-        display: block;
-        margin-bottom: 10px;
-    }
 }
