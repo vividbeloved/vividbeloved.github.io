@@ -1,16 +1,13 @@
 <!-- Tautan CSS -->
 <link rel="stylesheet" type="text/css" href="style.css">
+
+# [Gerbang Ekonomi Menuju Masa Depan 丰](https://getbos.github.io)
   <!-- Navbar -->
 <nav class="navbar">
   <ul>
-    <li><a href="#">Beranda</a></li>
-    <li><a href="#">Tentang</a></li>
-    <li><a href="#">Proyek</a></li>
-    <li><a href="#">Kontak</a></li>
+    <li><a href="#">Beranda</a> <a href="#">Tentang</a> <a href="#">Proyek</a> <a href="#">Kontak</a></li>
   </ul>
 </nav>
-
-# [Gerbang Ekonomi Menuju Masa Depan 丰](https://getbos.github.io)
 
 ## Belum dirapikan
 
