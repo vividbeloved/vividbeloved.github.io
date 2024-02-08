@@ -1,5 +1,5 @@
 <!-- Tautan CSS -->
-<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="stylesheet" type="text/css" href="/style.css">
 
 # [Gerbang Ekonomi Menuju Masa Depan 丰 :rocket:](https://getbos.github.io)
   <!-- Navbar -->
@@ -231,5 +231,5 @@ Disiplin adalah guru Anda
    <img src="https://img.shields.io/badge/primal-%231877F2.svg?&style=flat-square&logo=primal&logoColor=white" alt="primal"></a>
 
  <!-- Tautan CSS -->
-<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="stylesheet" type="text/css" href="/style.css">
 
