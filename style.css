@@ -15,6 +15,8 @@ header {
 section {
     margin-top: 20px;
     text-align: center;
+    border-left-width: 50%; /* Lebar batas kiri 50% dari lebar elemen */
+    border-right-width: 50%; /* Lebar batas kanan 50% dari lebar elemen */
 }
 
 button {
