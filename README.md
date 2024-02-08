@@ -4,6 +4,8 @@
 # [Gerbang Ekonomi Menuju Masa Depan 丰 :rocket:](https://getbos.github.io)
 
 <a href="#bawah" class="w3-bar-item w3-button"> Bawah</a>
+<!-- About Section -->
+<div class="w3-container" style="padding:0px 0px" id="atas"></div>
 
 ## Belum dirapikan
 
@@ -228,6 +230,8 @@ Pasar adalah majikan Anda
  ![](https://img.shields.io/keybase/btc/getbos) <a href="https://mempool.space/address/1DEUSxZqiWNMdLNhrHNBL6PYDKq5qWdcug" target="_blank">
    <img src="https://img.shields.io/badge/mempool-%231877F2.svg?&style=flat-square&logo=mempool&logoColor=white" alt="mempool"></a>
     ![deprecated](https://img.shields.io/badge/status-berjalan-lime.svg?style=flat-square)
+
+<a href="#atas" class="w3-bar-item w3-button"> Keatas</a>
 
 <div align="center">
  <a href="https://www.facebook.com/metabrani" target="_blank">
