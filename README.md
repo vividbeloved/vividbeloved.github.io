@@ -3,10 +3,7 @@
 
 # [Gerbang Ekonomi Menuju Masa Depan 丰 :rocket:](https://getbos.github.io)
 
- <!-- Right-sided navbar links -->
- <div class="w3-right w3-hide-small">
- <a href="#bawah" class="w3-bar-item w3-button"> Bawah</a>
- </div>
+<a href="#bawah" class="w3-bar-item w3-button"> Bawah</a>
 
 ## Belum dirapikan
 
@@ -216,9 +213,9 @@ Pasar adalah majikan Anda
 4. Block 828889 selesai jam 20:12 WIB
 
 <!-- About Section -->
-<div class="w3-container" style="padding:128px 16px" id="bawah">
+<div class="w3-container" style="padding:128px 16px" id="bawah">A</div>
 	
-  ## Bawah
+## Bawah
 
  ![deprecated](https://img.shields.io/badge/Situs_ini_dalam_pengembangan-3422E2)  
  ![deprecated](https://img.shields.io/badge/Halaman_bersifat_eksperimental-8A2BE2)  
