@@ -213,7 +213,7 @@ Pasar adalah majikan Anda
 4. Block 828889 selesai jam 20:12 WIB
 
 <!-- About Section -->
-<div class="w3-container" style="padding:0px 0px" id="bawah"> 
+<div class="w3-container" style="padding:0px 0px" id="bawah"></div>
 
 ## Bawah
 
