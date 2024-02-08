@@ -3,6 +3,8 @@ body {
     background-color: #f0f0f0;
     color: #333;
     margin: 20px;
+    padding-left: 75px; /* 20 cm x 37.8 piksel/cm */
+    padding-right: 75px; /* 20 cm x 37.8 piksel/cm */
 }
 
 header {
