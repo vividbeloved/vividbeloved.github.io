@@ -20,9 +20,6 @@ Tulis sedikit tentang diri Anda atau proyek Anda di sini.
 
  ![Build Status](https://img.shields.io/travis/getbos/getbos.github.io/master.svg)
 
-
-
-
 ## Portfolio
 
 Berikut adalah beberapa proyek yang pernah saya kerjakan:
@@ -38,7 +35,7 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
 
 ## Tautan
 
-[GitHub Pages](https://pages.github.com/)
+[GitHub Pages](https://pages.github.com/) |
 <a href="https://pages.github.io/" target="_blank">GitHub Pages</a>
 
 ## Daftar
