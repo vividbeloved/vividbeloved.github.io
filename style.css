@@ -1,80 +1,16 @@
-/* Reset CSS */
-body, h1, h2, h3, p, ul, ol, li, figure, figcaption {
-  margin: 0;
-  padding: 0;
-}
+body, html {
+      height: 100%;
+      line-height: 1.8;
+    }
 
-body {
-  font-family: 'Arial', sans-serif;
-  font-size: 16px;
-  line-height: 1.6;
-  color: #333;
-  background-color: #f8f8f8;
-}
+    /* Full height image header */
+    .bgimg-1 {
+      background-position: center;
+      background-size: cover;
+      background-image: url("https://nosta.me/_nuxt/bubbles_2x.f5de96a8.jpg");
+      min-height: 100%;
+    }
 
-.container {
-  width: 50%;
-  max-width: 800px;
-  margin-left: 30px; /* Ruang kosong kiri */
-  margin-right: 30px; /* Ruang kosong kanan */
-}
-
-header {
-  background-color: #007bff;
-  color: #fff;
-  padding: 20px 0;
-  text-align: center;
-}
-
-nav {
-  margin-top: 20px;
-}
-
-nav a {
-  text-decoration: none;
-  color: #333;
-  padding: 10px;
-  display: inline-block;
-}
-
-nav a:hover {
-  background-color: #ddd;
-  color: #007bff;
-}
-
-section {
-  padding: 20px 0;
-}
-
-footer {
-  background-color: #333;
-  color: #fff;
-  padding: 10px 0;
-  text-align: center;
-}
-
-/* Responsive Design */
-@media only screen and (max-width: 768px) {
-  .container {
-    width: 90%;
-  }
-
-  header {
-    font-size: 24px;
-  }
-
-  nav {
-    text-align: center;
-  }
-
-  nav a {
-    display: block;
-    padding: 10px 0;
-  }
-}
-
-@media only screen and (max-width: 480px) {
-  header {
-    font-size: 20px;
-  }
-}
+    .w3-bar .w3-button {
+      padding: 16px;
+    }
