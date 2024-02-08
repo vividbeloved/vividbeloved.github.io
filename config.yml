@@ -1,0 +1,19 @@
+# config.yml
+
+# Informasi Umum
+website_name: "Nama Website Anda"
+website_title: "Judul Website Anda"
+slogan: "Slogan atau deskripsi singkat"
+
+# Pengaturan lainnya
+timezone: "Asia/Jakarta"
+language: "id-ID"
+default_page: "home"
+
+# Pengaturan SEO
+meta_title: "Meta Title untuk SEO"
+meta_description: "Meta Description untuk SEO"
+
+# Pengaturan Kontak
+contact_email: "email@domain.com"
+contact_phone: "+628123456789"
