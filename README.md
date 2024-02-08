@@ -28,44 +28,7 @@
   <a href="#harga" onclick="w3_close()" class="w3-bar-item w3-button">Harga</a>
   <a href="#penghubung" onclick="w3_close()" class="w3-bar-item w3-button">Penghubung</a>
 </nav>
-
-<!-- Header with full-height image -->
-<header class="bgimg-1 w3-display-container w3-grayscale-min" id="Depan">
-  <div class="w3-display-left w3-text-white" style="padding:48px">
-    <span class="w3-jumbo w3-hide-small">Memulai sesuatu yang berguna</span><br>
-    <span class="w3-xxlarge w3-hide-large w3-hide-medium">Mulailah sesuatu yang berguna dan menguntungkan</span><br>
-    <span class="w3-large">Berhentilah mengabaikan waktu yang berharga dengan membangun proyek yang tidak menghasilkan.</span>
-    <p><a href="#harga" class="w3-button w3-white w3-padding-large w3-large w3-margin-top w3-opacity w3-hover-opacity-off">Pelajari lebih lanjut dan mulai hari ini</a></p>
-  </div> 
-	
-</header>
-<!-- About Section -->
-<div class="w3-container" style="padding:128px 16px" id="uraian">
-  <h3 class="w3-center">TENTANG PERUSAHAAN</h3>
-  <p class="w3-center w3-large">Fitur utama perusahaan kami</p>
-  <div class="w3-row-padding w3-center" style="margin-top:64px">
-    <div class="w3-quarter">
-      <i class="fa fa-desktop w3-margin-bottom w3-jumbo w3-center"></i>
-      <p class="w3-large">Latar Belakang</p>
-      <p>Kami adalah komunitas baru yang ingin membangun organisasi GetBos yang bergerak di bidang perdagangan Bitcoin dan Barang lainnya.</p>
-    </div>
-    <div class="w3-quarter">
-      <i class="fa fa-heart w3-margin-bottom w3-jumbo"></i>
-      <p class="w3-large">Passion</p>
-      <p>Dibangun dengan cinta</p>
-    </div>
-    <div class="w3-quarter">
-      <i class="fa fa-diamond w3-margin-bottom w3-jumbo"></i>
-      <p class="w3-large">Design</p>
-      <p>Angota dan dana kami masih terbatas, kami masih berusaha membuatnya.</p>
-    </div>
-    <div class="w3-quarter">
-      <i class="fa fa-cog w3-margin-bottom w3-jumbo"></i>
-      <p class="w3-large">Support</p>
-      <p>Dukungan Anda sangat berharga demi perkembangan GetBos dimasadepan.</p>
-    </div>
-  </div>
-</div>
+   
 <!-- Promo Section - "Kami tahu Bitcoin" -->
 <div class="w3-container w3-light-grey" style="padding:128px 16px">
   <div class="w3-row-padding">
@@ -154,6 +117,11 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
 
 *teks miring* atau _teks miring_
 **teks tebal** atau __teks tebal__
+
+<!-- About Section -->
+<div class="w3-container" style="padding:128px 16px" id="uraian">
+  <h3 class="w3-center">TENTANG PERUSAHAAN</h3>
+  <p class="w3-center w3-large">Fitur utama perusahaan kami</p>
 
 ## Daftar Nomor
 
