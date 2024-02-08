@@ -43,7 +43,7 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
   - Subitem 1
   - Subitem 2
     - Subitem A
-    -  Subitem B
+    - Subitem B
       - Anak Subitem A
       - Anak Subitem B
         - Cucu Subitem A
@@ -116,11 +116,13 @@ Menuju ![deprecated](https://img.shields.io/badge/GetBos_-_Gate_Economy_Trade_Bi
 
 ## Peningkatan Bertahap:
 
-Teori cara menumbuhkan keuntungan dalam perdagangan.
+Teori cara menumbuhkan keuntungan secara bertahap
 
-Jangan tergesa-gesa ingin melompat dari $1 ke $10 sekaligus.
+Jangan tergesa-gesa dalam meraih keuntungan yang halal
 
-Tingkatkan ukuran perdagangan Anda secara bertahap.
+Tahan keinginan untuk memperoleh dari $1 ke $10 sekaligus
+
+Tingkatkan ukuran perdagangan dengan secara bertahap
 
 Peningkatan kecil dan konsisten akan membantu membuat peluang dan mengelola risiko.
 
@@ -130,9 +132,17 @@ Saat Anda meningkatkan ukuran perdagangan Anda, pertahankan persentase risiko An
 
 Jika Anda mengambil peluang dan risiko 1% per perdagangan pada akun $100, ambil risiko 1% yang sama ketika akun/aset Anda tumbuh menjadi $1000
 
-Jika Anda mengambil peluang dan risiko 10% per perdagangan pada akun $20, ambil risiko 10% yang sama ketika akun Anda tumbuh menjadi $50.
+Rasio kerugian lebih menguras energi mental, dari pada energi kegembiraan yang di peroleh dengan nominal yang sama
 
-Saya pernah gagal kembali ke saldo $1 lagi, setelah ekuitas $19.08 menjadi $70. Terjadi, karena tidak menggunakan rasio peluang dan risiko seperti semula.
+Lebih _'kecewa'_ kehilangan $10 USD dari pada _'gembira'_ ketika mengalami mendapatkan $10 USD
+
+Jika Anda berlatih siap mental untuk mengambil peluang dan risiko 10% per perdagangan pada akun $20
+
+Ambil risiko 10% yang sama ketika akun Anda tumbuh menjadi $50. Itu perlu latihan untuk menerima kekalahan sesaat
+
+Sikap dan keadaan tersebut mempengaruhi mental dan psikologis seseorang
+
+Saya pernah gagal kembali ke saldo $1 lagi, setelah ekuitas $19.08 menjadi $70. Terjadi, karena tidak menggunakan disiplin kerangka kerja rasio peluang dan rasio risiko seperti semula. Baca tentang _"Profitability Ratio"_
 
 Mengalami kejadian rugi yang drastis disebabkan emosi yang takut kehilangan jumlah yang lebih besar dari biasanya dan berharap akan kembali lagi.
 
@@ -180,25 +190,25 @@ Disiplin adalah guru Anda
 
 ### Ilustrasi peta jalan pertumbuhan modal yang berbunga 100% perbulan
 	
-| ![deprecated](https://img.shields.io/badge/Ekuitas-8A2BE2)   | ![deprecated](https://img.shields.io/badge/Target-8A2BE2)   | ![deprecated](https://img.shields.io/badge/Total-8A2BE2)      | ![deprecated](https://img.shields.io/badge/Bulan-8A2BE2)          |
-| --------- | ----------------------------------------------------------- | ---------- | -------------- |
-| ![deprecated](https://img.shields.io/badge/$655,360-8A2BE2)  | ![deprecated](https://img.shields.io/badge/$655,360-8A2BE2) | ![deprecated](https://img.shields.io/badge/$1,310,720-8A2BE2) | ![deprecated](https://img.shields.io/badge/Mei_2025-8A2BE2)       |
-| ![deprecated](https://img.shields.io/badge/$327,680-3422E2)  | ![deprecated](https://img.shields.io/badge/$327,680-8A2BE2) | ![deprecated](https://img.shields.io/badge/$655,360-2be23e)   | ![deprecated](https://img.shields.io/badge/April_2025-2be23e)     |
-| ![deprecated](https://img.shields.io/badge/$163,840-3422E2)  | ![deprecated](https://img.shields.io/badge/$163,840-8A2BE2) | ![deprecated](https://img.shields.io/badge/$327,680-2be23e)   | ![deprecated](https://img.shields.io/badge/Maret_2025-2be23e)     |
-| ![deprecated](https://img.shields.io/badge/$81,920-3422E2)   | ![deprecated](https://img.shields.io/badge/$81,920-8A2BE2)  | ![deprecated](https://img.shields.io/badge/$163,840-2be23e)   | ![deprecated](https://img.shields.io/badge/Februari_2025-2be23e)  |
-| ![deprecated](https://img.shields.io/badge/$40,960-3422E2)   | ![deprecated](https://img.shields.io/badge/$40,960-8A2BE2)  | ![deprecated](https://img.shields.io/badge/$81,920-2be23e)    | ![deprecated](https://img.shields.io/badge/Januari_2025-2be23e)   |
-| ![deprecated](https://img.shields.io/badge/$20,480-3422E2)   | ![deprecated](https://img.shields.io/badge/$20,480-8A2BE2)  | ![deprecated](https://img.shields.io/badge/$40,960-2be23e)    | ![deprecated](https://img.shields.io/badge/Desember_2024-2be23e)  |
-| ![deprecated](https://img.shields.io/badge/$10,240-3422E2)   | ![deprecated](https://img.shields.io/badge/$10,240-8A2BE2)  | ![deprecated](https://img.shields.io/badge/$20,480-2be23e)    | ![deprecated](https://img.shields.io/badge/November_2024-2be23e)  |
-| ![deprecated](https://img.shields.io/badge/$5,120-3422E2)    | ![deprecated](https://img.shields.io/badge/$5,120-8A2BE2)   | ![deprecated](https://img.shields.io/badge/$10,240-2be23e)    | ![deprecated](https://img.shields.io/badge/Oktober_2024-2be23e)   |
-| ![deprecated](https://img.shields.io/badge/$2,560-3422E2)    | ![deprecated](https://img.shields.io/badge/$2,560-8A2BE2)   | ![deprecated](https://img.shields.io/badge/$5,120-2be23e)     | ![deprecated](https://img.shields.io/badge/September_2024-2be23e) |
-| ![deprecated](https://img.shields.io/badge/$1,280-3422E2)    | ![deprecated](https://img.shields.io/badge/$1,280-8A2BE2)   | ![deprecated](https://img.shields.io/badge/$2,560-2be23e)     | ![deprecated](https://img.shields.io/badge/Agustus_2024-2be23e)   |
-| ![deprecated](https://img.shields.io/badge/$640-3422E2)      | ![deprecated](https://img.shields.io/badge/$640-8A2BE2)     | ![deprecated](https://img.shields.io/badge/$1,280-2be23e)     | ![deprecated](https://img.shields.io/badge/Juli_2024-2be23e)      |
-| ![deprecated](https://img.shields.io/badge/$320-3422E2)      | ![deprecated](https://img.shields.io/badge/$320-8A2BE2)     | ![deprecated](https://img.shields.io/badge/$640-2be23e)       | ![deprecated](https://img.shields.io/badge/Juni_2024-2be23e)      |
-| ![deprecated](https://img.shields.io/badge/$160-3422E2)      | ![deprecated](https://img.shields.io/badge/$160-8A2BE2)     | ![deprecated](https://img.shields.io/badge/$320-2be23e)       | ![deprecated](https://img.shields.io/badge/Mei_2024-2be23e)       |
-| ![deprecated](https://img.shields.io/badge/$80-3422E2)       | ![deprecated](https://img.shields.io/badge/$80-8A2BE2)      | ![deprecated](https://img.shields.io/badge/$160-2be23e)       | ![deprecated](https://img.shields.io/badge/April_2024-2be23e)     |
-| ![deprecated](https://img.shields.io/badge/$40-3422E2)       | ![deprecated](https://img.shields.io/badge/$40-8A2BE2)      | ![deprecated](https://img.shields.io/badge/$80-2be23e)       | ![deprecated](https://img.shields.io/badge/Maret_2024-2be23e)     |
-| ![deprecated](https://img.shields.io/badge/$20-3422E2)       | ![deprecated](https://img.shields.io/badge/$20-8A2BE2)      | ![deprecated](https://img.shields.io/badge/$40-3422E2)        | ![deprecated](https://img.shields.io/badge/Februari_2024-e1f205)  |
-| ![deprecated](https://img.shields.io/badge/$10-2be23e)       | ![deprecated](https://img.shields.io/badge/$10-8A2BE2)      | ![deprecated](https://img.shields.io/badge/$20-3422E2)        | ![deprecated](https://img.shields.io/badge/Januari_2024-E22E2B)   | 
+| ![deprecated](https://img.shields.io/badge/Ekuitas-8A2BE2)   | ![deprecated](https://img.shields.io/badge/Target-8A2BE2)   | ![deprecated](https://img.shields.io/badge/Total-8A2BE2)      | ![deprecated](https://img.shields.io/badge/Bulan-8A2BE2)          | Keterangan Alasan Keterangan Alasan Keterangan|
+| --------- | ----------------------------------------------------------- | ---------- | -------------- | ---------- |
+| ![deprecated](https://img.shields.io/badge/$655,360-8A2BE2)  | ![deprecated](https://img.shields.io/badge/$655,360-8A2BE2) | ![deprecated](https://img.shields.io/badge/$1,310,720-8A2BE2) | ![deprecated](https://img.shields.io/badge/Mei_2025-8A2BE2)       | ![deprecated](https://img.shields.io/badge/Keterangan_1-8A2BE2) |
+| ![deprecated](https://img.shields.io/badge/$327,680-3422E2)  | ![deprecated](https://img.shields.io/badge/$327,680-8A2BE2) | ![deprecated](https://img.shields.io/badge/$655,360-2be23e)   | ![deprecated](https://img.shields.io/badge/April_2025-2be23e)     | Keterangan 2 |
+| ![deprecated](https://img.shields.io/badge/$163,840-3422E2)  | ![deprecated](https://img.shields.io/badge/$163,840-8A2BE2) | ![deprecated](https://img.shields.io/badge/$327,680-2be23e)   | ![deprecated](https://img.shields.io/badge/Maret_2025-2be23e)     | Keterangan 3 |
+| ![deprecated](https://img.shields.io/badge/$81,920-3422E2)   | ![deprecated](https://img.shields.io/badge/$81,920-8A2BE2)  | ![deprecated](https://img.shields.io/badge/$163,840-2be23e)   | ![deprecated](https://img.shields.io/badge/Februari_2025-2be23e)  | Keterangan 4 |
+| ![deprecated](https://img.shields.io/badge/$40,960-3422E2)   | ![deprecated](https://img.shields.io/badge/$40,960-8A2BE2)  | ![deprecated](https://img.shields.io/badge/$81,920-2be23e)    | ![deprecated](https://img.shields.io/badge/Januari_2025-2be23e)   | Keterangan 5 |
+| ![deprecated](https://img.shields.io/badge/$20,480-3422E2)   | ![deprecated](https://img.shields.io/badge/$20,480-8A2BE2)  | ![deprecated](https://img.shields.io/badge/$40,960-2be23e)    | ![deprecated](https://img.shields.io/badge/Desember_2024-2be23e)  | Keterangan 6 |
+| ![deprecated](https://img.shields.io/badge/$10,240-3422E2)   | ![deprecated](https://img.shields.io/badge/$10,240-8A2BE2)  | ![deprecated](https://img.shields.io/badge/$20,480-2be23e)    | ![deprecated](https://img.shields.io/badge/November_2024-2be23e)  | Keterangan 7 |
+| ![deprecated](https://img.shields.io/badge/$5,120-3422E2)    | ![deprecated](https://img.shields.io/badge/$5,120-8A2BE2)   | ![deprecated](https://img.shields.io/badge/$10,240-2be23e)    | ![deprecated](https://img.shields.io/badge/Oktober_2024-2be23e)   | Keterangan 8 |
+| ![deprecated](https://img.shields.io/badge/$2,560-3422E2)    | ![deprecated](https://img.shields.io/badge/$2,560-8A2BE2)   | ![deprecated](https://img.shields.io/badge/$5,120-2be23e)     | ![deprecated](https://img.shields.io/badge/September_2024-2be23e) | Keterangan 9 |
+| ![deprecated](https://img.shields.io/badge/$1,280-3422E2)    | ![deprecated](https://img.shields.io/badge/$1,280-8A2BE2)   | ![deprecated](https://img.shields.io/badge/$2,560-2be23e)     | ![deprecated](https://img.shields.io/badge/Agustus_2024-2be23e)   | Keterangan 10 |
+| ![deprecated](https://img.shields.io/badge/$640-3422E2)      | ![deprecated](https://img.shields.io/badge/$640-8A2BE2)     | ![deprecated](https://img.shields.io/badge/$1,280-2be23e)     | ![deprecated](https://img.shields.io/badge/Juli_2024-2be23e)      | Keterangan 11 |
+| ![deprecated](https://img.shields.io/badge/$320-3422E2)      | ![deprecated](https://img.shields.io/badge/$320-8A2BE2)     | ![deprecated](https://img.shields.io/badge/$640-2be23e)       | ![deprecated](https://img.shields.io/badge/Juni_2024-2be23e)      | Keterangan 12 |
+| ![deprecated](https://img.shields.io/badge/$160-3422E2)      | ![deprecated](https://img.shields.io/badge/$160-8A2BE2)     | ![deprecated](https://img.shields.io/badge/$320-2be23e)       | ![deprecated](https://img.shields.io/badge/Mei_2024-2be23e)       | Keterangan 13 |
+| ![deprecated](https://img.shields.io/badge/$80-3422E2)       | ![deprecated](https://img.shields.io/badge/$80-8A2BE2)      | ![deprecated](https://img.shields.io/badge/$160-2be23e)       | ![deprecated](https://img.shields.io/badge/April_2024-2be23e)     | Keterangan 14 |
+| ![deprecated](https://img.shields.io/badge/$40-3422E2)       | ![deprecated](https://img.shields.io/badge/$40-8A2BE2)      | ![deprecated](https://img.shields.io/badge/$80-2be23e)       | ![deprecated](https://img.shields.io/badge/Maret_2024-2be23e)     | Keterangan 15 |
+| ![deprecated](https://img.shields.io/badge/$20-3422E2)       | ![deprecated](https://img.shields.io/badge/$20-8A2BE2)      | ![deprecated](https://img.shields.io/badge/$40-3422E2)        | ![deprecated](https://img.shields.io/badge/Februari_2024-e1f205)  | Keterangan 16 |
+| ![deprecated](https://img.shields.io/badge/$10-2be23e)       | ![deprecated](https://img.shields.io/badge/$10-8A2BE2)      | ![deprecated](https://img.shields.io/badge/$20-3422E2)        | ![deprecated](https://img.shields.io/badge/Januari_2024-E22E2B)   | ![deprecated](https://img.shields.io/badge/Januari_2024_telah_berlalu._Semoga_Februari_2024_lebih_baik_dan_produktif.-8A2BE2) |
 
 ### Transaksi GetBos di jaringan Bitcoin
 1. Bukti transaksi perdana dengan tulisan  <a href="https://mempool.space/tx/f61be88b48af826c9056f6fc1c7391ca8e052a83d8f00efc5a6c4025c389f280" target="_blank">OP_RETURN</a> getbos gate economy trade bitcoin and other stuff
