@@ -5,7 +5,8 @@
   <!-- Navbar -->
 <nav class="navbar">
   <ul>
-    <li><a href="#">Beranda</a> <a href="#">Tentang</a> <a href="#">Proyek</a> <a href="#">Kontak</a></li>
+    <li><a href="#">Beranda</a> <a href="#">Tentang</a> <a href="#">Proyek</a> <a href="#">Kontak</a></li> 
+	  <a href="#" onclick="myFunction()">Proyek</a>
   </ul>
 </nav>
 
@@ -126,6 +127,14 @@ Tingkatkan ukuran perdagangan dengan secara bertahap
 
 Peningkatan kecil dan konsisten akan membantu membuat peluang dan mengelola risiko.
 
+<script>
+function myFunction() {
+  // Tempatkan logika atau aksi JavaScript Anda di sini
+  alert('Anda diklik ke Proyek!');
+  // atau mungkin melakukan navigasi atau tindakan lainnya
+}
+</script>
+
 ### Menjaga Rasio Peluang Dan Risiko:
 
 Saat Anda meningkatkan ukuran perdagangan Anda, pertahankan persentase risiko Anda tetap konstan
@@ -192,7 +201,7 @@ Pasar adalah majikan Anda
 	
 | ![deprecated](https://img.shields.io/badge/Ekuitas-8A2BE2)   | ![deprecated](https://img.shields.io/badge/Target-8A2BE2)   | ![deprecated](https://img.shields.io/badge/Total-8A2BE2)      | ![deprecated](https://img.shields.io/badge/Bulan-8A2BE2)          | ![deprecated](https://img.shields.io/badge/Keterangan-8A2BE2)|
 | --------- | ----------------------------------------------------------- | ---------- | -------------- | ---------- |
-| ![deprecated](https://img.shields.io/badge/$655,360-8A2BE2)  | ![deprecated](https://img.shields.io/badge/$655,360-8A2BE2) | ![deprecated](https://img.shields.io/badge/$1,310,720-8A2BE2) | ![deprecated](https://img.shields.io/badge/Mei_2025-8A2BE2)       | ![deprecated](https://img.shields.io/badge/Seseorang_perlu_berharap_bekerja_dan_berlatih_untuk_mencapai_tujuan_yang_diinginkannya._Semangat!-8A2BE2) |
+| ![deprecated](https://img.shields.io/badge/$655,360-8A2BE2)  | ![deprecated](https://img.shields.io/badge/$655,360-8A2BE2) | ![deprecated](https://img.shields.io/badge/$1,310,720-8A2BE2) | ![deprecated](https://img.shields.io/badge/Mei_2025-8A2BE2)       | ![deprecated](https://img.shields.io/badge/Seseorang_perlu_berharap,_bekerja_dan_berlatih_untuk_mencapai_tujuan_yang_diinginkannya._Semangat!-8A2BE2) |
 | ![deprecated](https://img.shields.io/badge/$327,680-3422E2)  | ![deprecated](https://img.shields.io/badge/$327,680-8A2BE2) | ![deprecated](https://img.shields.io/badge/$655,360-2be23e)   | ![deprecated](https://img.shields.io/badge/April_2025-2be23e)     | Keterangan 2 |
 | ![deprecated](https://img.shields.io/badge/$163,840-3422E2)  | ![deprecated](https://img.shields.io/badge/$163,840-8A2BE2) | ![deprecated](https://img.shields.io/badge/$327,680-2be23e)   | ![deprecated](https://img.shields.io/badge/Maret_2025-2be23e)     | Keterangan 3 |
 | ![deprecated](https://img.shields.io/badge/$81,920-3422E2)   | ![deprecated](https://img.shields.io/badge/$81,920-8A2BE2)  | ![deprecated](https://img.shields.io/badge/$163,840-2be23e)   | ![deprecated](https://img.shields.io/badge/Februari_2025-2be23e)  | Keterangan 4 |
