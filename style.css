@@ -13,9 +13,10 @@ body {
 }
 
 .container {
-  width: 80%;
+  width: 50%;
   max-width: 1200px;
-  margin: 0 auto;
+  margin-left: 30px; /* Ruang kosong kiri */
+  margin-right: 30px; /* Ruang kosong kanan */
 }
 
 header {
