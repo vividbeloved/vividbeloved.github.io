@@ -2,17 +2,15 @@
 <link rel="stylesheet" type="text/css" href="/style.css">
 
 # [Gerbang Ekonomi Menuju Masa Depan 丰 :rocket:](https://getbos.github.io)
- <!-- Navbar (sit on top) -->
-<div class="w3-top">
-  <div class="w3-bar w3-white w3-card" id="myNavbar">
-    <a href="#home" class="w3-bar-item w3-button w3-wide">GetBos</a>
-    <!-- Right-sided navbar links -->
-    <div class="w3-right w3-hide-small">
-      <a href="#uraian" class="w3-bar-item w3-button"> Uraian</a>
-      <a href="#anggota" class="w3-bar-item w3-button"><i class="fa fa-user"></i> Anggota</a>
-    </div>
+
+
+ <!-- Right-sided navbar links -->
+ <div class="w3-right w3-hide-small">
+ <a href="#uraian" class="w3-bar-item w3-button"> Uraian</a>
+ <a href="#anggota" class="w3-bar-item w3-button"><i class="fa fa-user"></i> Anggota</a>
+ </div>
 	  
-    <!-- Hide right-floated links on small screens and replace them with a menu icon -->
+ <!-- Hide right-floated links on small screens and replace them with a menu icon -->
  <a href="javascript:void(0)" class="w3-bar-item w3-button w3-right w3-hide-large w3-hide-medium" onclick="w3_open()">
       <i class="fa fa-bars"></i>
     </a>
@@ -28,49 +26,11 @@
   <a href="#harga" onclick="w3_close()" class="w3-bar-item w3-button">Harga</a>
   <a href="#penghubung" onclick="w3_close()" class="w3-bar-item w3-button">Penghubung</a>
 </nav>
-   
-<!-- Promo Section - "Kami tahu Bitcoin" -->
-<div class="w3-container w3-light-grey" style="padding:128px 16px">
-  <div class="w3-row-padding">
-    <div class="w3-col m6">
-      <h3>Makna GetBos</h3>
-      <p>GetBos - Gate Economy Trade Bitcoin and Other Stuff</p>
-      <p>Gerbang Ekonomi Perdagangan Bitcoin dan Barang Lainnya.</p>
-      <p>Maksud dan rencana GetBos adalah memperkenalkan teknologi keuangan yang canggih untuk kehidupan transaksi dan menyimpan hasil ekonomi yang lebih baik</p>
-      <p><a href="#kerja" class="w3-button w3-black"><i class="fa fa-th"> </i> Lihat Karya Kami</a></p>
-    </div>
-    <div class="w3-col m6">
-      <img class="w3-image w3-round-large" src="https://media.primal.net/uploads/d/92/28/d922890405e97bf48d868941c73b4d1313126ac58583371944faa5e6066e1583.jpg" alt="Buildings" width="700" height="394">
-    </div>
-  </div>
-</div>
+
 <!-- Team Section -->
 <div class="w3-container" style="padding:128px 16px" id="anggota">
   <h3 class="w3-center">ANGGOTA</h3>
   <p class="w3-center w3-large">Orang-orang yang menjalankan perusahaan ini</p>
-  <div class="w3-row-padding w3-grayscale" style="margin-top:64px">
-    <div class="w3-col l3 m6 w3-margin-bottom">
-      <div class="w3-card">
-        <img src="https://pfp.nostr.build/89255b2c8c7901f3850b8543e21720ec1c70b717616a07672f8506f61a4399a3.gif" alt="Onyx" style="width:100%">
-        <div class="w3-container">
-          <h3>Onyx Chau</h3>
-          <p class="w3-opacity">CEO & Founder</p>
-          <p>Gunakan mata laser untuk kehidupan yang lebih semangat dan kemakmuran</p>
-          <p><button class="w3-button w3-light-grey w3-block"><i class="fa fa-envelope"></i> Pesan</button></p>
-        </div>
-      </div>
-    </div>
-    <div class="w3-col l3 m6 w3-margin-bottom">
-      <div class="w3-card">
-        <img src="https://i.imgur.com/WLzXVUp.jpg" alt="Jane" style="width:100%">
-        <div class="w3-container">
-          <h3>Anja Doe</h3>
-          <p class="w3-opacity">Art Director</p>
-          <p>Ketenangan merupakan sifat alam. Alam tidak terburu-buru.</p>
-          <p><button class="w3-button w3-light-grey w3-block"><i class="fa fa-envelope"></i> Contact</button></p>
-        </div>
-      </div>
-    </div>
 
 ## Belum dirapikan
 
