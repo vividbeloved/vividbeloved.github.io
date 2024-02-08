@@ -181,9 +181,9 @@ Keterangan lebih lanjut tentang pengetahuan <a href="https://positivepsychology.
 ```
 Pasar adalah majikan Anda
 
-Rencana adalah panduan Anda
+            Rencana adalah panduan Anda
 
-Disiplin adalah guru Anda
+                        Disiplin adalah guru Anda
 ```
 
 ### Tujuan utama dan terpenting seorang pedagang di pasar uang adalah menjaga uangnya agar tidak hilang.
