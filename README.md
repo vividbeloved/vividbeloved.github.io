@@ -2,13 +2,121 @@
 <link rel="stylesheet" type="text/css" href="/style.css">
 
 # [Gerbang Ekonomi Menuju Masa Depan 丰 :rocket:](https://getbos.github.io)
-  <!-- Navbar -->
-<nav class="navbar">
-  <ul>
-    <li><a href="#">Beranda</a> <a href="#">Tentang</a> <a href="#">Proyek</a> <a href="#">Kontak</a></li> 
-	  <a href="#" onclick="myFunction()">Proyek</a>
-  </ul>
+ <!-- Navbar (sit on top) -->
+<div class="w3-top">
+  <div class="w3-bar w3-white w3-card" id="myNavbar">
+    <a href="#home" class="w3-bar-item w3-button w3-wide">GetBos</a>
+    <!-- Right-sided navbar links -->
+    <div class="w3-right w3-hide-small">
+      <a href="#uraian" class="w3-bar-item w3-button"> Uraian</a>
+      <a href="#anggota" class="w3-bar-item w3-button"><i class="fa fa-user"></i> Anggota</a>
+      <a href="#kerja" class="w3-bar-item w3-button"><i class="fa fa-th"></i> Kerja</a>
+      <a href="#harga" class="w3-bar-item w3-button"><i class="fa fa-usd"></i> Harga</a>
+      <a href="#penghubung" class="w3-bar-item w3-button"><i class="fa fa-envelope"></i> Penghubung</a>
+    </div>
+    <!-- Hide right-floated links on small screens and replace them with a menu icon -->
+ <a href="javascript:void(0)" class="w3-bar-item w3-button w3-right w3-hide-large w3-hide-medium" onclick="w3_open()">
+      <i class="fa fa-bars"></i>
+    </a>
+  </div>
+</div>
+
+<!-- Sidebar on small screens when clicking the menu icon -->
+<nav class="w3-sidebar w3-bar-block w3-black w3-card w3-animate-left w3-hide-medium w3-hide-large" style="display:none" id="mySidebar">
+  <a href="javascript:void(0)" onclick="w3_close()" class="w3-bar-item w3-button w3-large w3-padding-16">Close ×</a>
+  <a href="#uraian" onclick="w3_close()" class="w3-bar-item w3-button">Uraian</a>
+  <a href="#tim" onclick="w3_close()" class="w3-bar-item w3-button">Tim</a>
+  <a href="#kerja" onclick="w3_close()" class="w3-bar-item w3-button">Kerja</a>
+  <a href="#harga" onclick="w3_close()" class="w3-bar-item w3-button">Harga</a>
+  <a href="#penghubung" onclick="w3_close()" class="w3-bar-item w3-button">Penghubung</a>
 </nav>
+
+<!-- Header with full-height image -->
+<header class="bgimg-1 w3-display-container w3-grayscale-min" id="Depan">
+  <div class="w3-display-left w3-text-white" style="padding:48px">
+    <span class="w3-jumbo w3-hide-small">Memulai sesuatu yang berguna</span><br>
+    <span class="w3-xxlarge w3-hide-large w3-hide-medium">Mulailah sesuatu yang berguna dan menguntungkan</span><br>
+    <span class="w3-large">Berhentilah mengabaikan waktu yang berharga dengan membangun proyek yang tidak menghasilkan.</span>
+    <p><a href="#harga" class="w3-button w3-white w3-padding-large w3-large w3-margin-top w3-opacity w3-hover-opacity-off">Pelajari lebih lanjut dan mulai hari ini</a></p>
+  </div> 
+  <div class="w3-display-bottomleft w3-text-grey w3-large" style="padding:24px 48px">
+    <i class="fa fa-facebook-official w3-hover-opacity"></i>
+    <i class="fa fa-instagram w3-hover-opacity"></i>
+    <i class="fa fa-snapchat w3-hover-opacity"></i>
+    <i class="fa fa-pinterest-p w3-hover-opacity"></i>
+    <i class="fa fa-twitter w3-hover-opacity"></i>
+    <i class="fa fa-linkedin w3-hover-opacity"></i>
+  </div>
+</header>
+<!-- About Section -->
+<div class="w3-container" style="padding:128px 16px" id="uraian">
+  <h3 class="w3-center">TENTANG PERUSAHAAN</h3>
+  <p class="w3-center w3-large">Fitur utama perusahaan kami</p>
+  <div class="w3-row-padding w3-center" style="margin-top:64px">
+    <div class="w3-quarter">
+      <i class="fa fa-desktop w3-margin-bottom w3-jumbo w3-center"></i>
+      <p class="w3-large">Latar Belakang</p>
+      <p>Kami adalah komunitas baru yang ingin membangun organisasi GetBos yang bergerak di bidang perdagangan Bitcoin dan Barang lainnya.</p>
+    </div>
+    <div class="w3-quarter">
+      <i class="fa fa-heart w3-margin-bottom w3-jumbo"></i>
+      <p class="w3-large">Passion</p>
+      <p>Dibangun dengan cinta</p>
+    </div>
+    <div class="w3-quarter">
+      <i class="fa fa-diamond w3-margin-bottom w3-jumbo"></i>
+      <p class="w3-large">Design</p>
+      <p>Angota dan dana kami masih terbatas, kami masih berusaha membuatnya.</p>
+    </div>
+    <div class="w3-quarter">
+      <i class="fa fa-cog w3-margin-bottom w3-jumbo"></i>
+      <p class="w3-large">Support</p>
+      <p>Dukungan Anda sangat berharga demi perkembangan GetBos dimasadepan.</p>
+    </div>
+  </div>
+</div>
+<!-- Promo Section - "Kami tahu Bitcoin" -->
+<div class="w3-container w3-light-grey" style="padding:128px 16px">
+  <div class="w3-row-padding">
+    <div class="w3-col m6">
+      <h3>Makna GetBos</h3>
+      <p>GetBos - Gate Economy Trade Bitcoin and Other Stuff</p>
+      <p>Gerbang Ekonomi Perdagangan Bitcoin dan Barang Lainnya.</p>
+      <p>Maksud dan rencana GetBos adalah memperkenalkan teknologi keuangan yang canggih untuk kehidupan transaksi dan menyimpan hasil ekonomi yang lebih baik</p>
+      <p><a href="#kerja" class="w3-button w3-black"><i class="fa fa-th"> </i> Lihat Karya Kami</a></p>
+    </div>
+    <div class="w3-col m6">
+      <img class="w3-image w3-round-large" src="https://media.primal.net/uploads/d/92/28/d922890405e97bf48d868941c73b4d1313126ac58583371944faa5e6066e1583.jpg" alt="Buildings" width="700" height="394">
+    </div>
+  </div>
+</div>
+<!-- Team Section -->
+<div class="w3-container" style="padding:128px 16px" id="anggota">
+  <h3 class="w3-center">ANGGOTA</h3>
+  <p class="w3-center w3-large">Orang-orang yang menjalankan perusahaan ini</p>
+  <div class="w3-row-padding w3-grayscale" style="margin-top:64px">
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-card">
+        <img src="https://pfp.nostr.build/89255b2c8c7901f3850b8543e21720ec1c70b717616a07672f8506f61a4399a3.gif" alt="Onyx" style="width:100%">
+        <div class="w3-container">
+          <h3>Onyx Chau</h3>
+          <p class="w3-opacity">CEO & Founder</p>
+          <p>Gunakan mata laser untuk kehidupan yang lebih semangat dan kemakmuran</p>
+          <p><button class="w3-button w3-light-grey w3-block"><i class="fa fa-envelope"></i> Pesan</button></p>
+        </div>
+      </div>
+    </div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-card">
+        <img src="https://i.imgur.com/WLzXVUp.jpg" alt="Jane" style="width:100%">
+        <div class="w3-container">
+          <h3>Anja Doe</h3>
+          <p class="w3-opacity">Art Director</p>
+          <p>Ketenangan merupakan sifat alam. Alam tidak terburu-buru.</p>
+          <p><button class="w3-button w3-light-grey w3-block"><i class="fa fa-envelope"></i> Contact</button></p>
+        </div>
+      </div>
+    </div>
 
 ## Belum dirapikan
 
@@ -126,14 +234,6 @@ Tahan keinginan untuk memperoleh dari $1 ke $10 sekaligus
 Tingkatkan ukuran perdagangan dengan secara bertahap
 
 Peningkatan kecil dan konsisten akan membantu membuat peluang dan mengelola risiko.
-
-<script>
-function myFunction() {
-  // Tempatkan logika atau aksi JavaScript Anda di sini
-  alert('Anda diklik ke Proyek!');
-  // atau mungkin melakukan navigasi atau tindakan lainnya
-}
-</script>
 
 ### Menjaga Rasio Peluang Dan Risiko:
 
