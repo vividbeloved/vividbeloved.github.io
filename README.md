@@ -5,6 +5,7 @@
 
 # [Gerbang Ekonomi Menuju Masa Depan 丰 :rocket:](https://getbos.github.io)
 <a href="#bawah" class="w3-bar-item w3-button"> Bawah</a>
+<a href="#bunga" class="w3-bar-item w3-button"> Peta Bunga</a>
 ## Belum dirapikan
 
 _Tulis sedikit tentang diri Anda atau proyek Anda di sini._
@@ -183,9 +184,9 @@ Pasar adalah majikan Anda
 ```
 
 ### Tujuan utama dan terpenting seorang pedagang di pasar uang adalah menjaga uangnya agar tidak hilang.
+<div class="w3-container" style="padding:0px 0px" id="bunga"></div>
 
-### Ilustrasi peta jalan pertumbuhan modal yang berbunga 100% perbulan
-	
+### Ilustrasi peta jalan pertumbuhan modal yang berbunga 100% perbulan	
 | ![deprecated](https://img.shields.io/badge/Ekuitas-8A2BE2)   | ![deprecated](https://img.shields.io/badge/Target-8A2BE2)   | ![deprecated](https://img.shields.io/badge/Total-8A2BE2)      | ![deprecated](https://img.shields.io/badge/Bulan-8A2BE2)          | ![deprecated](https://img.shields.io/badge/Keterangan-8A2BE2)|
 | --------- | ----------------------------------------------------------- | ---------- | -------------- | ---------- |
 | ![deprecated](https://img.shields.io/badge/$655,360-8A2BE2)  | ![deprecated](https://img.shields.io/badge/$655,360-8A2BE2) | ![deprecated](https://img.shields.io/badge/$1,310,720-8A2BE2) | ![deprecated](https://img.shields.io/badge/Mei_2025-8A2BE2)       | ![deprecated](https://img.shields.io/badge/Seseorang_perlu_berharap,_bekerja_dan_berlatih_untuk_mencapai_tujuan_yang_diinginkannya._Semangat!-8A2BE2) |
