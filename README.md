@@ -39,6 +39,7 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
 ## Tautan
 
 [GitHub Pages](https://pages.github.com/)
+<a href="https://pages.github.io/" target="_blank">GitHub Pages</a>
 
 ## Daftar
 
