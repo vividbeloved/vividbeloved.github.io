@@ -174,9 +174,6 @@ Disiplin adalah guru Anda
 
 ### Tujuan utama dan terpenting seorang pedagang di pasar uang adalah menjaga uangnya agar tidak hilang. Benar gak Bos?
 
-
-<div align="center"> 
-
 ### Tabel ilustrasi, jika pertumbuhan modal perbulan tumbuh 100%
 	
 | ![deprecated](https://img.shields.io/badge/Ekuitas-8A2BE2)   | ![deprecated](https://img.shields.io/badge/Target-8A2BE2)   | ![deprecated](https://img.shields.io/badge/Total-8A2BE2)      | ![deprecated](https://img.shields.io/badge/Bulan-8A2BE2)          |
@@ -198,7 +195,6 @@ Disiplin adalah guru Anda
 | ![deprecated](https://img.shields.io/badge/$40-3422E2)       | ![deprecated](https://img.shields.io/badge/$40-8A2BE2)      | ![deprecated](https://img.shields.io/badge/$80-2be23e)       | ![deprecated](https://img.shields.io/badge/Maret_2024-2be23e)     |
 | ![deprecated](https://img.shields.io/badge/$20-3422E2)       | ![deprecated](https://img.shields.io/badge/$20-8A2BE2)      | ![deprecated](https://img.shields.io/badge/$40-3422E2)        | ![deprecated](https://img.shields.io/badge/Februari_2024-e1f205)  |
 | ![deprecated](https://img.shields.io/badge/$10-2be23e)       | ![deprecated](https://img.shields.io/badge/$10-8A2BE2)      | ![deprecated](https://img.shields.io/badge/$20-3422E2)        | ![deprecated](https://img.shields.io/badge/Januari_2024-E22E2B)   | 
-</div>
 
 ### Transaksi GetBos di jaringan Bitcoin
 1. Bukti transaksi perdana dengan tulisan  <a href="https://mempool.space/tx/f61be88b48af826c9056f6fc1c7391ca8e052a83d8f00efc5a6c4025c389f280" target="_blank">OP_RETURN</a> getbos gate economy trade bitcoin and other stuff
