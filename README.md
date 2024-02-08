@@ -6,23 +6,7 @@
  <!-- Right-sided navbar links -->
  <div class="w3-right w3-hide-small">
  <a href="#uraian" class="w3-bar-item w3-button"> Uraian</a>
- <a href="#anggota" class="w3-bar-item w3-button"><i class="fa fa-user"></i> Anggota</a>
  </div>
-
-<!-- Sidebar on small screens when clicking the menu icon -->
-<nav class="w3-sidebar w3-bar-block w3-black w3-card w3-animate-left w3-hide-medium w3-hide-large" style="display:none" id="mySidebar">
-  <a href="javascript:void(0)" onclick="w3_close()" class="w3-bar-item w3-button w3-large w3-padding-16">Close ×</a>
-  <a href="#uraian" onclick="w3_close()" class="w3-bar-item w3-button">Uraian</a>
-  <a href="#tim" onclick="w3_close()" class="w3-bar-item w3-button">Tim</a>
-  <a href="#kerja" onclick="w3_close()" class="w3-bar-item w3-button">Kerja</a>
-  <a href="#harga" onclick="w3_close()" class="w3-bar-item w3-button">Harga</a>
-  <a href="#penghubung" onclick="w3_close()" class="w3-bar-item w3-button">Penghubung</a>
-</nav>
-
-<!-- Team Section -->
-<div class="w3-container" style="padding:128px 16px" id="anggota">
-  <h3 class="w3-center">ANGGOTA</h3>
-  <p class="w3-center w3-large">Orang-orang yang menjalankan perusahaan ini</p>
 
 ## Belum dirapikan
 
