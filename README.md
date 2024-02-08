@@ -54,11 +54,6 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
 *teks miring* atau _teks miring_
 **teks tebal** atau __teks tebal__
 
-<!-- About Section -->
-<div class="w3-container" style="padding:128px 16px" id="uraian">
-  <h3 class="w3-center">TENTANG PERUSAHAAN</h3>
-  <p class="w3-center w3-large">Fitur utama perusahaan kami</p>
-
 ## Daftar Nomor
 
 1. Item Pertama
@@ -219,6 +214,11 @@ Pasar adalah majikan Anda
 2. Jika melihat di <a href="https://mempool.space/block/000000000000000000028611f8e3fc06e80ca6e1cd7df45c0fdf7cd524fda567" target="_blank">Block 828889</a>mempool, ada di halaman 27. 
 3. Urutan 656 dari total 2,814 transaksi dalam 1 block.
 4. Block 828889 selesai jam 20:12 WIB
+
+<!-- About Section -->
+<div class="w3-container" style="padding:128px 16px" id="uraian">
+  <h3 class="w3-center">TENTANG PERUSAHAAN</h3>
+  <p class="w3-center w3-large">Fitur utama perusahaan kami</p>
 
  ![deprecated](https://img.shields.io/badge/Situs_ini_dalam_pengembangan-3422E2)  
  ![deprecated](https://img.shields.io/badge/Halaman_bersifat_eksperimental-8A2BE2)  
