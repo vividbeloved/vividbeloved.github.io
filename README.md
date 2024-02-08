@@ -231,7 +231,7 @@ Pasar adalah majikan Anda
    <img src="https://img.shields.io/badge/mempool-%231877F2.svg?&style=flat-square&logo=mempool&logoColor=white" alt="mempool"></a>
     ![deprecated](https://img.shields.io/badge/status-berjalan-lime.svg?style=flat-square)
 
-<a href="#atas" class="w3-bar-item w3-button"> Keatas</a>
+<a href="#atas" class="w3-bar-item w3-button"> Ke Atas Halaman</a>
 
 <div align="center">
  <a href="https://www.facebook.com/metabrani" target="_blank">
