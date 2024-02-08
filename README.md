@@ -1,12 +1,10 @@
 <!-- Tautan CSS -->
 <link rel="stylesheet" type="text/css" href="/style.css">
-
-# [Gerbang Ekonomi Menuju Masa Depan 丰 :rocket:](https://getbos.github.io)
-
-<a href="#bawah" class="w3-bar-item w3-button"> Bawah</a>
-<!-- About Section -->
+<!-- About Section // Tentang Bagian -->
 <div class="w3-container" style="padding:0px 0px" id="atas"></div>
 
+# [Gerbang Ekonomi Menuju Masa Depan 丰 :rocket:](https://getbos.github.io)
+<a href="#bawah" class="w3-bar-item w3-button"> Bawah</a>
 ## Belum dirapikan
 
 _Tulis sedikit tentang diri Anda atau proyek Anda di sini._
