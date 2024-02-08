@@ -11,16 +11,16 @@
 
 ## Belum dirapikan
 
-Tulis sedikit tentang diri Anda atau proyek Anda di sini.
+_Tulis sedikit tentang diri Anda atau proyek Anda di sini._
 
-:rocket: Proyek diluncurkan!
+:rocket: Proyek belum diluncurkan!
 
 - [x] Tugas Selesai
 - [ ] Tugas Belum Selesai
 
  ![Build Status](https://img.shields.io/travis/getbos/getbos.github.io/master.svg)
 
-## Portfolio
+## Portofolio
 
 Berikut adalah beberapa proyek yang pernah saya kerjakan:
 
@@ -34,8 +34,6 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
 ![Logo GitHub](https://img.shields.io/github/followers/getbos)
 
 ## Tautan
-
-[GitHub Pages](https://pages.github.com/) |
 <a href="https://pages.github.io/" target="_blank">GitHub Pages</a>
 
 ## Daftar
@@ -44,6 +42,12 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
 - Item Kedua
   - Subitem 1
   - Subitem 2
+    - Subitem A
+    -  Subitem B
+      - Anak Subitem A
+      - Anak Subitem B
+        - Cucu Subitem A
+        - Cucu Subitem B
 - Item Ketiga
 
 ## Teks Terkait
@@ -172,9 +176,9 @@ Rencana adalah panduan Anda
 Disiplin adalah guru Anda
 ```
 
-### Tujuan utama dan terpenting seorang pedagang di pasar uang adalah menjaga uangnya agar tidak hilang. Benar gak Bos?
+### Tujuan utama dan terpenting seorang pedagang di pasar uang adalah menjaga uangnya agar tidak hilang.
 
-### Tabel ilustrasi, jika pertumbuhan modal perbulan tumbuh 100%
+### Ilustrasi peta jalan pertumbuhan modal yang berbunga 100% perbulan
 	
 | ![deprecated](https://img.shields.io/badge/Ekuitas-8A2BE2)   | ![deprecated](https://img.shields.io/badge/Target-8A2BE2)   | ![deprecated](https://img.shields.io/badge/Total-8A2BE2)      | ![deprecated](https://img.shields.io/badge/Bulan-8A2BE2)          |
 | --------- | ----------------------------------------------------------- | ---------- | -------------- |
