@@ -32,7 +32,7 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
 1. Proyek Satu <a href="https://metabrani.github.io/" target="_blank">metabrani.github.io</a>
 2. <a href="https://mempool.space/tx/f61be88b48af826c9056f6fc1c7391ca8e052a83d8f00efc5a6c4025c389f280" target="_blank">Proyek Dua <a/>OP_RETURN getbos
 3. <a href="https://getbos.github.io/" target="_blank">Proyek Tiga</a> pengujian Commit changes...
-   
+4. Belajar berkebun digital 🪴   
 ## Gambar
 <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fgetbos.github.io">
 
