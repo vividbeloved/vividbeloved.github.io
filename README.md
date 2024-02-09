@@ -4,12 +4,12 @@
 <div class="w3-container" style="padding:0px 0px" id="atas"></div>
 <div class="w3-container" style="padding:0px 0px" id="beranda"></div>
 
-# [Gerbang Ekonomi Menuju Masa Depan 丰🧧](https://getbos.github.io)
+# [Gerbang Ekonomi Menuju Masa Depan 丰](https://getbos.github.io)
 <nav>
     <ul>
         <li><a href="#beranda"> Beranda</a></li>
         <li><a href="#bawah" class="w3-bar-item w3-button"> Bawah</a></li>
-        <li><a href="#tabel" class="w3-bar-item w3-button"> Tabel</a></li>
+        <li><a href="#tabel" class="w3-bar-item w3-button"> Tabel🧧</a></li>
         <li><a href="#media"> Media</a></li>
     </ul>
 </nav>
