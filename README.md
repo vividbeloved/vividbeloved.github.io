@@ -4,7 +4,7 @@
 <div class="w3-container" style="padding:0px 0px" id="atas"></div>
 <div class="w3-container" style="padding:0px 0px" id="beranda"></div>
 
-# [Gerbang Ekonomi Menuju Masa Depan 丰🪴 :rocket:](https://getbos.github.io)
+# [Gerbang Ekonomi Menuju Masa Depan 丰🧧](https://getbos.github.io)
 <nav>
     <ul>
         <li><a href="#beranda"> Beranda</a></li>
@@ -14,11 +14,11 @@
     </ul>
 </nav>
 
-## Belum dirapikan
+## Belum dirapikan 🌱
 
 _Tulis sedikit tentang diri Anda atau proyek Anda di sini._
 
-:rocket: Proyek belum diluncurkan!
+🚀 Proyek belum diluncurkan!
 
 - [x] Tugas Selesai
 - [ ] Tugas Belum Selesai
