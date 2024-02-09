@@ -236,6 +236,7 @@ Pasar adalah majikan Anda                                                 Pasar 
 2. Jika melihat di <a href="https://mempool.space/block/000000000000000000028611f8e3fc06e80ca6e1cd7df45c0fdf7cd524fda567" target="_blank">Block 828889</a> mempool, ada di halaman 27. 
 3. Urutan 656 dari total 2,814 transaksi dalam 1 block
 4. Block 828889 selesai pada hari Minggu Legi malam Senin Paing jam 20:12 WIB
+5. Bisa membaca tabel hash merupakan ketrampilan yang selangkah lebih maju
 
 <!-- About Section -->
 <div class="w3-container" style="padding:0px 0px" id="bawah"></div>
