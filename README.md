@@ -211,7 +211,10 @@ Pasar adalah majikan Anda                                                 Pasar 
 | ![deprecated](https://img.shields.io/badge/$10-2be23e)       | ![deprecated](https://img.shields.io/badge/$10-8A2BE2)      | ![deprecated](https://img.shields.io/badge/$20-3422E2)        | ![deprecated](https://img.shields.io/badge/Januari_2024-E22E2B)   | ![deprecated](https://img.shields.io/badge/Januari_2024_telah_berlalu._Semoga_Februari_2024_lebih_baik_dan_produktif.-8A2BE2) |
 
 <a href="#beranda">
-   <img src="https://img.shields.io/badge/Beranda-%231877F2.svg?&style=flat-square&logo=Beranda&logoColor=white" alt="beranda"></a>
+   <img src="https://img.shields.io/badge/Beranda-%231877F2.svg?&style=flat-square&logo=Beranda&logoColor=white" alt="beranda"></a> <a href="https://metabrani.github.io/" target="_blank">
+   <img src="https://img.shields.io/badge/MetaBrani-%231877F2.svg?&style=flat-square&logo=metabrani&logoColor=white" alt="metabrani"></a> <a href="https://evositas.github.io/" target="_blank">
+   <img src="https://img.shields.io/badge/Evositas-%231877F2.svg?&style=flat-square&logo=evositas&logoColor=white" alt="evositas"></a>
+
 
 ### Transaksi GetBos di jaringan Bitcoin
 1. Bukti transaksi perdana dengan tulisan  <a href="https://mempool.space/tx/f61be88b48af826c9056f6fc1c7391ca8e052a83d8f00efc5a6c4025c389f280" target="_blank">OP_RETURN</a> getbos gate economy trade bitcoin and other stuff
