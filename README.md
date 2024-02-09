@@ -9,7 +9,7 @@
         <li><a href="#home">Home</a></li>
         <li><a href="#bawah" class="w3-bar-item w3-button"> Bawah</a></li>
         <li><a href="#bunga" class="w3-bar-item w3-button"> Peta Bunga 100% Perbulan</a></li>
-        <li><a href="#contact">Contact</a></li>
+        <li><a href="#media">Media</a></li>
     </ul>
 </nav>
 
@@ -38,7 +38,7 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
 ![Logo GitHub](https://img.shields.io/github/followers/getbos)
 
 ## Tautan
-<a href="https://pages.github.io/" target="_blank">GitHub Pages</a>
+<a href="https://pages.github.com/" target="_blank">GitHub Pages</a>
 
 ## Daftar
 
@@ -46,12 +46,6 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
 - Item Kedua
   - Subitem 1
   - Subitem 2
-    - Subitem A
-    - Subitem B
-      - Anak Subitem A
-      - Anak Subitem B
-        - Cucu Subitem A
-        - Cucu Subitem B
 - Item Ketiga
 
 ## Teks Terkait
@@ -241,6 +235,7 @@ Pasar adalah majikan Anda                                                 Pasar 
 <a href="#atas" class="w3-bar-item w3-button"> Ke Atas Halaman</a>
 
 <div align="center">
+	<div class="w3-container" style="padding:0px 0px" id="media"></div>
  <a href="https://www.facebook.com/metabrani" target="_blank">
    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
  <a href="https://www.twitter.com/getbos" target="_blank">
