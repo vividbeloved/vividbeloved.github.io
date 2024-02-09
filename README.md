@@ -183,11 +183,11 @@ Keterangan lebih lanjut tentang pengetahuan <a href="https://positivepsychology.
 ### Ingatlah selalu bahwa keuntungan yang lebih tinggi biasanya disertai dengan peluang dan risiko yang lebih tinggi.
 
 ```
-Pasar adalah majikan Anda
+Pasar adalah majikan Anda                                                 Pasar memiliki sisi misteri gelap
 
-            Rencana adalah panduan Anda
+            Rencana adalah panduan Anda                           Rencana awal dari keberhasilan
 
-                        Disiplin adalah guru Anda
+                        Disiplin adalah guru Anda        Guru penting dipatuhi
 ```
 
 ### Tujuan utama dan terpenting seorang pedagang di pasar uang adalah menjaga uangnya agar tidak hilang.
