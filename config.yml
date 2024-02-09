@@ -1,5 +1,10 @@
 # _config.yml
 
+baseURL: "https://getbos.github.io"
+AdSense: <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7304615088166232"
+     crossorigin="anonymous"></script>
+title: GetBos - Gate Economy Trade Bitcoin and Other Stuff
+
 # Nama situs
 title: "Nama Situs Anda"
 
