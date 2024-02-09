@@ -9,7 +9,7 @@
     <ul>
         <li><a href="#beranda"> Beranda</a></li>
         <li><a href="#bawah" class="w3-bar-item w3-button"> Bawah</a></li>
-        <li><a href="#bunga" class="w3-bar-item w3-button"> Tabel</a></li>
+        <li><a href="#tabel" class="w3-bar-item w3-button"> Tabel</a></li>
         <li><a href="#media"> Media</a></li>
     </ul>
 </nav>
@@ -89,7 +89,7 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
 	 <div style="border:28px solid #8205f2">
           <p class="paragraph" style="font-size: 24px;">GetBos Research</p>
 	   <div align="center">
-            <h1 class="heading-5">Merindukan Tatanan Masyarakat Sejahterah 丰</h1>
+            <h1 class="heading-5">Excellent Vivid Opportunity 丰</h1>
 	   </div>
           <p class="margin-bottom-24px">A Space-Time Diffusion Model for Video Generation</p>
           <a href="https://arxiv.org/abs/2401.12945" target="_blank">Read Paper</a>
@@ -189,13 +189,13 @@ Keterangan lebih lanjut tentang pengetahuan <a href="https://positivepsychology.
 ```
 Pasar adalah majikan Anda                                                 Pasar memiliki sisi misteri gelap
 
-            Rencana adalah panduan Anda                           Rencana awal dari keberhasilan
+            Rencana adalah panduan Anda                           Rencana mempermudah cara bekerja
 
-                        Disiplin adalah guru Anda        Guru penting dipatuhi
+                        Disiplin adalah guru Anda        Guru penting dipatuhi agar sukses
 ```
 
 ### Tujuan utama dan terpenting seorang pedagang di pasar uang adalah menjaga uangnya agar tidak hilang.
-<div class="w3-container" style="padding:0px 0px" id="bunga"></div>
+<div class="w3-container" style="padding:0px 0px" id="tabel"></div>
 
 ### Ilustrasi peta jalan pertumbuhan modal yang berbunga 100% perbulan	
 
@@ -220,50 +220,67 @@ Pasar adalah majikan Anda                                                 Pasar 
 | ![deprecated](https://img.shields.io/badge/1-fabec8) | ![deprecated](https://img.shields.io/badge/$10-2be23e)       | ![deprecated](https://img.shields.io/badge/$10-8A2BE2)      | ![deprecated](https://img.shields.io/badge/$20-3422E2)        | ![deprecated](https://img.shields.io/badge/Januari_2024-E22E2B)   | ![deprecated](https://img.shields.io/badge/Selesai.-8A2BE2) |
 
 <a href="#beranda">
-   <img src="https://img.shields.io/badge/Beranda-%231877F2.svg?&style=flat-square&logo=Beranda&logoColor=white" alt="beranda"></a> <a href="https://metabrani.github.io/" target="_blank">
-   <img src="https://img.shields.io/badge/MetaBrani-%231877F2.svg?&style=flat-square&logo=metabrani&logoColor=white" alt="metabrani"></a> <a href="https://evositas.github.io/" target="_blank">
-   <img src="https://img.shields.io/badge/Evositas-%231877F2.svg?&style=flat-square&logo=evositas&logoColor=white" alt="evositas"></a>
+   <img src="https://img.shields.io/badge/Beranda-%231877F2.svg?&style=flat-square&logo=Beranda&logoColor=white" alt="beranda">
+</a>
 
+<a href="https://metabrani.github.io/" target="_blank">
+   <img src="https://img.shields.io/badge/MetaBrani-%231877F2.svg?&style=flat-square&logo=metabrani&logoColor=white" alt="metabrani">
+</a>
+
+<a href="https://evositas.github.io/" target="_blank">
+   <img src="https://img.shields.io/badge/Evositas-%231877F2.svg?&style=flat-square&logo=evositas&logoColor=white" alt="evositas">
+</a>
 
 ### Transaksi GetBos di jaringan Bitcoin
 1. Bukti transaksi perdana dengan tulisan  <a href="https://mempool.space/tx/f61be88b48af826c9056f6fc1c7391ca8e052a83d8f00efc5a6c4025c389f280" target="_blank">OP_RETURN</a> getbos gate economy trade bitcoin and other stuff
-2. Jika melihat di <a href="https://mempool.space/block/000000000000000000028611f8e3fc06e80ca6e1cd7df45c0fdf7cd524fda567" target="_blank">Block 828889</a>mempool, ada di halaman 27. 
-3. Urutan 656 dari total 2,814 transaksi dalam 1 block.
-4. Block 828889 selesai jam 20:12 WIB
+2. Jika melihat di <a href="https://mempool.space/block/000000000000000000028611f8e3fc06e80ca6e1cd7df45c0fdf7cd524fda567" target="_blank">Block 828889</a> mempool, ada di halaman 27. 
+3. Urutan 656 dari total 2,814 transaksi dalam 1 block
+4. Block 828889 selesai pada hari Minggu Legi malam Senin Paing jam 20:12 WIB
 
 <!-- About Section -->
 <div class="w3-container" style="padding:0px 0px" id="bawah"></div>
 
 ## Bawah
+![deprecated](https://img.shields.io/badge/Situs_ini_dalam_pengembangan-3422E2)
+![deprecated](https://img.shields.io/badge/Halaman_bersifat_eksperimental-8A2BE2)
+![deprecated](https://img.shields.io/badge/Silahkan_menggunakan_dengan_riset_dan_risiko_Anda_sendiri-E22E2B)
 
- ![deprecated](https://img.shields.io/badge/Situs_ini_dalam_pengembangan-3422E2)  
- ![deprecated](https://img.shields.io/badge/Halaman_bersifat_eksperimental-8A2BE2)  
- ![deprecated](https://img.shields.io/badge/Silahkan_menggunakan_dengan_riset_dan_risiko_Anda_sendiri-E22E2B)
- 
- ![deprecated](https://img.shields.io/badge/status-berjalan-lime.svg?style=flat-square)
- ![](https://img.shields.io/keybase/btc/gainbrat) <a href="https://mempool.space/address/1EZjeVjTZZNz5P9p4Qe9QxybCw2znxFB6B" target="_blank">
-   <img src="https://img.shields.io/badge/mempool-%231877F2.svg?&style=flat-square&logo=mempool&logoColor=white" alt="mempool"></a>
-   
- ![](https://img.shields.io/keybase/btc/getbos) <a href="https://mempool.space/address/1DEUSxZqiWNMdLNhrHNBL6PYDKq5qWdcug" target="_blank">
-   <img src="https://img.shields.io/badge/mempool-%231877F2.svg?&style=flat-square&logo=mempool&logoColor=white" alt="mempool"></a>
-    ![deprecated](https://img.shields.io/badge/status-berjalan-lime.svg?style=flat-square)
+![deprecated](https://img.shields.io/badge/status-berjalan-lime.svg?style=flat-square)
+![](https://img.shields.io/keybase/btc/gainbrat) 
+<a href="https://mempool.space/address/1EZjeVjTZZNz5P9p4Qe9QxybCw2znxFB6B" target="_blank">
+   <img src="https://img.shields.io/badge/mempool-%231877F2.svg?&style=flat-square&logo=mempool&logoColor=white" alt="mempool">
+</a>
+
+![](https://img.shields.io/keybase/btc/getbos) 
+<a href="https://mempool.space/address/1DEUSxZqiWNMdLNhrHNBL6PYDKq5qWdcug" target="_blank">
+   <img src="https://img.shields.io/badge/mempool-%231877F2.svg?&style=flat-square&logo=mempool&logoColor=white" alt="mempool">
+</a>
+
+![deprecated](https://img.shields.io/badge/status-berjalan-lime.svg?style=flat-square)
 
 <a href="#atas" class="w3-bar-item w3-button"> Ke Atas Halaman</a>
 
 <div align="center">
-	<div class="w3-container" style="padding:0px 0px" id="media"></div>
- <a href="https://www.facebook.com/metabrani" target="_blank">
-   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
- <a href="https://www.twitter.com/getbos" target="_blank">
-   <img src="https://img.shields.io/badge/twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="twitter"></a>
+	<div class="w3-container" style="padding: 0px 0px" id="media"></div>
+	<a href="https://www.facebook.com/metabrani" target="_blank">
+		<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
+	</a>
+	<a href="https://www.twitter.com/getbos" target="_blank">
+		<img src="https://img.shields.io/badge/twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
+	</a>
 	<a href="https://www.telegram.com/getboz" target="_blank">
-   <img src="https://img.shields.io/badge/telegram-%231877F2.svg?&style=flat-square&logo=telegram&logoColor=white" alt="telegram"></a>
- <a href="https://www.youtube.com/@getbos" target="_blank">
-   <img src="https://img.shields.io/badge/youtube-%231877F2.svg?&style=flat-square&logo=youtube&logoColor=white" alt="youtube"></a>
-   <a href="https://www.getalby.com/getbos" target="_blank">
-   <img src="https://img.shields.io/badge/getalby-%231877F2.svg?&style=flat-square&logo=getalby&logoColor=white" alt="getalby"></a>
- <a href="https://primal.net/evo" target="_blank">
-   <img src="https://img.shields.io/badge/primal-%231877F2.svg?&style=flat-square&logo=primal&logoColor=white" alt="primal"></a>
+		<img src="https://img.shields.io/badge/telegram-%231877F2.svg?&style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
+	</a>
+	<a href="https://www.youtube.com/@getbos" target="_blank">
+		<img src="https://img.shields.io/badge/youtube-%231877F2.svg?&style=flat-square&logo=youtube&logoColor=white" alt="YouTube">
+	</a>
+	<a href="https://www.getalby.com/getbos" target="_blank">
+		<img src="https://img.shields.io/badge/getalby-%231877F2.svg?&style=flat-square&logo=getalby&logoColor=white" alt="Getalby">
+	</a>
+	<a href="https://primal.net/evo" target="_blank">
+		<img src="https://img.shields.io/badge/primal-%231877F2.svg?&style=flat-square&logo=primal&logoColor=white" alt="Primal">
+	</a>
+</div>
 
  <!-- Tautan CSS -->
 <link rel="stylesheet" type="text/css" href="/style.css">
