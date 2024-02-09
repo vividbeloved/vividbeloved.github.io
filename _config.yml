@@ -9,4 +9,4 @@ adsense:
   script: "<script async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7304615088166232\" crossorigin=\"anonymous\"></script>"
 
 # Jika Anda memiliki file CSS terpisah, Anda dapat menyertakannya di sini
-css: "styles.css"
+css: "/styles.css"
