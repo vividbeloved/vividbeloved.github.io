@@ -26,11 +26,6 @@ _Tulis sedikit tentang diri Anda atau proyek Anda di sini._
  ![Build Status](https://img.shields.io/travis/getbos/getbos.github.io/master.svg)
 
 ## Portofolio
-<details>
-	<summary>
- <i>Di Bungkus</i>
-  </summary>
-   <p>
 		
 Berikut adalah beberapa proyek yang pernah saya kerjakan:
 
@@ -78,9 +73,6 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
 1. Proyek 1
 2. Proyek 2
 3. Proyek 3
-
-    </p>
-</details>
 
 <div align="center">
 <a class="text-black" href="https://bitcoin.org/id/" target="_blank">Bitcoin</a> | 
