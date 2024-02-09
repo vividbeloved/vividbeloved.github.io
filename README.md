@@ -7,10 +7,10 @@
 # [Gerbang Ekonomi Menuju Masa Depan 丰 :rocket:](https://getbos.github.io)
 <nav>
     <ul>
-        <li><a href="#beranda">Beranda</a></li>
+        <li><a href="#beranda"> Beranda</a></li>
         <li><a href="#bawah" class="w3-bar-item w3-button"> Bawah</a></li>
         <li><a href="#bunga" class="w3-bar-item w3-button"> Peta Bunga 100% Perbulan</a></li>
-        <li><a href="#media">Media</a></li>
+        <li><a href="#media"> Media</a></li>
     </ul>
 </nav>
 
@@ -210,7 +210,7 @@ Pasar adalah majikan Anda                                                 Pasar 
 | ![deprecated](https://img.shields.io/badge/$20-3422E2)       | ![deprecated](https://img.shields.io/badge/$20-8A2BE2)      | ![deprecated](https://img.shields.io/badge/$40-3422E2)        | ![deprecated](https://img.shields.io/badge/Februari_2024-e1f205)  | Keterangan 16 |
 | ![deprecated](https://img.shields.io/badge/$10-2be23e)       | ![deprecated](https://img.shields.io/badge/$10-8A2BE2)      | ![deprecated](https://img.shields.io/badge/$20-3422E2)        | ![deprecated](https://img.shields.io/badge/Januari_2024-E22E2B)   | ![deprecated](https://img.shields.io/badge/Januari_2024_telah_berlalu._Semoga_Februari_2024_lebih_baik_dan_produktif.-8A2BE2) |
 
-<a href="#beranda">Beranda</a>
+<a href="#beranda">
    <img src="https://img.shields.io/badge/Beranda-%231877F2.svg?&style=flat-square&logo=Beranda&logoColor=white" alt="beranda"></a>
 
 ### Transaksi GetBos di jaringan Bitcoin
