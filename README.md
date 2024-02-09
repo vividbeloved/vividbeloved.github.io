@@ -4,8 +4,15 @@
 <div class="w3-container" style="padding:0px 0px" id="atas"></div>
 
 # [Gerbang Ekonomi Menuju Masa Depan 丰 :rocket:](https://getbos.github.io)
-<a href="#bawah" class="w3-bar-item w3-button"> Bawah</a>
-<a href="#bunga" class="w3-bar-item w3-button"> Peta Bunga 100% Perbulan</a>
+<nav>
+    <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#bawah" class="w3-bar-item w3-button"> Bawah</a></li>
+        <li><a href="#bunga" class="w3-bar-item w3-button"> Peta Bunga 100% Perbulan</a></li>
+        <li><a href="#contact">Contact</a></li>
+    </ul>
+</nav>
+
 ## Belum dirapikan
 
 _Tulis sedikit tentang diri Anda atau proyek Anda di sini._
