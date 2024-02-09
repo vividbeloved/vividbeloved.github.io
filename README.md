@@ -38,6 +38,15 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
 
 ![Logo GitHub](https://img.shields.io/github/followers/getbos)
 
+<details>
+  <summary>
+    <i>Kata Harta Karun</i>
+  </summary>
+  <p>
+    Dalam bingkai waktu satu bulan, akan ada momentum pergerakan satu arah dalam satu hari, sehingga harga di pasar keuangan mudah di ketahui akan kemana mengalirnya.
+  </p>
+</details>
+
 ## Tautan
 <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>
 
