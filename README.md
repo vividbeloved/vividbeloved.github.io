@@ -2,6 +2,7 @@
 <link rel="stylesheet" type="text/css" href="/style.css">
 <!-- About Section // Tentang Bagian -->
 <div class="w3-container" style="padding:0px 0px" id="atas"></div>
+<div class="w3-container" style="padding:0px 0px" id="home"></div>
 
 # [Gerbang Ekonomi Menuju Masa Depan 丰 :rocket:](https://getbos.github.io)
 <nav>
@@ -208,6 +209,7 @@ Pasar adalah majikan Anda                                                 Pasar 
 | ![deprecated](https://img.shields.io/badge/$40-3422E2)       | ![deprecated](https://img.shields.io/badge/$40-8A2BE2)      | ![deprecated](https://img.shields.io/badge/$80-2be23e)       | ![deprecated](https://img.shields.io/badge/Maret_2024-2be23e)     | Keterangan 15 |
 | ![deprecated](https://img.shields.io/badge/$20-3422E2)       | ![deprecated](https://img.shields.io/badge/$20-8A2BE2)      | ![deprecated](https://img.shields.io/badge/$40-3422E2)        | ![deprecated](https://img.shields.io/badge/Februari_2024-e1f205)  | Keterangan 16 |
 | ![deprecated](https://img.shields.io/badge/$10-2be23e)       | ![deprecated](https://img.shields.io/badge/$10-8A2BE2)      | ![deprecated](https://img.shields.io/badge/$20-3422E2)        | ![deprecated](https://img.shields.io/badge/Januari_2024-E22E2B)   | ![deprecated](https://img.shields.io/badge/Januari_2024_telah_berlalu._Semoga_Februari_2024_lebih_baik_dan_produktif.-8A2BE2) |
+<a href="#home">Home</a>
 
 ### Transaksi GetBos di jaringan Bitcoin
 1. Bukti transaksi perdana dengan tulisan  <a href="https://mempool.space/tx/f61be88b48af826c9056f6fc1c7391ca8e052a83d8f00efc5a6c4025c389f280" target="_blank">OP_RETURN</a> getbos gate economy trade bitcoin and other stuff
