@@ -9,7 +9,7 @@
     <ul>
         <li><a href="#beranda"> Beranda</a></li>
         <li><a href="#bawah" class="w3-bar-item w3-button"> Bawah</a></li>
-        <li><a href="#bunga" class="w3-bar-item w3-button"> Peta Bunga 100% Perbulan</a></li>
+        <li><a href="#bunga" class="w3-bar-item w3-button"> Tabel</a></li>
         <li><a href="#media"> Media</a></li>
     </ul>
 </nav>
