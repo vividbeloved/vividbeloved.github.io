@@ -243,6 +243,7 @@ Pasar adalah majikan Anda                                                 Pasar 
 | Nama    | Link                                                                                                 |
 |---------|------------------------------------------------------------------------------------------------------|
 | Alamat Bitcoin | <a href="https://mempool.space/address/1DEUSxZqiWNMdLNhrHNBL6PYDKq5qWdcug" target="_blank">DEUS</a>|
+| Alamat Bitcoin | <a href="https://mempool.space/address/1EZjeVjTZZNz5P9p4Qe9QxybCw2znxFB6B" target="_blank"><img src="https://img.shields.io/badge/1EZjeVjTZZNz5P9p4Qe9QxybCw2znxFB6B-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="1EZjeVjTZZNz5P9p4Qe9QxybCw2znxFB6B"><a/>
 
 
 
