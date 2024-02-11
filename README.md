@@ -239,6 +239,7 @@ Pasar adalah majikan Anda                                                 Pasar 
 5. Bisa membaca tabel hash merupakan ketrampilan yang selangkah lebih maju
 
 ### Tabel Hash Bitcoin
+
 | Nama    | Link                                                                                                 |
 |---------|------------------------------------------------------------------------------------------------------|
 | Alamat Bitcoin | <a href="https://mempool.space/address/1DEUSxZqiWNMdLNhrHNBL6PYDKq5qWdcug" target="_blank">DEUS</a>|
