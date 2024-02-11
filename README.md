@@ -238,6 +238,13 @@ Pasar adalah majikan Anda                                                 Pasar 
 4. Block 828889 selesai pada hari Minggu Legi malam Senin Paing jam 20:12 WIB
 5. Bisa membaca tabel hash merupakan ketrampilan yang selangkah lebih maju
 
+### Tabel Hash Bitcoin
+| Nama    | Link                                                                                                 |
+|---------|------------------------------------------------------------------------------------------------------|
+| GetBos | [https://mempool.space/tx/f61be88b48af826c9056f6fc1c7391ca8e052a83d8f00efc5a6c4025c389f280](https://mempool.space/tx/f61be88b48af826c9056f6fc1c7391ca8e052a83d8f00efc5a6c4025c389f280) |
+
+
+
 <!-- About Section -->
 <div class="w3-container" style="padding:0px 0px" id="bawah"></div>
 
