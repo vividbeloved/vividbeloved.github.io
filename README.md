@@ -234,9 +234,62 @@ Pasar adalah majikan Anda                                                 Pasar 
 ### Transaksi GetBos di jaringan Bitcoin
 1. Bukti transaksi perdana dengan tulisan  <a href="https://mempool.space/tx/f61be88b48af826c9056f6fc1c7391ca8e052a83d8f00efc5a6c4025c389f280" target="_blank">OP_RETURN</a> getbos gate economy trade bitcoin and other stuff
 2. Jika melihat di <a href="https://mempool.space/block/000000000000000000028611f8e3fc06e80ca6e1cd7df45c0fdf7cd524fda567" target="_blank">Block 828889</a> mempool, ada di halaman 27. 
-3. Urutan 656 dari total 2,814 transaksi dalam 1 block
-4. Block 828889 selesai pada hari Minggu Legi malam Senin Paing jam 20:12 WIB
-5. Bisa membaca tabel hash pada block 828889 merupakan ketrampilan yang selangkah lebih maju
+3. Urutan 655 dari total 2,814 transaksi dalam 1 block
+```
+   {
+  "txid": "f61be88b48af826c9056f6fc1c7391ca8e052a83d8f00efc5a6c4025c389f280",
+  "size": 222,
+  "version": 1,
+  "locktime": 0,
+  "fee": 7052,
+  "inputs": [
+    {
+      "coinbase": false,
+      "txid": "f981039c6596ea4b674d7dccd8b32cb26ec4f1f315d3768a71df0093b753261e",
+      "output": 0,
+      "sigscript": "",
+      "sequence": 4294967295,
+      "pkscript": "512099aeab23915dfb8c83b78a3e9a4c3fc9ad13dcecc62b3891959b61dc33c87326",
+      "value": 7459222,
+      "address": "bc1pnxh2kgu3thaceqah3glf5nplexk38h8vcc4n3yv4ndsacv7gwvnqp5gxff",
+      "witness": [
+        "8fe2cb422b5549ec05221dbdb1e7a62b708d81f15d02dde2b81d1c4e388693e6a791b9e003fa1229cc03d7de0402c86e18eb06bfcc57bdb9b7944003adf2147f"
+      ]
+    }
+  ],
+  "outputs": [
+    {
+      "address": "bc1ps9lkxw64tz2wh8jl4f89lu0elm0xa76pq4uznqpy3dcygyu2kdwq3kk60j",
+      "pkscript": "5120817f633b555894eb9e5faa4e5ff1f9fede6efb4105782980248b7044138ab35c",
+      "value": 7452170,
+      "spent": true,
+      "spender": {
+        "txid": "0e81e4f1f0b0fb289d1271cbc8c67a929368041b4f77fdd4ef4d463eba9c8e72",
+        "input": 0
+      }
+    },
+    {
+      "address": null,
+      "pkscript": "6a31676574626f7320676174652065636f6e6f6d7920747261646520626974636f696e20616e64206f74686572207374756666",
+      "value": 0,
+      "spent": false,
+      "spender": null
+    }
+  ],
+  "block": {
+    "height": 828889,
+    "position": 655
+  },
+  "deleted": false,
+  "time": 1707051705,
+  "rbf": false,
+  "weight": 684
+}
+Sumber : https://www.blockchain.com/explorer/transactions/btc/f61be88b48af826c9056f6fc1c7391ca8e052a83d8f00efc5a6c4025c389f280
+```
+
+5. Block 828889 selesai pada hari Minggu Legi malam Senin Paing jam 20:12 WIB
+6. Bisa membaca tabel hash pada block 828889 merupakan ketrampilan yang selangkah lebih maju
 
 ### Tabel Hash Bitcoin
 
