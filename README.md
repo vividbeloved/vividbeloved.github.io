@@ -241,7 +241,7 @@ Pasar adalah majikan Anda                                                 Pasar 
 ### Tabel Hash Bitcoin
 | Nama    | Link                                                                                                 |
 |---------|------------------------------------------------------------------------------------------------------|
-| GetBos | [https://mempool.space/tx/f61be88b48af826c9056f6fc1c7391ca8e052a83d8f00efc5a6c4025c389f280](https://mempool.space/tx/f61be88b48af826c9056f6fc1c7391ca8e052a83d8f00efc5a6c4025c389f280) |
+| Alamat Bitcoin | <a href="https://mempool.space/address/1DEUSxZqiWNMdLNhrHNBL6PYDKq5qWdcug" target="_blank">DEUS</a>|
 
 
 
