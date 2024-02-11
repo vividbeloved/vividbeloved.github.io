@@ -235,7 +235,7 @@ Pasar adalah majikan Anda                                                 Pasar 
 1. Bukti transaksi perdana dengan tulisan  <a href="https://mempool.space/tx/f61be88b48af826c9056f6fc1c7391ca8e052a83d8f00efc5a6c4025c389f280" target="_blank">OP_RETURN</a> getbos gate economy trade bitcoin and other stuff
 2. Jika melihat di <a href="https://mempool.space/block/000000000000000000028611f8e3fc06e80ca6e1cd7df45c0fdf7cd524fda567" target="_blank">Block 828889</a> mempool, ada di halaman 27. 
 3. Urutan 655 dari total 2,814 transaksi dalam 1 block
-```
+```jsx
    {
   "txid": "f61be88b48af826c9056f6fc1c7391ca8e052a83d8f00efc5a6c4025c389f280",
   "size": 222,
