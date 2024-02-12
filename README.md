@@ -128,8 +128,6 @@ Teori cara menumbuhkan keuntungan secara bertahap
 
 Jangan tergesa-gesa dalam meraih keuntungan yang halal
 
-Tahan keinginan untuk memperoleh dari $1 ke $10 sekaligus
-
 Tingkatkan ukuran perdagangan dengan secara bertahap
 
 Peningkatan kecil dan konsisten akan membantu membuat peluang dan mengelola risiko.
@@ -181,8 +179,6 @@ Semakin besar angka di layar berarti perubahan emosi yang semakin besar.
 Pastikan Anda siap secara mental untuk menangani tekanan yang meningkat.
 
 Keterangan lebih lanjut tentang pengetahuan <a href="https://positivepsychology.com/mihaly-csikszentmihalyi-father-of-flow/" target="_blank">Psikologi Positif</a> agar emosi semakin baik dan terkontrol.
-
-## Dengan melakukan penskalaan secara hati-hati dan cerdas, Anda dapat meningkatkan pendapatan perdagangan sambil mengendalikan risiko.
 
 ### Ingatlah selalu bahwa keuntungan yang lebih tinggi biasanya disertai dengan peluang dan risiko yang lebih tinggi.
 
