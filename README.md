@@ -9,9 +9,9 @@
     <ul>
         <li><a href="#beranda"> Beranda</a></li>
         <li><a href="#bawah" class="w3-bar-item w3-button"> Bawah</a></li>
-        <li><a href="#tabel" class="w3-bar-item w3-button"> Tabel🧧</a></li>
+        <li><a href="#tabel" class="w3-bar-item w3-button"> Tabel</a></li>
         <li><a href="#media"> Media</a></li>
-        <li><a href="#bitcoin"> <img src="https://bitcoin.org/img/icons/logo-footer.svg?1706112497"</a></li>
+        <li><a href="#bitcoin" class="w3-bar-item w3-button"> <img src="https://bitcoin.org/img/icons/logo-footer.svg?1706112497"</a></li>
     </ul>
 </nav>
 
