@@ -10,7 +10,7 @@ body, html {
       min-height: 100%;
     }
     .w3-bar .w3-button {
-      padding: 8px;
+      padding: 16px;
     }
 
 body {
@@ -38,7 +38,7 @@ nav a {
     display: block;
     color: white;
     text-align: center;
-    padding: 8px 8px;
+    padding: 16px 16px;
     text-decoration: none;
 }
 
