@@ -333,8 +333,6 @@ Sumber : https://www.blockchain.com/explorer/transactions/btc/f61be88b48af826c90
 	<a href="https://www.telegram.com/getboz" target="_blank">
 		<img src="https://img.shields.io/badge/telegram-%231877F2.svg?&style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
 	</a>
-	<a href="https://www.bitcoin.org/id" target="_blank">
-	        <img src="https://bitcoin.org/img/icons/logo-footer.svg?1706112497">
 	<a href="https://www.youtube.com/@getbos" target="_blank">
 		<img src="https://img.shields.io/badge/youtube-%231877F2.svg?&style=flat-square&logo=youtube&logoColor=white" alt="YouTube">
 	</a>
@@ -344,6 +342,8 @@ Sumber : https://www.blockchain.com/explorer/transactions/btc/f61be88b48af826c90
 	<a href="https://primal.net/evo" target="_blank">
 		<img src="https://img.shields.io/badge/primal-%231877F2.svg?&style=flat-square&logo=primal&logoColor=white" alt="Primal">
 	</a>
+	<a href="https://www.bitcoin.org/id" target="_blank">
+	        <img src="https://bitcoin.org/img/icons/logo-footer.svg?1706112497">
 </div>
 
 <!-- Tautan CSS -->
