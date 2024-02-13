@@ -45,6 +45,8 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
   <p>
     Dalam bingkai waktu satu bulan, akan ada momentum pergerakan satu arah dalam satu hari, sehingga harga di pasar keuangan mudah di ketahui akan kemana mengalirnya.
   </p>
+	<p> "La paciencia es amarga, pero su fruto es dulce". – Aristóteles
+</p>
 </details>
 
 ## Tautan
