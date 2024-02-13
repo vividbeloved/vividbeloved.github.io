@@ -344,7 +344,6 @@ Sumber : https://www.blockchain.com/explorer/transactions/btc/f61be88b48af826c90
 	</a>
 	<a href="https://www.bitcoin.org/id" target="_blank">
 	        <img src="https://bitcoin.org/img/icons/logo-footer.svg?1706112497">
-</div>
 
 <!-- Tautan CSS -->
 <link rel="stylesheet" type="text/css" href="/style.css">
