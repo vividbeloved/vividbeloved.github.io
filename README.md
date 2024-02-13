@@ -1,5 +1,6 @@
 <!-- Tautan CSS -->
 <link rel="stylesheet" href="/css/font-awesome-4.4.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="/css/main.css?1706112497">
 <!-- About Section // Tentang Bagian -->
 <div class="w3-container" style="padding:0px 0px" id="atas"></div>
 <div class="w3-container" style="padding:0px 0px" id="beranda"></div>
@@ -350,3 +351,4 @@ Sumber : https://www.blockchain.com/explorer/transactions/btc/f61be88b48af826c90
 
  <!-- Tautan CSS -->
 <link rel="stylesheet" href="/css/font-awesome-4.4.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="/css/main.css?1706112497">
