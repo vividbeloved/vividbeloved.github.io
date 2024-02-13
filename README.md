@@ -104,8 +104,8 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
   </section>
 
 ```
-                   Gate Economy Trade Bitcoin and Other Stuff
-            Gerbang Ekonomi Perdagangan Bitcoin dan Barang Lainnya
+                   Gate Economy Trade ₿itcoin and Other Stuff
+            Gerbang Ekonomi Perdagangan ₿itcoin dan Barang Lainnya
                           Peluang Nyata yang Luar Biasa
 ```
 ![deprecated](https://img.shields.io/badge/Pengingat-8A2BE2) ![luar biasa](https://awesome.re/badge.svg) 
@@ -114,11 +114,11 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
 ![Logo GitHub](https://img.shields.io/badge/Gambar-8A2BE2)
 
 
-Dimulai dari gerbang perdagangan
+Dimulai dari melewati gerbang perdagangan
 
-Kekayaan seseorang dan negara cepat terwujud
+Kekayaan seseorang, perusahaan dan negara cepat terwujud
 
-Namun, jika dipikir masih banyak orang yang belum melakukannya
+Namun, jika dipikir-pikir, masih banyak orang yang belum melakukannya
 
 Inilah cara memulai membangun kekayaan ![deprecated](https://img.shields.io/badge/丰-8A2BE2) tahun ini dengan semangat
 
