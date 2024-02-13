@@ -293,7 +293,7 @@ Sumber : https://www.blockchain.com/explorer/transactions/btc/f61be88b48af826c90
 
 | Nama    | Link                                                                                                 |
 |---------|------------------------------------------------------------------------------------------------------|
-| Alamat Bitcoin | <a href="https://mempool.space/address/1DEUSxZqiWNMdLNhrHNBL6PYDKq5qWdcug" target="_blank"><img src="https://img.shields.io/badge/1DEUSxZqiWNMdLNhrHNBL6PYDKq5qWdcug-%231877F2.svg?&style=flat-square&logo=bitcoin&logoColor=white" alt="1DEUSxZqiWNMdLNhrHNBL6PYDKq5qWdcug"><a/> |
+| Alamat Bitcoin | <a href="https://mempool.space/address/1DEUSxZqiWNMdLNhrHNBL6PYDKq5qWdcug" target="_blank"><img src="https://bitcoin.org/img/icons/logo-footer.svg?1706112497" alt="1DEUSxZqiWNMdLNhrHNBL6PYDKq5qWdcug"><a/> | <img >
 | Alamat Bitcoin | <a href="https://mempool.space/address/1EZjeVjTZZNz5P9p4Qe9QxybCw2znxFB6B" target="_blank"><img src="https://img.shields.io/badge/1EZjeVjTZZNz5P9p4Qe9QxybCw2znxFB6B-%231877F2.svg?&style=flat-square&logo=bitcoin&logoColor=white" alt="1EZjeVjTZZNz5P9p4Qe9QxybCw2znxFB6B"><a/> |
 | Alamat Ethereum | <a href="https://etherscan.io/nft/0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85/4421530841797771256312424086628263505231367050400567126952092999913794014635" target="_blank"><img src="https://img.shields.io/badge/jombang.eth-%231877F2.svg?&style=flat-square&logo=ethereum&logoColor=white" alt="jombang.eth"><a/> |
 | Alamat Ethereum | <a href="https://etherscan.io/nft/0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85/101846358537703360326023606582808589270192534296290160289883057157643897738320" target="_blank"><img src="https://img.shields.io/badge/arema.eth-%231877F2.svg?&style=flat-square&logo=ethereum&logoColor=white" alt="arema.eth"><a/> |
@@ -343,6 +343,8 @@ Sumber : https://www.blockchain.com/explorer/transactions/btc/f61be88b48af826c90
 		<img src="https://img.shields.io/badge/primal-%231877F2.svg?&style=flat-square&logo=primal&logoColor=white" alt="Primal">
 	</a>
 </div>
+
+<img src="https://bitcoin.org/img/icons/logo-footer.svg?1706112497">
 
  <!-- Tautan CSS -->
 <link rel="stylesheet" type="text/css" href="/style.css">
