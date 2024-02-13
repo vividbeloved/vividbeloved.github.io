@@ -11,6 +11,7 @@
         <li><a href="#bawah" class="w3-bar-item w3-button"> Bawah</a></li>
         <li><a href="#tabel" class="w3-bar-item w3-button"> Tabel🧧</a></li>
         <li><a href="#media"> Media</a></li>
+        <li><a href="#bitcoin"> <img src="https://bitcoin.org/img/icons/logo-footer.svg?1706112497"</a></li>
     </ul>
 </nav>
 
@@ -72,7 +73,8 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
 3. Item Ketiga
 
 ## Proyek
-1. Proyek 1
+<div class="w3-container" style="padding:0px 0px" id="bitcoin"></div>
+1. Proyek 1 Bitcoin
 2. Proyek 2
 3. Proyek 3
 
