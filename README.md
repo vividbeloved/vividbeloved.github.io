@@ -47,6 +47,7 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
   </p>
 	<p> "La paciencia es amarga, pero su fruto es dulce". – Aristóteles
 </p>
+	<p> Hati-hati dengan tindakan yang berdasarkan hasil dari pikiran dan perasaan yang impulsif, seringkali kebiasaan tersebut hasil dari pikiran dan merasaan fokusnya kurang memperhatikan rencana dan strategi arus pergerakan harga yang telah terjadi secara mengejutkan.</p>
 </details>
 
 ## Tautan
