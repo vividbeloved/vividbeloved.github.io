@@ -14,6 +14,16 @@
     </ul>
 </nav>
 
+<div align="center">
+<a class="text-black" href="https://bitcoin.org/id/" target="_blank">Bitcoin</a> | 
+<a class="text-black" href="https://btcscan.org/address/1DEUSxZqiWNMdLNhrHNBL6PYDKq5qWdcug" target="_blank">Btcscan</a> |
+<a class="text-black" href="https://timechaincalendar.com/en" target="_blank">TimeChainBitcoin</a> |
+<a class="text-black" href="https://bitinfocharts.com/bitcoin/address/1EZjeVjTZZNz5P9p4Qe9QxybCw2znxFB6B" target="_blank">Bitinfo</a> |
+<a class="text-black" href="https://lnmarkets.com/en" target="_blank">LNmarket</a> |
+<a class="text-black" href="https://mempool.space/tools/calculator" target="_blank">Mempool</a> |
+<a class="text-black" href="https://mempool.space/tx/d248d2d06e4bece2afc225ed5a1427e0f7dc769c5d3df795c7e9b7f667eae6b3" target="_blank">Ordinals</a>
+</div>
+
 ## Belum dirapikan 🌱
 
 _Tulis sedikit tentang diri Anda atau proyek Anda di sini._
@@ -77,15 +87,7 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
 2. Proyek 2
 3. Proyek 3
 
-<div align="center">
-<a class="text-black" href="https://bitcoin.org/id/" target="_blank">Bitcoin</a> | 
-<a class="text-black" href="https://btcscan.org/address/1DEUSxZqiWNMdLNhrHNBL6PYDKq5qWdcug" target="_blank">Btcscan</a> |
-<a class="text-black" href="https://timechaincalendar.com/en" target="_blank">TimeChainBitcoin</a> |
-<a class="text-black" href="https://bitinfocharts.com/bitcoin/address/1EZjeVjTZZNz5P9p4Qe9QxybCw2znxFB6B" target="_blank">Bitinfo</a> |
-<a class="text-black" href="https://lnmarkets.com/en" target="_blank">LNmarket</a> |
-<a class="text-black" href="https://mempool.space/tools/calculator" target="_blank">Mempool</a> |
-<a class="text-black" href="https://mempool.space/tx/d248d2d06e4bece2afc225ed5a1427e0f7dc769c5d3df795c7e9b7f667eae6b3" target="_blank">Ordinals</a>
-</div><section class="hero-heading-left" style="padding-top: 50px;">
+<section class="hero-heading-left" style="padding-top: 50px;">
     <div class="container-2">
       <div class="hero-wrapper" style="padding-bottom: 6px;">
         <div class="hero-split">
