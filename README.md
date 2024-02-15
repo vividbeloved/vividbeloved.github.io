@@ -56,10 +56,10 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
 ## Daftar
 
 - Membangun Perkebunan Digital
-- Item Kedua
-  - Subitem 1
-  - Subitem 2
-- Item Ketiga
+- Perdagangan di Pasar uang
+  - Forex
+  - Bitcoin
+- Beli Satoshi
 
 ## Teks Terkait
 
