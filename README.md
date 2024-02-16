@@ -76,16 +76,16 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
 *teks miring* atau _teks miring_
 **teks tebal** atau __teks tebal__
 
-## Daftar Nomor
-
-1. Item Pertama
-2. Item Kedua
-3. Item Ketiga
+## Get Profit 
+<!-- Dapatkan Keuntungan -->
+1. Bitcoin
+2. Forex
+3. Other Stuff
 
 ## Proyek
-1. Proyek 1 
-2. Proyek 2
-3. Proyek 3
+1. DAO GetBos 
+2. Website GetBos
+3. Society GetBos
 
 <section class="hero-heading-left" style="padding-top: 50px;">
     <div class="container-2">
