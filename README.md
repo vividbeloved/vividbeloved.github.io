@@ -28,6 +28,23 @@
 
 _Tulis sedikit tentang diri Anda atau proyek Anda di sini._
 
+Meniru gayanya <a href="https://en.wikipedia.org/wiki/Rumi" target="_blank">Rumi</a> 
+<section class="hero-heading-left" style="padding-top: 50px;">
+    <div class="container-2">
+      <div class="hero-wrapper" style="padding-bottom: 6px;">
+        <div class="hero-split">
+	 <div style="border:28px solid #8205f2">
+          <p class="paragraph" style="font-size: 24px;"></p>
+          <p class="margin-bottom-24px">Aku bukan ekonom lokal</p>
+	  <p class="margin-bottom-24px">Aku bukan ekonom nasional</p>
+	  <p class="margin-bottom-24px">Aku adalah ekonom alam semesta</p>
+	 </div>
+        </div>
+      </div>
+    </div>
+  </section>
+<section class="hero-heading-left" style="padding-top: 50px;">
+
 🚀 Proyek belum diluncurkan!
 
 - [x] Tugas Selesai
