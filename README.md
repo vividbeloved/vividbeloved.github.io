@@ -166,15 +166,17 @@ Sehingga logika terasa terhambat tanpa sadar ketika emosi mendominasi untuk meng
 
 ### Laba di Investasi Kembali:
 
-Gunakan laba Anda untuk meningkatkan modal perdagangan Anda.
+Gunakan keuntungan Anda untuk meningkatkan modal perdagangan Anda.
 
-Hal ini memungkinkan pertumbuhan gabungan menguntungkan Anda tanpa menyuntikkan uang baru.
+Ketika modal bertambah, peluang untuk mendapat keuntungan lagi akan semakin bertambah.
 
 ### Uji Kembali Strategi Anda:
 
 Pastikan strategi Anda berhasil pada volume yang lebih tinggi.
 
 Beberapa strategi yang berhasil dengan ukuran kecil mungkin tidak dapat diukur karena masalah slippage atau likuiditas pasar.
+
+Strategi perdagangan dengan modal kecil memiliki rasa beban mental dan beban moral yang berbeda, jika dibandingkan dengan modal yang banyak.
 
 ### Pantau Kinerja:
 
