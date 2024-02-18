@@ -1,17 +1,38 @@
 <!-- Tautan CSS -->
 <link rel="stylesheet" type="text/css" href="/style.css">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <!-- About Section // Tentang Bagian -->
 <div class="w3-container" style="padding:0px 0px" id="atas"></div>
 <div class="w3-container" style="padding:0px 0px" id="beranda"></div>
 
 # [Gerbang Ekonomi Menuju Masa Depan 丰](https://getbos.github.io)
-<nav>
-    <ul>
-        <li><a href="#beranda"> Beranda</a></li>
-        <li><a href="#bawah" class="w3-bar-item w3-button"> Bawah</a></li>
-        <li><a href="#tabel" class="w3-bar-item w3-button"> Tabel</a></li>
-        <li><a href="#media"> Media</a></li>
-    </ul>
+<!-- Navbar (sit on top) -->
+<div class="w3-top">
+  <div class="w3-bar w3-white w3-card" id="myNavbar">
+    <a href="#home" class="w3-bar-item w3-button w3-wide">GetBos</a>
+    <!-- Right-sided navbar links -->
+    <div class="w3-right w3-hide-small">
+      <a href="#beranda" class="w3-bar-item w3-button"> Beranda</a>
+      <a href="#bawah" class="w3-bar-item w3-button"><i class="fa fa-user"></i> Bawah</a>
+      <a href="#tabel" class="w3-bar-item w3-button"><i class="fa fa-th"></i> Tabel</a>
+      <a href="#media" class="w3-bar-item w3-button"><i class="fa fa-usd"></i> Media</a>
+    </div>
+    
+<!-- Hide right-floated links on small screens and replace them with a menu icon -->
+<a href="javascript:void(0)" class="w3-bar-item w3-button w3-right w3-hide-large w3-hide-medium" onclick="w3_open()">
+      <i class="fa fa-bars"></i>
+    </a>
+  </div>
+</div>
+<!-- Sidebar on small screens when clicking the menu icon -->
+<nav class="w3-sidebar w3-bar-block w3-black w3-card w3-animate-left w3-hide-medium w3-hide-large" style="display:none" id="mySidebar">
+  <a href="javascript:void(0)" onclick="w3_close()" class="w3-bar-item w3-button w3-large w3-padding-16">Close ×</a>
+  <a href="#beranda" onclick="w3_close()" class="w3-bar-item w3-button">Beranda</a>
+  <a href="#bawah" onclick="w3_close()" class="w3-bar-item w3-button">Bawah</a>
+  <a href="#tabel" onclick="w3_close()" class="w3-bar-item w3-button">Tabel</a>
+  <a href="#media" onclick="w3_close()" class="w3-bar-item w3-button">Media</a>
 </nav>
 
 <div align="center">
