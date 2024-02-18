@@ -83,8 +83,8 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
 
 ## Get Profit 
 <!-- Dapatkan Keuntungan -->
-1. Bitcoin
-2. Forex
+1. Forex
+2. Bitcoin
 3. Other Stuff
 
 ## Proyek
