@@ -1,40 +1,19 @@
 <!-- Tautan CSS -->
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    
+<link rel="stylesheet" type="text/css" href="/style.css">
+
 <!-- About Section // Tentang Bagian -->
 <div class="w3-container" style="padding:0px 0px" id="atas"></div>
 <div class="w3-container" style="padding:0px 0px" id="beranda"></div>
 
 # [Gerbang Ekonomi Menuju Masa Depan 丰](https://getbos.github.io)
-<!-- Navbar (sit on top) -->
-<div class="w3-top">
-  <div class="w3-bar w3-white w3-card" id="myNavbar">
-    <a href="#home" class="w3-bar-item w3-button w3-wide">GetBos</a>
-    <!-- Right-sided navbar links -->
-    <div class="w3-right w3-hide-small">
-      <a href="#beranda" class="w3-bar-item w3-button"> Beranda</a>
-      <a href="#bawah" class="w3-bar-item w3-button"><i class="fa fa-user"></i> Bawah</a>
-      <a href="#tabel" class="w3-bar-item w3-button"><i class="fa fa-th"></i> Tabel</a>
-      <a href="#media" class="w3-bar-item w3-button"><i class="fa fa-usd"></i> Media</a>
-    </div>
-    
-<!-- Hide right-floated links on small screens and replace them with a menu icon -->
-<a href="javascript:void(0)" class="w3-bar-item w3-button w3-right w3-hide-large w3-hide-medium" onclick="w3_open()">
-      <i class="fa fa-bars"></i>
-    </a>
-  </div>
-</div>
-<!-- Sidebar on small screens when clicking the menu icon -->
-<nav class="w3-sidebar w3-bar-block w3-black w3-card w3-animate-left w3-hide-medium w3-hide-large" style="display:none" id="mySidebar">
-  <a href="javascript:void(0)" onclick="w3_close()" class="w3-bar-item w3-button w3-large w3-padding-16">Close ×</a>
-  <a href="#beranda" onclick="w3_close()" class="w3-bar-item w3-button">Beranda</a>
-  <a href="#bawah" onclick="w3_close()" class="w3-bar-item w3-button">Bawah</a>
-  <a href="#tabel" onclick="w3_close()" class="w3-bar-item w3-button">Tabel</a>
-  <a href="#media" onclick="w3_close()" class="w3-bar-item w3-button">Media</a>
+<nav>
+    <ul>
+        <li><a href="#beranda"> Beranda</a></li>
+        <li><a href="#bawah" class="w3-bar-item w3-button"> Bawah</a></li>
+        <li><a href="#tabel" class="w3-bar-item w3-button"> Tabel</a></li>
+        <li><a href="#media"> Media</a></li>
+    </ul>
 </nav>
-
 <div align="center">
 <a class="text-black" href="https://bitcoin.org/id/" target="_blank">Bitcoin</a> | 
 <a class="text-black" href="https://btcscan.org/address/1DEUSxZqiWNMdLNhrHNBL6PYDKq5qWdcug" target="_blank">Btcscan</a> |
@@ -46,16 +25,12 @@
 </div>
 
 ## Belum dirapikan 🌱
-
 _Tulis sedikit tentang diri Anda atau proyek Anda di sini._
-
 Meniru gayanya <a href="https://en.wikipedia.org/wiki/Rumi" target="_blank">Rumi</a> 
 _"Aku bukan ekonom lokal.
 Aku bukan ekonom nasional.
 Aku adalah ekonom alam semesta."_
-
 🚀 Proyek belum diluncurkan!
-
 - [x] Tugas Selesai
 - [ ] Tugas Belum Selesai
 
@@ -64,11 +39,11 @@ Aku adalah ekonom alam semesta."_
 ## Portofolio
 		
 Berikut adalah beberapa proyek yang pernah saya kerjakan:
-
 1. Proyek <a href="https://metabrani.github.io/" target="_blank">MetaBrani</a>
 2. <a href="https://mempool.space/tx/f61be88b48af826c9056f6fc1c7391ca8e052a83d8f00efc5a6c4025c389f280" target="_blank">Proyek Dua <a/>OP_RETURN getbos
 3. <a href="https://getbos.github.io/" target="_blank">Proyek Tiga</a> pengujian Commit changes...
-4. Belajar berkebun digital 🪴   
+4. Belajar berkebun digital 🪴
+   
 ## Gambar
 <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fgetbos.github.io">
 
@@ -90,22 +65,20 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
 <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>
 
 ## Daftar
-
 - Membangun Perkebunan Digital
 - Perdagangan di Pasar uang
   - Forex
   - Bitcoin
 - Beli Satoshi
-
+  
 ## Teks Terkait
-
 *teks miring* atau _teks miring_
 **teks tebal** atau __teks tebal__
 
 ## Get Profit 
 <!-- Dapatkan Keuntungan -->
-1. Forex
-2. Bitcoin
+1. Bitcoin
+2. Forex
 3. Other Stuff
 
 ## Proyek
@@ -129,17 +102,16 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
       </div>
     </div>
   </section>
-
+  
 ```
                    Gate Economy Trade ₿itcoin and Other Stuff
             Gerbang Ekonomi Perdagangan ₿itcoin dan Barang Lainnya
                           Peluang Nyata yang Luar Biasa
 ```
+
 ![deprecated](https://img.shields.io/badge/Pengingat-8A2BE2) ![luar biasa](https://awesome.re/badge.svg) 
 ![](https://img.shields.io/github/followers/getbos) ![](https://img.shields.io/github/stars/getbos/getbos.github.io)
-
 ![Logo GitHub](https://img.shields.io/badge/Gambar-8A2BE2)
-
 
 Dimulai dari melewati gerbang perdagangan
 
@@ -154,7 +126,6 @@ Dengan semboyan ![deprecated](https://img.shields.io/badge/EVO_-_Excellent_Vivid
 Menuju ![deprecated](https://img.shields.io/badge/GetBos_-_Gate_Economy_Trade_Bitcoin_and_Other_Stuff-8A2BE2) Gerbang Ekonomi Perdagangan Bitcoin dan Barang Lainnya
 
 ## Peningkatan Bertahap:
-
 Teori cara menumbuhkan keuntungan secara bertahap
 
 Jangan tergesa-gesa dalam meraih keuntungan yang halal
@@ -164,7 +135,6 @@ Tingkatkan ukuran perdagangan dengan secara bertahap
 Peningkatan kecil dan konsisten akan membantu membuat peluang dan mengelola risiko.
 
 ### Menjaga Rasio Peluang Dan Risiko:
-
 Saat Anda meningkatkan ukuran perdagangan Anda, pertahankan persentase risiko Anda tetap konstan
 
 Jika Anda mengambil peluang dan risiko 1% per perdagangan pada akun $100, ambil risiko 1% yang sama ketika akun/aset Anda tumbuh menjadi $1000
@@ -187,7 +157,11 @@ Sehingga logika terasa terhambat tanpa sadar ketika emosi mendominasi untuk meng
 
 ### Laba di Investasi Kembali:
 
+Gunakan laba Anda untuk meningkatkan modal perdagangan Anda.
+
 Gunakan keuntungan Anda untuk meningkatkan modal perdagangan Anda.
+
+Hal ini memungkinkan pertumbuhan gabungan menguntungkan Anda tanpa menyuntikkan uang baru.
 
 Ketika modal bertambah, peluang untuk mendapat keuntungan lagi akan semakin bertambah.
 
@@ -202,7 +176,6 @@ Strategi perdagangan dengan modal kecil memiliki rasa beban mental dan beban mor
 ### Pantau Kinerja:
 
 Saat Anda menskalakan, lacak kinerja Anda.
-
 Penskalaan tidak boleh mengubah tingkat kemenangan atau rasio risiko-imbalan Anda secara signifikan.
 
 ### Tetap Siap Secara Emosional:
@@ -217,17 +190,15 @@ Keterangan lebih lanjut tentang pengetahuan <a href="https://positivepsychology.
 
 ```
 Pasar adalah majikan Anda                                                 Pasar memiliki sisi misteri gelap
-
             Rencana adalah panduan Anda                           Rencana mempermudah cara bekerja
-
                         Disiplin adalah guru Anda        Guru penting dipatuhi agar sukses
 ```
 
 ### Tujuan utama dan terpenting seorang pedagang di pasar uang adalah menjaga uangnya agar tidak hilang.
+
 <div class="w3-container" style="padding:0px 0px" id="tabel"></div>
 
 ### Ilustrasi peta jalan pertumbuhan modal yang berbunga 100% perbulan	
-
 | ![deprecated](https://img.shields.io/badge/Level-8A2BE2) | ![deprecated](https://img.shields.io/badge/Ekuitas-8A2BE2)   | ![deprecated](https://img.shields.io/badge/Target-8A2BE2)   | ![deprecated](https://img.shields.io/badge/Total-8A2BE2)      | ![deprecated](https://img.shields.io/badge/Bulan-8A2BE2)          | ![deprecated](https://img.shields.io/badge/Minggu_1-8A2BE2)| ![deprecated](https://img.shields.io/badge/Minggu_2-8A2BE2) |
 | ----- | --------- | -------------------------------- | ---------- | -------------- | ---------- | ------ |
 | ![deprecated](https://img.shields.io/badge/17-bf00ff)    | ![deprecated](https://img.shields.io/badge/$655,360-8A2BE2)  | ![deprecated](https://img.shields.io/badge/$655,360-8A2BE2) | ![deprecated](https://img.shields.io/badge/$1,310,720-8A2BE2) | ![deprecated](https://img.shields.io/badge/Mei_2025-8A2BE2)       | ![deprecated](https://img.shields.io/badge/Minggu_1-8A2BE2) | ![deprecated](https://img.shields.io/badge/Minggu_2-8A2BE2) |
@@ -251,11 +222,9 @@ Pasar adalah majikan Anda                                                 Pasar 
 <a href="#beranda">
    <img src="https://img.shields.io/badge/Beranda-%231877F2.svg?&style=flat-square&logo=Beranda&logoColor=white" alt="beranda">
 </a>
-
 <a href="https://metabrani.github.io/" target="_blank">
    <img src="https://img.shields.io/badge/MetaBrani-%231877F2.svg?&style=flat-square&logo=metabrani&logoColor=white" alt="metabrani">
 </a>
-
 <a href="https://evositas.github.io/" target="_blank">
    <img src="https://img.shields.io/badge/Evositas-%231877F2.svg?&style=flat-square&logo=evositas&logoColor=white" alt="evositas">
 </a>
@@ -316,12 +285,9 @@ Pasar adalah majikan Anda                                                 Pasar 
 }
 Sumber : https://www.blockchain.com/explorer/transactions/btc/f61be88b48af826c9056f6fc1c7391ca8e052a83d8f00efc5a6c4025c389f280
 ```
-
 5. Block 828889 selesai pada hari Minggu Legi malam Senin Paing jam 20:12 WIB
 6. Bisa membaca tabel hash pada block 828889 merupakan ketrampilan yang selangkah lebih maju
-
 ### Tabel Hash Bitcoin dan ENS
-
 | Nama    | Link                                                                                                 |
 |---------|------------------------------------------------------------------------------------------------------|
 | Alamat Bitcoin | <a href="https://mempool.space/address/1DEUSxZqiWNMdLNhrHNBL6PYDKq5qWdcug" target="_blank"><img src="https://img.shields.io/badge/1DEUSxZqiWNMdLNhrHNBL6PYDKq5qWdcug-fc6d26.svg?style=flat-square&logo=bitcoin&logoColor=white" alt="1DEUSxZqiWNMdLNhrHNBL6PYDKq5qWdcug"><a/> |
@@ -329,7 +295,6 @@ Sumber : https://www.blockchain.com/explorer/transactions/btc/f61be88b48af826c90
 | Alamat Ethereum | <a href="https://etherscan.io/nft/0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85/4421530841797771256312424086628263505231367050400567126952092999913794014635" target="_blank"><img src="https://img.shields.io/badge/jombang.eth-%231877F2.svg?&style=flat-square&logo=ethereum&logoColor=white" alt="jombang.eth"><a/> |
 | Alamat Ethereum | <a href="https://etherscan.io/nft/0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85/101846358537703360326023606582808589270192534296290160289883057157643897738320" target="_blank"><img src="https://img.shields.io/badge/arema.eth-%231877F2.svg?&style=flat-square&logo=ethereum&logoColor=white" alt="arema.eth"><a/> |
 | Alamat ENS | <a href="https://etherscan.io/nft/0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85/63413185863260930873505766508417912437889806961391207654529954393643954991725" target="_blank"><img src="https://img.shields.io/badge/peluang.eth-%231877F2.svg?&style=flat-square&logo=ethereum&logoColor=white" alt="peluang.eth"><a/> |
-
 <!-- About Section -->
 <div class="w3-container" style="padding:0px 0px" id="bawah"></div>
 
@@ -337,18 +302,15 @@ Sumber : https://www.blockchain.com/explorer/transactions/btc/f61be88b48af826c90
 ![deprecated](https://img.shields.io/badge/Situs_ini_dalam_pengembangan-3422E2)
 ![deprecated](https://img.shields.io/badge/Halaman_bersifat_eksperimental-8A2BE2)
 ![deprecated](https://img.shields.io/badge/Silahkan_menggunakan_dengan_riset_dan_risiko_Anda_sendiri-E22E2B)
-
 ![deprecated](https://img.shields.io/badge/status-berjalan-lime.svg?style=flat-square)
 ![](https://img.shields.io/keybase/btc/gainbrat) 
 <a href="https://mempool.space/address/1EZjeVjTZZNz5P9p4Qe9QxybCw2znxFB6B" target="_blank">
    <img src="https://img.shields.io/badge/mempool-%231877F2.svg?&style=flat-square&logo=mempool&logoColor=white" alt="mempool">
 </a>
-
 ![](https://img.shields.io/keybase/btc/getbos) 
 <a href="https://mempool.space/address/1DEUSxZqiWNMdLNhrHNBL6PYDKq5qWdcug" target="_blank">
    <img src="https://img.shields.io/badge/mempool-%231877F2.svg?&style=flat-square&logo=mempool&logoColor=white" alt="mempool">
 </a>
-
 ![deprecated](https://img.shields.io/badge/status-berjalan-lime.svg?style=flat-square)
 
 <a href="#atas" class="w3-bar-item w3-button"> Ke Atas Halaman</a>
@@ -375,6 +337,5 @@ Sumber : https://www.blockchain.com/explorer/transactions/btc/f61be88b48af826c90
 	</a>
 	<a href="https://www.bitcoin.org/id" target="_blank">
 	        <img src="https://bitcoin.org/img/icons/logo-footer.svg?1706112497">
-
 <!-- Tautan CSS -->
 <link rel="stylesheet" type="text/css" href="/style.css">
