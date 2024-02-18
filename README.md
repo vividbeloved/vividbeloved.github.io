@@ -77,8 +77,8 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
 
 ## Get Profit 
 <!-- Dapatkan Keuntungan -->
-1. Bitcoin
-2. Forex
+1. Forex
+2. Bitcoin
 3. Other Stuff
 
 ## Proyek
@@ -198,7 +198,8 @@ Pasar adalah majikan Anda                                                 Pasar 
 
 <div class="w3-container" style="padding:0px 0px" id="tabel"></div>
 
-### Ilustrasi peta jalan pertumbuhan modal yang berbunga 100% perbulan	
+### Ilustrasi peta jalan pertumbuhan modal yang berbunga 100% perbulan
+
 | ![deprecated](https://img.shields.io/badge/Level-8A2BE2) | ![deprecated](https://img.shields.io/badge/Ekuitas-8A2BE2)   | ![deprecated](https://img.shields.io/badge/Target-8A2BE2)   | ![deprecated](https://img.shields.io/badge/Total-8A2BE2)      | ![deprecated](https://img.shields.io/badge/Bulan-8A2BE2)          | ![deprecated](https://img.shields.io/badge/Minggu_1-8A2BE2)| ![deprecated](https://img.shields.io/badge/Minggu_2-8A2BE2) |
 | ----- | --------- | -------------------------------- | ---------- | -------------- | ---------- | ------ |
 | ![deprecated](https://img.shields.io/badge/17-bf00ff)    | ![deprecated](https://img.shields.io/badge/$655,360-8A2BE2)  | ![deprecated](https://img.shields.io/badge/$655,360-8A2BE2) | ![deprecated](https://img.shields.io/badge/$1,310,720-8A2BE2) | ![deprecated](https://img.shields.io/badge/Mei_2025-8A2BE2)       | ![deprecated](https://img.shields.io/badge/Minggu_1-8A2BE2) | ![deprecated](https://img.shields.io/badge/Minggu_2-8A2BE2) |
@@ -230,6 +231,7 @@ Pasar adalah majikan Anda                                                 Pasar 
 </a>
 
 ### Transaksi GetBos di jaringan Bitcoin
+
 1. Bukti transaksi perdana dengan tulisan  <a href="https://mempool.space/tx/f61be88b48af826c9056f6fc1c7391ca8e052a83d8f00efc5a6c4025c389f280" target="_blank">OP_RETURN</a> getbos gate economy trade bitcoin and other stuff
 2. Jika melihat di <a href="https://mempool.space/block/000000000000000000028611f8e3fc06e80ca6e1cd7df45c0fdf7cd524fda567" target="_blank">Block 828889</a> mempool, ada di halaman 27. 
 3. Urutan 655 dari total 2,814 transaksi dalam 1 block
@@ -287,7 +289,9 @@ Sumber : https://www.blockchain.com/explorer/transactions/btc/f61be88b48af826c90
 ```
 5. Block 828889 selesai pada hari Minggu Legi malam Senin Paing jam 20:12 WIB
 6. Bisa membaca tabel hash pada block 828889 merupakan ketrampilan yang selangkah lebih maju
+
 ### Tabel Hash Bitcoin dan ENS
+
 | Nama    | Link                                                                                                 |
 |---------|------------------------------------------------------------------------------------------------------|
 | Alamat Bitcoin | <a href="https://mempool.space/address/1DEUSxZqiWNMdLNhrHNBL6PYDKq5qWdcug" target="_blank"><img src="https://img.shields.io/badge/1DEUSxZqiWNMdLNhrHNBL6PYDKq5qWdcug-fc6d26.svg?style=flat-square&logo=bitcoin&logoColor=white" alt="1DEUSxZqiWNMdLNhrHNBL6PYDKq5qWdcug"><a/> |
@@ -295,6 +299,7 @@ Sumber : https://www.blockchain.com/explorer/transactions/btc/f61be88b48af826c90
 | Alamat Ethereum | <a href="https://etherscan.io/nft/0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85/4421530841797771256312424086628263505231367050400567126952092999913794014635" target="_blank"><img src="https://img.shields.io/badge/jombang.eth-%231877F2.svg?&style=flat-square&logo=ethereum&logoColor=white" alt="jombang.eth"><a/> |
 | Alamat Ethereum | <a href="https://etherscan.io/nft/0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85/101846358537703360326023606582808589270192534296290160289883057157643897738320" target="_blank"><img src="https://img.shields.io/badge/arema.eth-%231877F2.svg?&style=flat-square&logo=ethereum&logoColor=white" alt="arema.eth"><a/> |
 | Alamat ENS | <a href="https://etherscan.io/nft/0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85/63413185863260930873505766508417912437889806961391207654529954393643954991725" target="_blank"><img src="https://img.shields.io/badge/peluang.eth-%231877F2.svg?&style=flat-square&logo=ethereum&logoColor=white" alt="peluang.eth"><a/> |
+
 <!-- About Section -->
 <div class="w3-container" style="padding:0px 0px" id="bawah"></div>
 
