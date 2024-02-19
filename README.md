@@ -71,9 +71,9 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
   <p>
     Yang Terhormat. Kepada Bapak dan Ibu Calon Investor GetBos, kami menawarkan proposal investasi yang di kelola oleh GetBos Manajemen.
   </p>
-	<p> "La paciencia es amarga, pero su fruto es dulce". – Aristóteles
+	<p> GetBos Manajemen bergerak dibidang perdagangan di pasar uang seperti forex, saham dan bitcoin.
 </p>
-	<p> Hati-hati dengan tindakan yang berdasarkan hasil dari pikiran dan perasaan yang impulsif, seringkali kebiasaan tersebut hasil dari pikiran dan perasaan, sehingga fokusnya kurang memperhatikan jalan rencana dan strategi yang sudah direncanakan sebelumnya. Ketika tidak berjalan sesuai jalan rencana, maka tindakan akan mengalir bersama arus pergerakan harga yang telah terjadi secara mengejutkan.</p>
+	<p> GetBos manajemen tidak bisa menjanjikan keuntungan dengan angka yang pasti, tetapi bisa berkomitmen untuk menjaga dan mengelola dana investor agar selalu bertumbuh dan berkembang dengan aman.</p>
 </details>
 
 
