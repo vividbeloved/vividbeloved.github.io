@@ -54,7 +54,7 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
     <i>Kata Harta Karun</i>
   </summary>
   <p>
-    Dalam bingkai waktu satu bulan, akan ada momentum pergerakan satu arah dalam satu hari, sehingga harga di pasar keuangan mudah di ketahui akan kemana mengalirnya.
+    Dalam gerbong waktu satu bulan, akan ada momentum pergerakan satu arah dalam satu hari, sehingga harga di pasar keuangan mudah di ketahui akan kemana mengalirnya.
   </p>
 	<p> "La paciencia es amarga, pero su fruto es dulce". – Aristóteles
 </p>
@@ -63,6 +63,19 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
 
 ## Tautan
 <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>
+
+<details>
+  <summary>
+    <i>Proposal GetBos</i>
+  </summary>
+  <p>
+    Yang Terhormat. Kepada Bapak dan Ibu Calon Investor GetBos, kami menawarkan proposal investasi yang di kelola oleh GetBos Manajemen.
+  </p>
+	<p> "La paciencia es amarga, pero su fruto es dulce". – Aristóteles
+</p>
+	<p> Hati-hati dengan tindakan yang berdasarkan hasil dari pikiran dan perasaan yang impulsif, seringkali kebiasaan tersebut hasil dari pikiran dan perasaan, sehingga fokusnya kurang memperhatikan jalan rencana dan strategi yang sudah direncanakan sebelumnya. Ketika tidak berjalan sesuai jalan rencana, maka tindakan akan mengalir bersama arus pergerakan harga yang telah terjadi secara mengejutkan.</p>
+</details>
+
 
 ## Daftar
 - Membangun Perkebunan Digital
