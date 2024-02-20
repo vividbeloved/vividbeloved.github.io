@@ -117,7 +117,7 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
   </section>
   
 ```
-                 Gateway Economy Trade ₿itcoin and Other Stuff
+                   Gate Economy Trade ₿itcoin and Other Stuff
             Gerbang Ekonomi Perdagangan ₿itcoin dan Barang Lainnya
                          Peluang Nyata yang Luar Biasa
 ```
