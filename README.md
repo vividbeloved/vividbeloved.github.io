@@ -117,9 +117,9 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
   </section>
   
 ```
-                   Gate Economy Trade ₿itcoin and Other Stuff
+                 Gateway Economy Trade ₿itcoin and Other Stuff
             Gerbang Ekonomi Perdagangan ₿itcoin dan Barang Lainnya
-                          Peluang Nyata yang Luar Biasa
+                         Peluang Nyata yang Luar Biasa
 ```
 
 ![deprecated](https://img.shields.io/badge/Pengingat-8A2BE2) ![luar biasa](https://awesome.re/badge.svg) 
