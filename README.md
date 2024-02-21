@@ -86,8 +86,8 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
 
 ## Get Profit 
 <!-- Dapatkan Keuntungan -->
-1. *Forex* /*teks miring*/
-2. _Bitcoin_ /*teks miring*/
+1. *Forex* <!-- teks miring -->
+2. _Bitcoin_ /*teks miring/
 3. **Other Stuff** /*teks tebal*/
 
 ## Proyek
