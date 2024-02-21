@@ -87,11 +87,11 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
 ## Get Profit 
 <!-- Dapatkan Keuntungan -->
 1. *Forex* <!-- teks miring -->
-2. _Bitcoin_ /*teks miring/
-3. **Other Stuff** /*teks tebal*/
+2. _Bitcoin_ <!-- teks miring -->
+3. **Other Stuff** <!-- teks tebal -->
 
 ## Proyek
-1. __DAO GetBos__ /*teks tebal*/
+1. __DAO GetBos__ <!-- teks tebal -->
 2. Website GetBos
 3. Society GetBos
 
