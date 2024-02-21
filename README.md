@@ -88,12 +88,12 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
 <!-- Dapatkan Keuntungan -->
 1. *Forex* <!-- teks miring -->
 2. _Bitcoin_ <!-- teks miring -->
-3. **Other Stuff** <!-- teks tebal -->
+3. *Other Stuff* <!-- teks tebal -->
 
 ## Proyek
 1. __DAO GetBos__ <!-- teks tebal -->
-2. Website GetBos
-3. Society GetBos
+2. **Website GetBos**
+3. __Society GetBos__
 
 <section class="hero-heading-left" style="padding-top: 50px;">
     <div class="container-2">
