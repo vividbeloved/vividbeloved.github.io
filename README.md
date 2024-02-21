@@ -83,19 +83,15 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
   - Forex
   - Bitcoin
 - Beli Satoshi
-  
-## Teks Terkait
-*teks miring* atau _teks miring_
-**teks tebal** atau __teks tebal__
 
 ## Get Profit 
 <!-- Dapatkan Keuntungan -->
-1. Forex
-2. Bitcoin
-3. Other Stuff
+1. *Forex* /*teks miring*/
+2. _Bitcoin_ /*teks miring*/
+3. **Other Stuff** /*teks tebal*/
 
 ## Proyek
-1. DAO GetBos 
+1. __DAO GetBos__ /*teks tebal*/
 2. Website GetBos
 3. Society GetBos
 
@@ -139,11 +135,11 @@ Dengan semboyan ![deprecated](https://img.shields.io/badge/EVO_-_Excellent_Vivid
 Menuju ![deprecated](https://img.shields.io/badge/GetBos_-_Gate_Economy_Trade_Bitcoin_and_Other_Stuff-8A2BE2) Gerbang Ekonomi Perdagangan Bitcoin dan Barang Lainnya
 
 ## Peningkatan Bertahap:
-Teori cara menumbuhkan keuntungan secara bertahap
+Teori menumbuhkan keuntungan dengan bertahap
 
 Jangan tergesa-gesa dalam meraih keuntungan yang halal
 
-Tingkatkan ukuran perdagangan dengan secara bertahap
+Tingkatkan ukuran perdagangan dengan cara bertahap
 
 Peningkatan kecil dan konsisten akan membantu membuat peluang dan mengelola risiko.
 
@@ -156,13 +152,13 @@ Rasio kerugian lebih menguras energi mental, dari pada energi kegembiraan yang d
 
 Lebih _'kecewa'_ kehilangan $10 USD dari pada _'gembira'_ ketika mengalami mendapatkan $10 USD
 
-Jika Anda berlatih siap mental untuk mengambil peluang dan risiko 10% per perdagangan pada akun $20
+Jika Anda berlatih sikap mental untuk mengambil peluang dan risiko 10% per perdagangan pada akun $20
 
 Ambil risiko 10% yang sama ketika akun Anda tumbuh menjadi $50. Itu perlu latihan untuk menerima kekalahan sesaat
 
 Sikap dan keadaan tersebut mempengaruhi mental dan psikologis seseorang
 
-Saya pernah gagal kembali ke saldo $1 lagi, setelah ekuitas $19.08 menjadi $70. Terjadi, karena tidak menggunakan disiplin kerangka kerja rasio peluang dan rasio risiko seperti semula. Baca tentang _"Profitability Ratio"_
+Saya pernah gagal kembali ke saldo $1 lagi, setelah ekuitas $19.08 menjadi $70. Terjadi, karena tidak menggunakan disiplin kerangka kerja rasio peluang dan rasio risiko seperti semula. Baca tentang _"Profitability Ratio"_ Kejadian itu masih sering saya ulangi sampai 20 Februari 2024.
 
 Mengalami kejadian rugi yang drastis disebabkan emosi yang takut kehilangan jumlah yang lebih besar dari biasanya dan berharap akan kembali lagi.
 
