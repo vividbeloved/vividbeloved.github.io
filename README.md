@@ -166,7 +166,9 @@ Sehingga logika terasa terhambat tanpa sadar ketika emosi mendominasi untuk meng
 
 ### Belajar Kontrol Ego
 
-Ada buku yang berjudul Ego is enemy, di dalamnya menerangkan bahwa ego bisa menjadi penghalang kemenangan seseorang.
+Ada buku yang berjudul Ego is enemy, di dalamnya menerangkan bahwa ego bisa menjadi penghalang kemenangan seseorang. 
+
+Setelah kita memberi penghargaan yang pantas pada diri kita sendiri. Ego ingin kita berpikir, _saya istimewa. Saya lebih baik. Aturannya tidak berlaku bagi saya._
 
 ### Laba di Investasi Kembali:
 
