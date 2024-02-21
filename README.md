@@ -168,6 +168,10 @@ Mengalami kejadian rugi yang drastis disebabkan emosi yang takut kehilangan juml
 
 Sehingga logika terasa terhambat tanpa sadar ketika emosi mendominasi untuk mengambil keputusan.
 
+### Belajar Kontrol Ego
+
+Ada buku yang berjudul Ego is enemy, di dalamnya menerangkan bahwa ego bisa menjadi penghalang kemenangan seseorang.
+
 ### Laba di Investasi Kembali:
 
 Gunakan laba Anda untuk meningkatkan modal perdagangan Anda.
