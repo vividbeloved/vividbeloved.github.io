@@ -184,14 +184,17 @@ Ketika modal bertambah, peluang untuk mendapat keuntungan lagi akan semakin bert
 
 Pastikan strategi Anda berhasil pada volume yang lebih tinggi.
 
-Beberapa strategi yang berhasil dengan ukuran kecil mungkin tidak dapat diukur karena masalah slippage atau likuiditas pasar.
+Strategi tanpa ditulis dan terukur membuat joki pedagang membuat sak karep e dewe ketika harga bergelombang besar dan cepat.
 
 Strategi perdagangan dengan modal kecil memiliki rasa beban mental dan beban moral yang berbeda, jika dibandingkan dengan modal yang banyak.
 
 ### Pantau Kinerja:
 
-Saat Anda menskalakan, lacak kinerja Anda.
-Penskalaan tidak boleh mengubah tingkat kemenangan atau rasio risiko-imbalan Anda secara signifikan.
+Saat Anda mengalami kerugian, lacak kinerja Anda.
+
+Kerugian sering terjadi dan diulangi karena tidak mematuhi peta jalan pekerjaan yang sudah direncanakan.
+
+Pengaruh gelombang harga ikut mempengaruhi gelombang pikiran.
 
 ### Tetap Siap Secara Emosional:
 
