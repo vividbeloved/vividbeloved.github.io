@@ -91,7 +91,7 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
 3. *Other Stuff* <!-- teks tebal -->
 
 ## Proyek
-1. __DAO GetBos__ <!-- teks tebal -->
+1. __Menumbuhkan modal menjadi $100 USD__ <!-- teks tebal -->
 2. **Website GetBos**
 3. __Society GetBos__
 
