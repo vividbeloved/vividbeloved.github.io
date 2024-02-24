@@ -126,9 +126,9 @@ Dimulai dari melewati gerbang perdagangan
 
 Kekayaan seseorang, perusahaan dan negara cepat terwujud
 
-Namun, jika dipikir-pikir, masih banyak orang yang belum melakukannya
+Namun, orang-orang masih banyak yang belum melakukannya
 
-Inilah cara memulai membangun kekayaan ![deprecated](https://img.shields.io/badge/丰-8A2BE2) tahun ini dengan semangat
+Inilah salah satu cara memulai membangun kekayaan ![deprecated](https://img.shields.io/badge/丰-8A2BE2) tahun ini dengan semangat
 
 Dengan semboyan ![deprecated](https://img.shields.io/badge/EVO_-_Excellent_Vivid_Opportunity-8A2BE2) Peluang Nyata yang Luar Biasa
 
