@@ -58,7 +58,7 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
   </p>
 	<p> "La paciencia es amarga, pero su fruto es dulce". – Aristóteles
 </p>
-	<p> Hati-hati dengan tindakan yang berdasarkan hasil dari pikiran dan perasaan yang impulsif, seringkali kebiasaan tersebut hasil dari pikiran dan perasaan, sehingga fokusnya kurang memperhatikan jalan rencana dan strategi yang sudah direncanakan sebelumnya. Ketika tidak berjalan sesuai jalan rencana, maka tindakan akan mengalir bersama arus pergerakan harga yang telah terjadi secara mengejutkan.</p>
+	<p> Hati-hati dengan tindakan yang berdasarkan hasil dari pikiran dan perasaan yang impulsif, seringkali kebiasaan tersebut hasil dari pikiran dan perasaan, sehingga fokusnya kurang memperhatikan peta jalan strategi yang sudah direncanakan sebelumnya. Ketika tidak berjalan sesuai peta jalan, maka tindakan akan mengalir bersama arus pergerakan harga yang telah terjadi secara mengejutkan.</p>
 </details>
 
 ## Tautan
@@ -134,23 +134,25 @@ Dengan semboyan ![deprecated](https://img.shields.io/badge/EVO_-_Excellent_Vivid
 
 Menuju ![deprecated](https://img.shields.io/badge/GetBos_-_Gate_Economy_Trade_Bitcoin_and_Other_Stuff-8A2BE2) Gerbang Ekonomi Perdagangan Bitcoin dan Barang Lainnya
 
-## Peningkatan Bertahap:
-Teori menumbuhkan keuntungan dengan bertahap
+## Sabar Dengan Peta Jalan:
+Gunakan Peta Jalan dengan baik
 
-Jangan tergesa-gesa dalam meraih keuntungan yang halal
+Sabarlah dalam meraih keuntungan
 
 Tingkatkan ukuran perdagangan dengan cara bertahap
 
-Peningkatan kecil dan konsisten akan membantu membuat peluang dan mengelola risiko.
+Peningkatan kecil dan konsisten perlu kesabaran
 
-### Menjaga Rasio Peluang Dan Risiko:
-Saat Anda meningkatkan ukuran perdagangan Anda, pertahankan persentase risiko Anda tetap konstan
+### Rasio Peluang Dan Risiko:
+Peluang 1 Risiko 1 = 1:1
+Peluang 2 Risiko 1 = 2:1
+Peluang 3 Risiko 1 = 3:1
 
-Jika Anda mengambil peluang dan risiko 1% per perdagangan pada akun $100, ambil risiko 1% yang sama ketika akun/aset Anda tumbuh menjadi $1000
+Perbandingan Rugi Laba dalam perdagangan forex dan bitcoin bisa dibuat sebelum transaksi. 
 
-Rasio kerugian lebih menguras energi mental, dari pada energi kegembiraan yang di peroleh dengan nominal yang sama
+Kerugian lebih menguras energi, selain mengurangi energi mental juga mengurangi energi modal.
 
-Lebih _'kecewa'_ kehilangan $10 USD dari pada _'gembira'_ ketika mengalami mendapatkan $10 USD
+_'Kecewa'_ karena rugi $10 USD bobotnya lebih berat, dari pada _'gembira'_ ketika mendapatkan laba $10 USD
 
 Jika Anda berlatih sikap mental untuk mengambil peluang dan risiko 10% per perdagangan pada akun $20
 
@@ -160,7 +162,7 @@ Sikap dan keadaan tersebut mempengaruhi mental dan psikologis seseorang
 
 Saya pernah gagal kembali ke saldo $1 lagi, setelah ekuitas $19.08 menjadi $70. Terjadi, karena tidak menggunakan disiplin kerangka kerja rasio peluang dan rasio risiko seperti semula. Baca tentang _"Profitability Ratio"_ Kejadian itu masih sering saya ulangi sampai 20 Februari 2024.
 
-Mengalami kejadian rugi yang drastis disebabkan emosi yang takut kehilangan jumlah yang lebih besar dari biasanya dan berharap akan kembali lagi.
+Mengalami kejadian rugi yang drastis disebabkan emosi keraguan yang takut kehilangan jumlah yang lebih besar dari biasanya dan berharap akan kembali lagi.
 
 Sehingga logika terasa terhambat tanpa sadar ketika emosi mendominasi untuk mengambil keputusan.
 
@@ -172,11 +174,9 @@ Setelah kita memberi penghargaan yang pantas pada diri kita sendiri. Ego ingin k
 
 ### Laba di Investasi Kembali:
 
-Gunakan laba Anda untuk meningkatkan modal perdagangan Anda.
+Gunakan laba Anda untuk meningkatkan volume perdagangan Anda.
 
-Gunakan keuntungan Anda untuk meningkatkan modal perdagangan Anda.
-
-Hal ini memungkinkan pertumbuhan gabungan menguntungkan Anda tanpa menyuntikkan uang baru.
+Hal ini bisa melipatkan keuntungan Anda tanpa menyuntikkan uang baru.
 
 Ketika modal bertambah, peluang untuk mendapat keuntungan lagi akan semakin bertambah.
 
@@ -184,9 +184,9 @@ Ketika modal bertambah, peluang untuk mendapat keuntungan lagi akan semakin bert
 
 Pastikan strategi Anda berhasil pada volume yang lebih tinggi.
 
-Strategi tanpa ditulis dan terukur membuat joki pedagang membuat sak karep e dewe ketika harga bergelombang besar dan cepat.
+Strategi tanpa ditulis dan terukur membuat joki pedagang membuat _'sak karep e dewe'_ ketika ada gejolak harga yang lebih besar dan cepat dari gerbong harga dan gerbong waktu sebelumnya.
 
-Strategi perdagangan dengan modal kecil memiliki rasa beban mental dan beban moral yang berbeda, jika dibandingkan dengan modal yang banyak.
+Strategi dan suasana hati pedagang dalam perdagangan modal kecil memiliki rasa beban mental dan beban moral yang berbeda, jika dibandingkan dengan modal yang besar.
 
 ### Pantau Kinerja:
 
