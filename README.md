@@ -43,7 +43,7 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
 2. <a href="https://mempool.space/tx/f61be88b48af826c9056f6fc1c7391ca8e052a83d8f00efc5a6c4025c389f280" target="_blank">Proyek Dua <a/>OP_RETURN getbos
 3. <a href="https://getbos.github.io/" target="_blank">Proyek Tiga</a> pengujian Commit changes...
 4. Belajar berkebun digital 🪴
-5. Proyek <a href="https://www.ord.io/bc1ph3ktpvqlhk8nkz979kl9hz0zjjz6dl4w39srcednvhzepdpcmu5qfwk0e6/" target="_blank">Ordinals<a/a> 
+5. Proyek <a href="https://www.ord.io/bc1ph3ktpvqlhk8nkz979kl9hz0zjjz6dl4w39srcednvhzepdpcmu5qfwk0e6/" target="_blank">Ordinals</a> 
    
 ## Gambar
 <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fgetbos.github.io">
