@@ -148,7 +148,9 @@ Peningkatan kecil dan konsisten perlu kesabaran
 
 ### Rasio Peluang Dan Risiko:
 Peluang 1 Risiko 1 = 1:1
+
 Peluang 2 Risiko 1 = 2:1
+
 Peluang 3 Risiko 1 = 3:1
 
 Perbandingan Rugi Laba dalam perdagangan forex dan bitcoin bisa dibuat sebelum transaksi. 
@@ -320,6 +322,14 @@ Sumber : https://www.blockchain.com/explorer/transactions/btc/f61be88b48af826c90
 | Alamat Ethereum | <a href="https://etherscan.io/nft/0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85/4421530841797771256312424086628263505231367050400567126952092999913794014635" target="_blank"><img src="https://img.shields.io/badge/jombang.eth-%231877F2.svg?&style=flat-square&logo=ethereum&logoColor=white" alt="jombang.eth"><a/> |
 | Alamat Ethereum | <a href="https://etherscan.io/nft/0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85/101846358537703360326023606582808589270192534296290160289883057157643897738320" target="_blank"><img src="https://img.shields.io/badge/arema.eth-%231877F2.svg?&style=flat-square&logo=ethereum&logoColor=white" alt="arema.eth"><a/> |
 | Alamat ENS | <a href="https://etherscan.io/nft/0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85/63413185863260930873505766508417912437889806961391207654529954393643954991725" target="_blank"><img src="https://img.shields.io/badge/peluang.eth-%231877F2.svg?&style=flat-square&logo=ethereum&logoColor=white" alt="peluang.eth"><a/> |
+
+### Akun Forex
+
+| Nomoer Akun | Server | Password Investor |
+| ----------- | ------ | ----------------- |
+| 5068889     | live05.mt4tickmill.com | y96WFA$o!aTu |
+| 5068888     | live05.mt4tickmill.com | S5XVT#Ny%\kS |
+| 5068884     | live05.mt4tickmill.com | k9%tV$QK%K4# |
 
 <!-- About Section -->
 <div class="w3-container" style="padding:0px 0px" id="bawah"></div>
