@@ -312,7 +312,7 @@ Sumber : https://www.blockchain.com/explorer/transactions/btc/f61be88b48af826c90
 ```
 5. Block 828889 selesai pada hari Minggu Legi malam Senin Paing jam 20:12 WIB
 6. Bisa membaca tabel hash pada block 828889 merupakan ketrampilan yang selangkah lebih maju
-7. Perbedaan antara transaksi dan konfirmasi hash <a href="https://mempool.space/tx/fbe7d85b8784fb51279317dd7b3d91269ef038a81032ad237286de4a3565b1a7" target="_blank">fbe7d85b8784fb51279317dd7b3d91269ef038a81032ad237286de4a3565b1a7</a> di mempool dan di <a href="https://www.blockchain.com/explorer/transactions/btc/fbe7d85b8784fb51279317dd7b3d91269ef038a81032ad237286de4a3565b1a7" target="_blank">blockchain</a> mulai transaksi tanggal 5 februari 2024 terkonfirmasi 25 februari 2024. 
+7. Perbedaan antara transaksi dan konfirmasi hash <a href="https://mempool.space/tx/fbe7d85b8784fb51279317dd7b3d91269ef038a81032ad237286de4a3565b1a7" target="_blank">fbe7d85b8784fb51279317dd7b3d91269ef038a81032ad237286de4a3565b1a7</a> di mempool dan di <a href="https://www.blockchain.com/explorer/transactions/btc/fbe7d85b8784fb51279317dd7b3d91269ef038a81032ad237286de4a3565b1a7" target="_blank">blockchain</a> mulai transaksi tanggal 5 februari 2024 terkonfirmasi 25 februari 2024 bertepatan dengan Nisfu Sya'ban dan Cap Gomeh. 
 
 ### Tabel Hash Bitcoin dan ENS
 
