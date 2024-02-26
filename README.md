@@ -62,6 +62,7 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
 	<p> Hati-hati dengan tindakan yang berdasarkan hasil dari pikiran dan perasaan yang impulsif, seringkali kebiasaan tersebut hasil dari pikiran dan perasaan, sehingga fokusnya kurang memperhatikan peta jalan strategi yang sudah direncanakan sebelumnya. Ketika tidak berjalan sesuai peta jalan, maka tindakan akan mengalir bersama arus pergerakan harga yang telah terjadi secara mengejutkan.</p>
 <p> 
 nsec1n96sr52nvqhqhrfvmgejhszth67dp2hvh9zgnuhcqnn2qcnx0q9hcgr6 </p>
+<p> L27zLnRgQ2MN2xrrfQLBkek9JNPHrwmTHDs6zaStUy87eNxY </p>
 </details>
 
 ## Tautan
