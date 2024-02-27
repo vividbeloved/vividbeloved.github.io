@@ -333,6 +333,10 @@ Sumber : https://www.blockchain.com/explorer/transactions/btc/f61be88b48af826c90
 | 5068888     | live05.mt4tickmill.com | S5XVT#Ny%\kS |
 | 5068884     | live05.mt4tickmill.com | k9%tV$QK%K4# |
 
+| Jadwal | Tanggal | Jam Wib | Keterangan | Konfirmasi |
+| ------ | ------- | ------- | ---------- | ---------- |
+| Penting | 28 Februari 2024 | 06.00 - 23.00 | Membuat akun email proton dan deposit <a href="https://mempool.space/address/1DEUSxZqiWNMdLNhrHNBL6PYDKq5qWdcug" target="_blank"><img src="https://img.shields.io/badge/1DEUSxZqiWNMdLNhrHNBL6PYDKq5qWdcug-fc6d26.svg?style=flat-square&logo=bitcoin&logoColor=white" alt="1DEUSxZqiWNMdLNhrHNBL6PYDKq5qWdcug"><a/> | Belum selesai |
+
 <!-- About Section -->
 <div class="w3-container" style="padding:0px 0px" id="bawah"></div>
 
