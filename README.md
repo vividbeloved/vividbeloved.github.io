@@ -335,7 +335,7 @@ Sumber : https://www.blockchain.com/explorer/transactions/btc/f61be88b48af826c90
 
 | Jadwal | Tanggal | Jam Wib | Keterangan | Konfirmasi |
 | ------ | ------- | ------- | ---------- | ---------- |
-| Penting | 28 Februari 2024 | 06.00 - 23.00 | Membuat akun email proton 1deus@proton.me, terus membuat akun twitter dan github. Kalau sudah selesai semua deposit ke <a href="https://mempool.space/address/1DEUSxZqiWNMdLNhrHNBL6PYDKq5qWdcug" target="_blank"><img src="https://img.shields.io/badge/1DEUSxZqiWNMdLNhrHNBL6PYDKq5qWdcug-fc6d26.svg?style=flat-square&logo=bitcoin&logoColor=white" alt="1DEUSxZqiWNMdLNhrHNBL6PYDKq5qWdcug"><a/> | Belum selesai |
+| Penting | 28 Februari 2024 | 06.00 - 23.00 | Membuat akun email @proton.me, terus membuat akun twitter. Kalau sudah selesai semua deposit ke <a href="https://mempool.space/address/1DEUSxZqiWNMdLNhrHNBL6PYDKq5qWdcug" target="_blank"><img src="https://img.shields.io/badge/1DEUSxZqiWNMdLNhrHNBL6PYDKq5qWdcug-fc6d26.svg?style=flat-square&logo=bitcoin&logoColor=white" alt="1DEUSxZqiWNMdLNhrHNBL6PYDKq5qWdcug"><a/> | Belum selesai |
 | Hasilnya | 28 Februari 2024 | 13.00 - 23.00 | email 1DEUSxZqiWMNdLNhrHNBL6PYDKq5qWdcug@proton.me dan twitter | Selanjutnya masih proses |
 
 <!-- About Section -->
@@ -355,6 +355,10 @@ Sumber : https://www.blockchain.com/explorer/transactions/btc/f61be88b48af826c90
    <img src="https://img.shields.io/badge/mempool-%231877F2.svg?&style=flat-square&logo=mempool&logoColor=white" alt="mempool">
 </a>
 ![deprecated](https://img.shields.io/badge/status-berjalan-lime.svg?style=flat-square)
+
+### Catatan
+
+1. 
 
 <a href="#atas" class="w3-bar-item w3-button"> Ke Atas Halaman</a>
 
