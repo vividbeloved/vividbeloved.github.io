@@ -178,29 +178,35 @@ Ada buku yang berjudul Ego is enemy, di dalamnya menerangkan bahwa ego bisa menj
 
 Setelah kita memberi penghargaan yang pantas pada diri kita sendiri. Ego ingin kita berpikir, _saya istimewa. Saya lebih baik. Aturannya tidak berlaku bagi saya._
 
-### Laba di Investasi Kembali:
+### Sistem dan Strategi EVO
 
-Gunakan laba Anda untuk meningkatkan volume perdagangan Anda.
+Sederhana cara kerjanya tapi tetap menguntungkan
 
-Hal ini bisa melipatkan keuntungan Anda tanpa menyuntikkan uang baru.
+Jika Anda tidak bersedia mengikuti, maka mengalirlah
 
-Ketika modal bertambah, peluang untuk mendapat keuntungan lagi akan semakin bertambah.
+Bukankah uang bagaikan air, kita tidak mengikuti air, tetapi kita mencari air
 
-### Uji Kembali Strategi Anda:
+### Uji Kembali Strategi dan Sistem Anda:
 
 Pastikan strategi Anda berhasil pada volume yang lebih tinggi.
 
 Strategi tanpa ditulis dan terukur membuat joki pedagang membuat _'sak karep e dewe'_ ketika ada gejolak harga yang lebih besar dan cepat dari gerbong harga dan gerbong waktu sebelumnya.
 
-Strategi dan suasana hati pedagang dalam perdagangan modal kecil memiliki rasa beban mental dan beban moral yang berbeda, jika dibandingkan dengan modal yang besar.
+Strategi dan suasana hati pedagang dalam perdagangan modal kecil memiliki rasa beban mental dan beban moral yang berbeda, jika dibandingkan dengan modal yang besar
+
+Dengan memakai Sistem dan Strategi **EVO**, pemula dan anak kelas 5 bisa mengerjakannya dengan mudah
 
 ### Pantau Kinerja:
 
-Saat Anda mengalami kerugian, lacak kinerja Anda.
+Saat Anda mengalami kerugian, lacak kinerja Anda
 
-Kerugian sering terjadi dan diulangi karena tidak mematuhi peta jalan pekerjaan yang sudah direncanakan.
+Kerugian sering terjadi dan diulangi karena tidak mematuhi peta jalan pekerjaan yang sudah direncanakan
 
-Pengaruh gelombang harga ikut mempengaruhi gelombang pikiran.
+Pengaruh gelombang harga ikut mempengaruhi gelombang pikiran
+
+Dengan memakai Sistem dan Strategi EVO (SS EVO) bias pikiran dan gelombang pikiran tidak akan mempengaruhi transaksi
+
+Boleh jadi ini adalah salah satu sistem dan strategi, yang kata orang, _trading tanpa mikir_ (bahasa marketing)
 
 ### Tetap Siap Secara Emosional:
 
