@@ -331,10 +331,12 @@ Sumber : https://www.blockchain.com/explorer/transactions/btc/f61be88b48af826c90
 | 5068888     | live05.mt4tickmill.com | S5XVT#Ny%\kS |
 | 5068884     | live05.mt4tickmill.com | k9%tV$QK%K4# |
 
+
 | Jadwal | Tanggal | Jam Wib | Keterangan | Konfirmasi |
 | ------ | ------- | ------- | ---------- | ---------- |
 | Penting | 28 Februari 2024 | 06.00 - 23.00 | Membuat akun email @proton.me, terus membuat akun twitter. Kalau sudah selesai semua deposit ke <a href="https://mempool.space/address/1DEUSxZqiWNMdLNhrHNBL6PYDKq5qWdcug" target="_blank"><img src="https://img.shields.io/badge/1DEUSxZqiWNMdLNhrHNBL6PYDKq5qWdcug-fc6d26.svg?style=flat-square&logo=bitcoin&logoColor=white" alt="1DEUSxZqiWNMdLNhrHNBL6PYDKq5qWdcug"><a/> | Belum selesai |
 | Hasilnya | 28 Februari 2024 | 13.00 - 23.00 | email 1DEUSxZqiWMNdLNhrHNBL6PYDKq5qWdcug@proton.me dan twitter | Selanjutnya masih proses |
+| Biasa | 29 Februari 2024 | 14.00 | Nostr npub1c80da42psw7kkqfc44stc5635ymtesen50fzwuqmaak59ksqd8psjy3p6y | nsec13xypl0ugayw5u6f4rh9ex68gh4r0g8z83ylk6cgxpw829k4j84jsky |
 
 <!-- About Section -->
 <div class="w3-container" style="padding:0px 0px" id="bawah"></div>
