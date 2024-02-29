@@ -358,7 +358,7 @@ Sumber : https://www.blockchain.com/explorer/transactions/btc/f61be88b48af826c90
 
 ### Catatan
 
-1. 
+1. Transaksi pertama di gerbong waktu genap, menit 00, 15, 30 atau 45.
 
 <a href="#atas" class="w3-bar-item w3-button"> Ke Atas Halaman</a>
 
