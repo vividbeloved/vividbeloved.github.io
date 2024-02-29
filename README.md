@@ -154,23 +154,15 @@ Peluang 2 Risiko 1 = 2:1
 
 Peluang 3 Risiko 1 = 3:1
 
-Perbandingan Rugi Laba dalam perdagangan forex dan bitcoin bisa dibuat sebelum transaksi. 
+Perbandingan Laba Rugi dalam perdagangan forex dan bitcoin bisa dibuat sebelum transaksi. 
 
-Kerugian lebih menguras energi, selain mengurangi energi mental juga mengurangi energi modal.
+Beban kerugian lebih menguras energi, selain mengurangi energi mental juga mengurangi energi modal.
 
 _'Kecewa'_ karena rugi $10 USD bobotnya lebih berat, dari pada _'gembira'_ ketika mendapatkan laba $10 USD
 
-Jika Anda berlatih sikap mental untuk mengambil peluang dan risiko 10% per perdagangan pada akun $20
+Gunakan Sistem dan Strategi perdagangan yang baik, menyenangkan dan yang sudah terbukti menguntungkan berulang kali
 
-Ambil risiko 10% yang sama ketika akun Anda tumbuh menjadi $50. Itu perlu latihan untuk menerima kekalahan sesaat
-
-Sikap dan keadaan tersebut mempengaruhi mental dan psikologis seseorang
-
-Saya pernah gagal kembali ke saldo $1 lagi, setelah ekuitas $19.08 menjadi $70. Terjadi, karena tidak menggunakan disiplin kerangka kerja rasio peluang dan rasio risiko seperti semula. Baca tentang _"Profitability Ratio"_ Kejadian itu masih sering saya ulangi sampai 20 Februari 2024.
-
-Mengalami kejadian rugi yang drastis disebabkan emosi keraguan yang takut kehilangan jumlah yang lebih besar dari biasanya dan berharap akan kembali lagi.
-
-Sehingga logika terasa terhambat tanpa sadar ketika emosi mendominasi untuk mengambil keputusan.
+'Kegagalan' tentu pernah saya alami, tetapi tidak perlu saya ceritakan di sini
 
 ### Belajar Kontrol Ego
 
@@ -182,7 +174,7 @@ Setelah kita memberi penghargaan yang pantas pada diri kita sendiri. Ego ingin k
 
 Sederhana cara kerjanya tapi tetap menguntungkan
 
-Jika Anda tidak bersedia mengikuti, maka mengalirlah
+Jika Anda tidak bersedia mengikuti, maka mengalirlah, cara mengakali Ego yang kaku
 
 Bukankah uang bagaikan air, kita tidak mengikuti air, tetapi kita mencari air
 
