@@ -11,7 +11,7 @@
         <li><a href="#beranda"> Beranda</a></li>
         <li><a href="#bawah" class="w3-bar-item w3-button"> Bawah</a></li>
         <li><a href="#tabel" class="w3-bar-item w3-button"> Tabel</a></li>
-        <li><a href="#media"> Media</a></li>
+        <li><a href="#media"> Vivid Beloved</a></li>
     </ul>
 </nav>
 <div align="center">
