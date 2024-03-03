@@ -105,7 +105,7 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
       <div class="hero-wrapper" style="padding-bottom: 6px;">
         <div class="hero-split">
 	 <div style="border:28px solid #8205f2">
-          <p class="paragraph" style="font-size: 24px;">GetBos Research</p>
+          <p class="paragraph" style="font-size: 24px;">Vivid ₿eloved Research</p>
 	   <div align="center">
             <h1 class="heading-5">Excellent Vivid Opportunity 丰</h1>
 	   </div>
