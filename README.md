@@ -360,6 +360,7 @@ Sumber : https://www.blockchain.com/explorer/transactions/btc/f61be88b48af826c90
 ### Catatan
 
 1. Transaksi pertama di gerbong waktu genap, menit 00, 15, 30 atau 45.
+2. Fee block bitcoin yang mahal <a href="https://mempool.space/tx/ed76bf35918948b8b78be0e6397ad4916d926dd3d65679a8b7e67d8699a672a0"  target="_blank"> 1BTC
 
 <a href="#atas" class="w3-bar-item w3-button"> Ke Atas Halaman</a>
 
