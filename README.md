@@ -78,7 +78,7 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
   </p>
 	<p> Vivid ₿eloved Manajemen bergerak dibidang perdagangan di pasar uang bitcoin, forex, saham dan lain-lainnya.
 </p>
-	<p> GetBos manajemen tidak bisa menjanjikan keuntungan dengan angka yang pasti, tetapi bisa berkomitmen untuk menjaga dan mengelola dana investor agar selalu bertumbuh dan berkembang dengan aman.</p>
+	<p> Vivid ₿eloved manajemen tidak bisa menjanjikan keuntungan dengan angka yang pasti, tetapi bisa berkomitmen untuk menjaga dan mengelola dana investor agar selalu bertumbuh dan berkembang dengan aman.</p>
 </details>
 
 
