@@ -369,7 +369,7 @@ Sumber : https://www.blockchain.com/explorer/transactions/btc/f61be88b48af826c90
 	<a href="https://www.facebook.com/vividbeloved" target="_blank">
 		<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
 	</a>
-	<a href="https://www.twitter.com/getbos" target="_blank">
+	<a href="https://www.twitter.com/vividdeus" target="_blank">
 		<img src="https://img.shields.io/badge/twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
 	</a>
 	<a href="https://www.telegram.com/getboz" target="_blank">
