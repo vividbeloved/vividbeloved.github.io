@@ -48,7 +48,7 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
 ## Gambar
 <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fvividbeloved.github.io">
 
-![Logo GitHub](https://img.shields.io/github/followers/getbos)
+![Logo GitHub](https://img.shields.io/github/followers/vividbeloved)
 
 <details>
   <summary>
