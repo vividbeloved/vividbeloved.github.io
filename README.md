@@ -365,7 +365,7 @@ Sumber : https://www.blockchain.com/explorer/transactions/btc/f61be88b48af826c90
 <a href="#atas" class="w3-bar-item w3-button"> Ke Atas Halaman</a>
 
 <div align="center">
-	<div class="w3-container" style="padding: 0px 0px" id="media"></div>
+	<div class="w3-container" style="padding: 0px 0px" id="vividbeloved"></div>
 	<a href="https://www.facebook.com/vividbeloved" target="_blank">
 		<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
 	</a>
