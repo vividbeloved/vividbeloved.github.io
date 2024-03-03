@@ -34,7 +34,7 @@ Aku adalah ekonom alam semesta."_
 - [x] Tugas Selesai
 - [ ] Tugas Belum Selesai
 
- ![Build Status](https://img.shields.io/travis/getbos/getbos.github.io/master.svg)
+ ![Build Status](https://img.shields.io/travis/vividbeloved/vividbeloved.github.io/master.svg)
 
 ## Portofolio
 		
