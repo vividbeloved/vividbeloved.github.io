@@ -46,7 +46,7 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
 5. Proyek <a href="https://www.ord.io/bc1ph3ktpvqlhk8nkz979kl9hz0zjjz6dl4w39srcednvhzepdpcmu5qfwk0e6/" target="_blank">Ordinals</a> 
    
 ## Gambar
-<img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fgetbos.github.io">
+<img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fvividbeloved.github.io">
 
 ![Logo GitHub](https://img.shields.io/github/followers/getbos)
 
