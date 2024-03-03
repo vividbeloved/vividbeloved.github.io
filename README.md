@@ -97,7 +97,7 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
 
 ## Proyek
 1. __Menumbuhkan modal menjadi $100 USD__ <!-- teks tebal -->
-2. **Website GetBos**
+2. **Website Vivid Beloved**
 3. __Society GetBos__
 
 <section class="hero-heading-left" style="padding-top: 50px;">
