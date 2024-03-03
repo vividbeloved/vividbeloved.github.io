@@ -71,12 +71,12 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
 
 <details>
   <summary>
-    <i>Proposal GetBos</i>
+    <i>Proposal Vivid ₿eloved</i>
   </summary>
   <p>
-    Yang Terhormat. Kepada Bapak dan Ibu Calon Investor GetBos, kami menawarkan proposal investasi yang di kelola oleh GetBos Manajemen.
+    Yang Terhormat. Kepada Bapak dan Ibu Calon Investor Vivid ₿eloved, kami menawarkan proposal investasi yang di kelola oleh GetBos Manajemen.
   </p>
-	<p> GetBos Manajemen bergerak dibidang perdagangan di pasar uang seperti forex, saham dan bitcoin.
+	<p> Vivid ₿eloved Manajemen bergerak dibidang perdagangan di pasar uang bitcoin, forex, saham dan lain-lainnya.
 </p>
 	<p> GetBos manajemen tidak bisa menjanjikan keuntungan dengan angka yang pasti, tetapi bisa berkomitmen untuk menjaga dan mengelola dana investor agar selalu bertumbuh dan berkembang dengan aman.</p>
 </details>
