@@ -122,7 +122,7 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
   </section>
   
 ```
-                   Gate Economy Trade ₿itcoin and Other Stuff
+                        Sharing is caring vivid beloved
             Gerbang Ekonomi Perdagangan ₿itcoin dan Barang Lainnya
                          Peluang Nyata yang Luar Biasa
 ```
