@@ -80,7 +80,7 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
   <p>
     Yang Terhormat. Kepada Bapak dan Ibu Calon Investor Vivid ₿eloved, kami menawarkan proposal investasi yang di kelola oleh Vivid ₿eloved Manajemen.
   </p>
-	<p> Vivid ₿eloved Manajemen bergerak dibidang perdagangan di pasar uang bitcoin, forex, saham dan lain-lainnya.
+	<p> Vivid ₿eloved Manajemen bergerak dibidang perdagangan di pasar uang bitcoin dan forex.
 </p>
 	<p> Vivid ₿eloved manajemen tidak bisa menjanjikan keuntungan dengan angka yang pasti, tetapi bisa berkomitmen untuk menjaga dan mengelola dana investor agar selalu bertumbuh dan berkembang dengan aman.</p>
 </details>
@@ -131,7 +131,7 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
 ![](https://img.shields.io/github/followers/vividbeloved) ![](https://img.shields.io/github/stars/vividbeloved/vividbeloved.github.io)
 ![Logo GitHub](https://img.shields.io/badge/Gambar-8A2BE2)
 
-Dimulai dari melewati gerbang perdagangan
+Memulai dari gerbang perdagangan, investasi dan pembangunan
 
 Kekayaan seseorang, perusahaan dan negara cepat terwujud
 
@@ -141,7 +141,7 @@ Inilah salah satu cara memulai membangun kekayaan ![deprecated](https://img.shie
 
 Dengan semboyan ![deprecated](https://img.shields.io/badge/EVO_-_Excellent_Vivid_Opportunity-8A2BE2) Peluang Nyata yang Luar Biasa
 
-Menuju ![deprecated](https://img.shields.io/badge/Gerb_-_Gerbang_ekonomi_rakyat_bitcoin-8A2BE2)
+Menuju ![deprecated](https://img.shields.io/badge/Gerb_-_Gerbang_ekonomi_republik_bitcoin-8A2BE2)
 
 ## Sabar Dengan Peta Jalan:
 Gunakan Peta Jalan dengan baik
