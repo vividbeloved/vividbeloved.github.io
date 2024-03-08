@@ -46,6 +46,7 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
 5. Proyek <a href="https://www.ord.io/bc1ph3ktpvqlhk8nkz979kl9hz0zjjz6dl4w39srcednvhzepdpcmu5qfwk0e6/" target="_blank">Ordinals</a>
 6. Aset NFT <a href="https://rank.dragontown.xyz/token/3499" target="_blank">DragonTown</a> #3499
 7. Aset NFT <a href="https://rank.dragontown.xyz/token/560" target="_blank">DragonTown</a> #560
+8. Alamat Bitcoin <a href="https://mempool.space/address/bc1qene2m2ge7h9qdwq8ptrlea2hpvk83c2mjjswl9" target="_blank">bc1qene2m2ge7h9qdwq8ptrlea2hpvk83c2mjjswl9</a> Balance	‎0.00000861 BTC$0.59 pada tanggal 8 Maret 2024
    
 ## Gambar
 <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fvividbeloved.github.io">
@@ -155,11 +156,6 @@ Tingkatkan ukuran perdagangan dengan cara bertahap
 Peningkatan kecil dan konsisten perlu kesabaran
 
 ### Rasio Peluang Dan Risiko:
-Peluang 1 Risiko 1 = 1:1
-
-Peluang 2 Risiko 1 = 2:1
-
-Peluang 3 Risiko 1 = 3:1
 
 Perbandingan Laba Rugi dalam perdagangan forex dan bitcoin bisa dibuat sebelum transaksi. 
 
