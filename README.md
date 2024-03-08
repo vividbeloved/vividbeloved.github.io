@@ -47,6 +47,7 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
 6. Aset NFT <a href="https://rank.dragontown.xyz/token/3499" target="_blank">DragonTown</a> #3499
 7. Aset NFT <a href="https://rank.dragontown.xyz/token/560" target="_blank">DragonTown</a> #560
 8. Alamat Bitcoin <a href="https://mempool.space/address/bc1qene2m2ge7h9qdwq8ptrlea2hpvk83c2mjjswl9" target="_blank">bc1qene2m2ge7h9qdwq8ptrlea2hpvk83c2mjjswl9</a> Balance	‎0.00000861 BTC$0.59 pada tanggal 8 Maret 2024
+9. Alamat Bitcoin baru 1BitcoinX1PpTdriS5pNUh7RSD3eggp6HK di buat pada tanggal 8 Maret 2024
    
 ## Gambar
 <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fvividbeloved.github.io">
