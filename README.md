@@ -143,7 +143,7 @@ Inilah salah satu cara memulai membangun kekayaan ![deprecated](https://img.shie
 
 Dengan semboyan ![deprecated](https://img.shields.io/badge/EVO_-_Excellent_Vivid_Opportunity-8A2BE2) Peluang Nyata yang Luar Biasa
 
-Menuju ![deprecated](https://img.shields.io/badge/Gerb_-_Gerbang_ekonomi_republik_bitcoin-8A2BE2)
+Menuju ![deprecated](https://img.shields.io/badge/Greb_-_Gerbang_republik_ekonomi_bitcoin-8A2BE2)
 
 ## Sabar Dengan Peta Jalan:
 Gunakan Peta Jalan dengan baik
