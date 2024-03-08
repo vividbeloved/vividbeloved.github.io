@@ -73,6 +73,8 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
 
 <a href="https://v2.akord.com/login/" target="_blank">Akord</a>
 
+<a href="https://stellarchain.io/accounts/GBKKLIQDHY4ZJYVCLKY26ZU6PMWXYJPXNRTJCBDPDTGMPVBB6OC27MWX" target="_blank">Stellar Lumens XLM</a>
+
 <details>
   <summary>
     <i>Proposal Vivid ₿eloved</i>
