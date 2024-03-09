@@ -135,9 +135,9 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
 ![](https://img.shields.io/github/followers/vividbeloved) ![](https://img.shields.io/github/stars/vividbeloved/vividbeloved.github.io)
 ![Logo GitHub](https://img.shields.io/badge/Gambar-8A2BE2)
 
-Memulai dari gerbang perdagangan, investasi dan pembangunan
+Memulai dari gerbang pengetahuan perdagangan, investasi dan pembangunan
 
-Kekayaan seseorang, perusahaan dan negara cepat terwujud
+Kekayaan seseorang, perusahaan dan negara cepat bertumbuh
 
 Namun, orang-orang masih banyak yang belum melakukannya
 
@@ -158,15 +158,15 @@ Peningkatan kecil dan konsisten perlu kesabaran
 
 ### Rasio Peluang Dan Risiko:
 
-Perbandingan Laba Rugi dalam perdagangan forex dan bitcoin bisa dibuat sebelum transaksi. 
+Perbandingan Laba Rugi dalam perdagangan forex dan bitcoin bisa dibuat atau direncanakan sebelum transaksi. 
 
-Beban kerugian lebih menguras energi, selain mengurangi energi mental juga mengurangi energi modal.
+Beban mental kerugian lebih menguras energi, selain mengurangi energi secara psikologis juga mengurangi energi modal.
 
 _'Kecewa'_ karena rugi $10 USD bobotnya lebih berat, dari pada _'gembira'_ ketika mendapatkan laba $10 USD
 
 Gunakan Sistem dan Strategi perdagangan yang baik, menyenangkan dan yang sudah terbukti menguntungkan berulang kali
 
-'Kegagalan' tentu pernah saya alami, tetapi tidak perlu saya ceritakan di sini
+'Kegagalan' tentu pernah saya alami, tetapi tidak perlu kami ceritakan di sini
 
 ### Belajar Kontrol Ego
 
@@ -178,15 +178,15 @@ Setelah kita memberi penghargaan yang pantas pada diri kita sendiri. Ego ingin k
 
 Sederhana cara kerjanya tapi tetap menguntungkan
 
-Jika Anda tidak bersedia mengikuti, maka mengalirlah, cara mengakali Ego yang kaku
+Jika Anda tidak bersedia mengikuti, maka mengalirlah, cara mengakali atau mensiasati Ego yang kaku atau yang keras kepala
 
-Bukankah uang bagaikan air, kita tidak mengikuti air, tetapi kita mencari air
+Bukankah uang bagaikan air, kita tidak mengikuti air, tetapi kita mencari air karena butuh air
 
 ### Uji Kembali Strategi dan Sistem Anda:
 
 Pastikan strategi Anda berhasil pada volume yang lebih tinggi.
 
-Strategi tanpa ditulis dan terukur membuat joki pedagang membuat _'sak karep e dewe'_ ketika ada gejolak harga yang lebih besar dan cepat dari gerbong harga dan gerbong waktu sebelumnya.
+Strategi tanpa ditulis dan terukur membuat joki pedagang membuat _'sak karep e dewe'_ ketika ada gejolak harga yang bervolume lebih besar dan lebih cepat dari gerbong harga di gerbong waktu sebelumnya.
 
 Strategi dan suasana hati pedagang dalam perdagangan modal kecil memiliki rasa beban mental dan beban moral yang berbeda, jika dibandingkan dengan modal yang besar
 
@@ -198,7 +198,7 @@ Saat Anda mengalami kerugian, lacak kinerja Anda
 
 Kerugian sering terjadi dan diulangi karena tidak mematuhi peta jalan pekerjaan yang sudah direncanakan
 
-Pengaruh gelombang harga ikut mempengaruhi gelombang pikiran
+Pengaruh gelombang harga yang dilihat dengan lama, bisa ikut mempengaruhi gelombang pikiran seseorang
 
 Dengan memakai Sistem dan Strategi EVO (SS EVO) bias pikiran dan gelombang pikiran tidak akan mempengaruhi transaksi
 
@@ -324,6 +324,7 @@ Sumber : https://www.blockchain.com/explorer/transactions/btc/f61be88b48af826c90
 | Alamat Bitcoin | <a href="https://mempool.space/address/1BitcoinX1PpTdriS5pNUh7RSD3eggp6HK" target="_blank"><img src="https://img.shields.io/badge/1BitcoinX1PpTdriS5pNUh7RSD3eggp6HK-fc6d26.svg?style=flat-square&logo=bitcoin&logoColor=white" alt="1BitcoinX1PpTdriS5pNUh7RSD3eggp6HK"><a/> |
 | Alamat Bitcoin | <a href="https://mempool.space/address/1DEUSxZqiWNMdLNhrHNBL6PYDKq5qWdcug" target="_blank"><img src="https://img.shields.io/badge/1DEUSxZqiWNMdLNhrHNBL6PYDKq5qWdcug-fc6d26.svg?style=flat-square&logo=bitcoin&logoColor=white" alt="1DEUSxZqiWNMdLNhrHNBL6PYDKq5qWdcug"><a/> |
 | Alamat Bitcoin | <a href="https://mempool.space/address/1EZjeVjTZZNz5P9p4Qe9QxybCw2znxFB6B" target="_blank"><img src="https://img.shields.io/badge/1EZjeVjTZZNz5P9p4Qe9QxybCw2znxFB6B-fc6d26.svg?&style=flat-square&logo=bitcoin&logoColor=white" alt="1EZjeVjTZZNz5P9p4Qe9QxybCw2znxFB6B"><a/> |
+| Alamat Bitcoin | <a href="https://mempool.space/address/bc1qene2m2ge7h9qdwq8ptrlea2hpvk83c2mjjswl9" target="_blank"><img src="https://img.shields.io/badge/bc1qene2m2ge7h9qdwq8ptrlea2hpvk83c2mjjswl9-fc6d26.svg?style=flat-square&logo=bitcoin&logoColor=white" alt="bc1qene2m2ge7h9qdwq8ptrlea2hpvk83c2mjjswl9"><a/> |
 | Alamat Ethereum | <a href="https://etherscan.io/nft/0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85/4421530841797771256312424086628263505231367050400567126952092999913794014635" target="_blank"><img src="https://img.shields.io/badge/jombang.eth-%231877F2.svg?&style=flat-square&logo=ethereum&logoColor=white" alt="jombang.eth"><a/> |
 | Alamat Ethereum | <a href="https://etherscan.io/nft/0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85/101846358537703360326023606582808589270192534296290160289883057157643897738320" target="_blank"><img src="https://img.shields.io/badge/arema.eth-%231877F2.svg?&style=flat-square&logo=ethereum&logoColor=white" alt="arema.eth"><a/> |
 | Alamat ENS | <a href="https://etherscan.io/nft/0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85/63413185863260930873505766508417912437889806961391207654529954393643954991725" target="_blank"><img src="https://img.shields.io/badge/peluang.eth-%231877F2.svg?&style=flat-square&logo=ethereum&logoColor=white" alt="peluang.eth"><a/> |
