@@ -154,7 +154,7 @@ Sabarlah dalam meraih keuntungan
 
 Tingkatkan ukuran perdagangan dengan cara bertahap
 
-Peningkatan kecil dan konsisten perlu kesabaran
+Peningkatan kecil dan konsisten yang butuh kesabaran
 
 ### Rasio Peluang Dan Risiko:
 
@@ -162,7 +162,7 @@ Perbandingan Laba Rugi dalam perdagangan forex dan bitcoin bisa dibuat atau dire
 
 Beban mental kerugian lebih menguras energi, selain mengurangi energi secara psikologis juga mengurangi energi modal.
 
-_'Kecewa'_ karena rugi $10 USD bobotnya lebih berat, dari pada _'gembira'_ ketika mendapatkan laba $10 USD
+_'Kecewa'_ karena rugi $10 USD bobotnya terasa lebih berat, dari pada _'gembira'_ ketika mendapatkan laba $10 USD
 
 Gunakan Sistem dan Strategi perdagangan yang baik, menyenangkan dan yang sudah terbukti menguntungkan berulang kali
 
@@ -178,7 +178,7 @@ Setelah kita memberi penghargaan yang pantas pada diri kita sendiri. Ego ingin k
 
 Sederhana cara kerjanya tapi tetap menguntungkan
 
-Jika Anda tidak bersedia mengikuti, maka mengalirlah, cara mengakali atau mensiasati Ego yang kaku atau yang keras kepala
+Jika Anda tidak bersedia mengikuti, maka mengalirlah, cara 'mengakali' atau mensiasati Ego yang kaku atau yang keras kepala
 
 Bukankah uang bagaikan air, kita tidak mengikuti air, tetapi kita mencari air karena butuh air
 
