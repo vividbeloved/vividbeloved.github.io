@@ -78,6 +78,8 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
 
 <a href="https://stellarchain.io/accounts/GBKKLIQDHY4ZJYVCLKY26ZU6PMWXYJPXNRTJCBDPDTGMPVBB6OC27MWX" target="_blank">Stellar Lumens XLM</a>
 
+Mencoba buat token BRC20<a href="https://ordiscan.com/inscription/10321277" target="_blank">OHLC</a>
+
 <details>
   <summary>
     <i>Proposal Vivid ₿eloved</i>
