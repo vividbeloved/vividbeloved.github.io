@@ -21,7 +21,7 @@
 <a class="text-black" href="https://bitinfocharts.com/bitcoin/address/1EZjeVjTZZNz5P9p4Qe9QxybCw2znxFB6B" target="_blank">Bitinfo</a> |
 <a class="text-black" href="https://lnmarkets.com/en" target="_blank">LNmarket</a> |
 <a class="text-black" href="https://mempool.space/tools/calculator" target="_blank">Mempool</a> |
-<a class="text-black" href="https://mempool.space/tx/d248d2d06e4bece2afc225ed5a1427e0f7dc769c5d3df795c7e9b7f667eae6b3" target="_blank">Ordinals</a>
+<a class="text-black" href="https://mempool.space/address/bc1pzv8sqw850vuxv600nq73cygezrc8s26tlkpl27v9vdm4lfjkuhfs6szx09" target="_blank">Ordinals</a>
 </div>
 
 ## Belum dirapikan 🌱
