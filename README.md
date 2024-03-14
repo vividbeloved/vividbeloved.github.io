@@ -376,7 +376,7 @@ Sumber : https://www.blockchain.com/explorer/transactions/btc/f61be88b48af826c90
 1. Transaksi pertama di gerbong waktu genap, menit 00, 15, 30 atau 45.
 2. Fee block bitcoin yang mahal <a href="https://mempool.space/tx/ed76bf35918948b8b78be0e6397ad4916d926dd3d65679a8b7e67d8699a672a0"  target="_blank"> 1 BTC</a>
 3. Gambar yang disimpan di arweave <a href="https://viewblock.io/arweave/tx/cGka8Bi-1dMeylEBb2TGT7zRp4sXS9HPUjZZfgNCjoE" target="_blank"> gambar lucu</a>
-4. Nanti tanggal 14 Maret 2024 buat tabel ordinal
+4. Nanti tanggal 14 Maret 2024 buat tabel ordinal  [x] Tugas Selesai
 
 <a href="#atas" class="w3-bar-item w3-button"> Ke Atas Halaman</a>
 
