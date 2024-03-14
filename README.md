@@ -39,14 +39,14 @@ Aku adalah ekonom alam semesta."_
 Berikut adalah beberapa proyek yang pernah saya kerjakan:
 1. GitHub <a href="https://metabrani.github.io/" target="_blank">MetaBrani</a>
 2. <a href="https://mempool.space/tx/f61be88b48af826c9056f6fc1c7391ca8e052a83d8f00efc5a6c4025c389f280" target="_blank">OP_RETURN <a/>Kepanjangan kata getbos
-3. GitHub<a href="https://vividbeloved.github.io/" target="_blank">Vivid Beloved</a> pengujian Commit changes...
+3. GitHub <a href="https://vividbeloved.github.io/" target="_blank">Vivid Beloved</a> pengujian Commit changes...
 4. Belajar berkebun digital 🪴
 5. Proyek <a href="https://www.ord.io/bc1ph3ktpvqlhk8nkz979kl9hz0zjjz6dl4w39srcednvhzepdpcmu5qfwk0e6/" target="_blank">Ordinals bc1ph3ktpvqlhk8nkz979kl9hz0zjjz6dl4w39srcednvhzepdpcmu5qfwk0e6</a>
 6. Aset NFT <a href="https://rank.dragontown.xyz/token/3499" target="_blank">DragonTown</a> #3499
 7. Aset NFT <a href="https://rank.dragontown.xyz/token/560" target="_blank">DragonTown</a> #560
 8. Alamat Bitcoin <a href="https://mempool.space/address/bc1qene2m2ge7h9qdwq8ptrlea2hpvk83c2mjjswl9" target="_blank">bc1qene2m2ge7h9qdwq8ptrlea2hpvk83c2mjjswl9</a> Balance	‎0.00000861 BTC$0.59 pada tanggal 8 Maret 2024
 9. Alamat Bitcoin baru 1BitcoinX1PpTdriS5pNUh7RSD3eggp6HK di buat pada tanggal 8 Maret 2024
-10. Akun OpenSea<a href="https://opensea.io/1bitcoinx1" target="_blank">1BitcoinX1</a>
+10. Akun OpenSea <a href="https://opensea.io/1bitcoinx1" target="_blank">1BitcoinX1</a>
 11. Alamat Bitcoin Ordinals <a href="https://mempool.space/address/bc1pzv8sqw850vuxv600nq73cygezrc8s26tlkpl27v9vdm4lfjkuhfs6szx09" target="_blank">bc1pzv8sqw850vuxv600nq73cygezrc8s26tlkpl27v9vdm4lfjkuhfs6szx09</a> Balance	‎0.00001000 BTC$0.72 pada tanggal 12 Maret 2024
 12. Waktu internasional <a href="https://www.timeanddate.com/worldclock/timezone/utc" target="_blank">Current UTC</a>
    
@@ -349,7 +349,9 @@ Sumber : https://www.blockchain.com/explorer/transactions/btc/f61be88b48af826c90
 
 | Nama Ordinals | Link |
 | ------------- | ---- |
-| Ordinals.com  | <a href="https://ordinals.com/tx/f005ceaa357e5358993df4a178ecffededdc9372a3589957969c73da1435b431" target="_blank"><1BitcoinX1PpTdriS5pNUh7RSD3eggp6HK></a> |
+| Ordinals.com  | <a href="https://ordinals.com/tx/f005ceaa357e5358993df4a178ecffededdc9372a3589957969c73da1435b431" target="_blank">1BitcoinX1PpTdriS5pNUh7RSD3eggp6HK</a> |
+| Ordiscan      | <a href="https://ordiscan.com/address/bc1ph3ktpvqlhk8nkz979kl9hz0zjjz6dl4w39srcednvhzepdpcmu5qfwk0e6" target="_blank">bc1ph3ktpvqlhk8nkz979kl9hz0zjjz6dl4w39srcednvhzepdpcmu5qfwk0e6</a>
+| OrdinalsWallet | <a href="https://ordinalswallet.com/" target="_blank">OrdinalsWallet |
 
 <!-- About Section -->
 <div class="w3-container" style="padding:0px 0px" id="bawah"></div>
