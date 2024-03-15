@@ -78,7 +78,7 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
 
 <a href="https://stellarchain.io/accounts/GBKKLIQDHY4ZJYVCLKY26ZU6PMWXYJPXNRTJCBDPDTGMPVBB6OC27MWX" target="_blank">Stellar Lumens XLM</a>
 
-Mencoba buat token BRC20<a href="https://ordiscan.com/inscription/10321277" target="_blank">OHLC</a>
+Mencoba buat token BRC20 <a href="https://ordiscan.com/inscription/10321277" target="_blank">OHLC</a>
 
 <details>
   <summary>
@@ -107,7 +107,7 @@ Mencoba buat token BRC20<a href="https://ordiscan.com/inscription/10321277" targ
 3. *Other Stuff* <!-- teks tebal -->
 
 ## Proyek
-1. __Menumbuhkan modal menjadi $100 USD__ <!-- teks tebal -->
+1. __Menumbuhkan modal menjadi $100 USD dari ₿itcoin__ <!-- teks tebal -->
 2. **Website Vivid Beloved**
 3. __Society Vivid Beloved__
 
@@ -130,7 +130,7 @@ Mencoba buat token BRC20<a href="https://ordiscan.com/inscription/10321277" targ
   
 ```
                         Sharing is caring vivid beloved
-            Gerbang Ekonomi Perdagangan ₿itcoin dan Barang Lainnya
+                  Gerbang Investasi dan Perdagangan ₿itcoin
                          Peluang Nyata yang Luar Biasa
 ```
 
@@ -197,11 +197,11 @@ Dengan memakai Sistem dan Strategi **EVO**, pemula dan anak kelas 5 bisa mengerj
 
 ### Pantau Kinerja:
 
-Saat Anda mengalami kerugian, lacak kinerja Anda
+Saat Anda mengalami kerugian dalam perdagangan, lacak kinerja Anda
 
 Kerugian sering terjadi dan diulangi karena tidak mematuhi peta jalan pekerjaan yang sudah direncanakan
 
-Pengaruh gelombang harga yang dilihat dengan lama, bisa ikut mempengaruhi gelombang pikiran seseorang
+Pengaruh gelombang harga yang dilihat dengan durasi yang lama, bisa ikut mempengaruhi gelombang pikiran seseorang
 
 Dengan memakai Sistem dan Strategi EVO (SS EVO) bias pikiran dan gelombang pikiran tidak akan mempengaruhi transaksi
 
@@ -209,7 +209,7 @@ Boleh jadi ini adalah salah satu sistem dan strategi, yang kata orang, _trading 
 
 ### Tetap Siap Secara Emosional:
 
-Semakin besar angka di layar berarti perubahan emosi yang semakin besar.
+Semakin besar angka di layar berarti akan ada perubahan emosi yang semakin besar.
 
 Pastikan Anda siap secara mental untuk menangani tekanan yang meningkat.
 
@@ -220,7 +220,7 @@ Keterangan lebih lanjut tentang pengetahuan <a href="https://positivepsychology.
 ```
 Pasar adalah majikan Anda                                                 Pasar memiliki sisi misteri gelap
             Rencana adalah panduan Anda                           Rencana mempermudah cara bekerja
-                        Disiplin adalah guru Anda        Guru penting dipatuhi agar sukses
+                        Disiplin adalah guru Anda        Disiplim seperti memasang genteng
 ```
 
 ### Tujuan utama dan terpenting seorang pedagang di pasar uang adalah menjaga uangnya agar tidak hilang.
