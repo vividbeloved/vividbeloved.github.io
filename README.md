@@ -34,6 +34,8 @@ Aku adalah ekonom alam semesta."_
 - [x] Tugas Selesai
 - [ ] Tugas Belum Selesai
 
+Pertama-tama: terima kasih atas dukungan Anda. Karena orang-orang seperti Anda, saya bisa melakukan apa yang saya lakukan. Semua karya saya dirilis secara gratis di bawah lisensi terbuka dan permisif dan diberikan berdasarkan nilai demi nilai.
+
 ## Portofolio
 		
 Berikut adalah beberapa proyek yang pernah saya kerjakan:
