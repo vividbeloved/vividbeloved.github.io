@@ -356,8 +356,9 @@ Sumber : https://www.blockchain.com/explorer/transactions/btc/f61be88b48af826c90
 | Nama Ordinals | Link |
 | ------------- | ---- |
 | Ordinals.com  | <a href="https://ordinals.com/tx/f005ceaa357e5358993df4a178ecffededdc9372a3589957969c73da1435b431" target="_blank">1BitcoinX1PpTdriS5pNUh7RSD3eggp6HK</a> |
-| Ordiscan      | <a href="https://ordiscan.com/address/bc1ph3ktpvqlhk8nkz979kl9hz0zjjz6dl4w39srcednvhzepdpcmu5qfwk0e6" target="_blank">bc1ph3ktpvqlhk8nkz979kl9hz0zjjz6dl4w39srcednvhzepdpcmu5qfwk0e6</a>
+| Ordiscan      | <a href="https://ordiscan.com/address/bc1ph3ktpvqlhk8nkz979kl9hz0zjjz6dl4w39srcednvhzepdpcmu5qfwk0e6" target="_blank">bc1ph3ktpvqlhk8nkz979kl9hz0zjjz6dl4w39srcednvhzepdpcmu5qfwk0e6</a> |
 | OrdinalsWallet | <a href="https://ordinalswallet.com/" target="_blank">OrdinalsWallet |
+| Ordinal Runestone | <a href="https://ordiscan.com/address/bc1pdlvsuqm307f6kjlwl2cre5nt083094d86jxjk98w7jxyqc5fvugqusncxy" target="_blank">bc1pdlvsuqm307f6kjlwl2cre5nt083094d86jxjk98w7jxyqc5fvugqusncxy</a> |
 
 <!-- About Section -->
 <div class="w3-container" style="padding:0px 0px" id="bawah"></div>
