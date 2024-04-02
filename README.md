@@ -359,6 +359,7 @@ Sumber : https://www.blockchain.com/explorer/transactions/btc/f61be88b48af826c90
 | Ordiscan      | <a href="https://ordiscan.com/address/bc1ph3ktpvqlhk8nkz979kl9hz0zjjz6dl4w39srcednvhzepdpcmu5qfwk0e6" target="_blank">bc1ph3ktpvqlhk8nkz979kl9hz0zjjz6dl4w39srcednvhzepdpcmu5qfwk0e6</a> |
 | OrdinalsWallet | <a href="https://ordinalswallet.com/" target="_blank">OrdinalsWallet |
 | Ordinal Runestone | <a href="https://ordiscan.com/address/bc1pdlvsuqm307f6kjlwl2cre5nt083094d86jxjk98w7jxyqc5fvugqusncxy" target="_blank">bc1pdlvsuqm307f6kjlwl2cre5nt083094d86jxjk98w7jxyqc5fvugqusncxy</a> |
+| Mempool Runestone perdana beli | <a href="https://mempool.space/tx/4b64e3bd78f13b8ab0b120246074604a30cb9646cdc58e1007ad3531cc78e201" target="_blank">bc1pdlvsuqm307f6kjlwl2cre5nt083094d86jxjk98w7jxyqc5fvugqusncxy</a> |
 
 <!-- About Section -->
 <div class="w3-container" style="padding:0px 0px" id="bawah"></div>
