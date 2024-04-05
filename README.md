@@ -74,9 +74,6 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
 </details>
 
 ## Tautan
-<a href="https://pages.github.com/" target="_blank">GitHub Pages</a>
-
-<a href="https://v2.akord.com/login/" target="_blank">Akord</a>
 
 <a href="https://legend.lnbits.com/" target="_blank">LNbits</a>
 
