@@ -384,6 +384,7 @@ Sumber : https://www.blockchain.com/explorer/transactions/btc/f61be88b48af826c90
 4. Nanti tanggal 14 Maret 2024 buat tabel ordinal  [x] Tugas Selesai
 5. Nanti tanggal 25 Maret 2024 belajar buat web dengan domain eth.
 6. Hari ini hari Selasa tanggal 2 April 2024. Belajar tentang ordinal.
+7. Hari ini sudah 10 April 2024, tetapi transaksi Bitcoin saya yang di 1BitcoinX1...6HK belum kunjung dapat konfirmasi.
 
 <a href="#atas" class="w3-bar-item w3-button"> Ke Atas Halaman</a>
 
