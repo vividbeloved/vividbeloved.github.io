@@ -385,6 +385,8 @@ Sumber : https://www.blockchain.com/explorer/transactions/btc/f61be88b48af826c90
 5. Nanti tanggal 25 Maret 2024 belajar buat web dengan domain eth.
 6. Hari ini hari Selasa tanggal 2 April 2024. Belajar tentang ordinal.
 7. Hari ini sudah 10 April 2024, tetapi transaksi Bitcoin saya yang di 1BitcoinX1...6HK belum kunjung dapat konfirmasi.
+8. Sabtu Legi, 4 Mei 2024, Transaksi di block nomer 'cantik' <a href="https://polygonscan.com/tx/0xa49a01a7e0a76382f9eced53fdd1889bedfd968d35ed8783c4e49ddbea11ecfc"  target="_blank"> Block: 56563333</a>
+
 
 <a href="#atas" class="w3-bar-item w3-button"> Ke Atas Halaman</a>
 
