@@ -227,6 +227,7 @@ Pasar adalah majikan Anda                                                 Pasar 
 ```
 
 ### Tujuan utama dan terpenting seorang pedagang di pasar uang adalah menjaga uangnya agar tidak hilang.
+### Hentikan perdagangan untuk kesenangan dan mulailah berdagang untuk menghasilkan uang. 27/05/2024 0:38
 
 <div class="w3-container" style="padding:0px 0px" id="tabel"></div>
 
