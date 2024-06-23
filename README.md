@@ -47,7 +47,7 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
 6. Aset NFT <a href="https://rank.dragontown.xyz/token/3499" target="_blank">DragonTown</a> #3499
 7. Aset NFT <a href="https://rank.dragontown.xyz/token/560" target="_blank">DragonTown</a> #560
 8. Alamat Bitcoin <a href="https://mempool.space/address/bc1qene2m2ge7h9qdwq8ptrlea2hpvk83c2mjjswl9" target="_blank">bc1qene2m2ge7h9qdwq8ptrlea2hpvk83c2mjjswl9</a> Balance	‎0.00000861 BTC$0.59 pada tanggal 8 Maret 2024
-9. Alamat Bitcoin baru 1BitcoinX1PpTdriS5pNUh7RSD3eggp6HK di buat pada tanggal 8 Maret 2024
+9. Alamat Bitcoin 1BitcoinX1PpTdriS5pNUh7RSD3eggp6HK di buat pada tanggal 8 Maret 2024 konfirmasi pertama 22 Mei 2024
 10. Akun OpenSea <a href="https://opensea.io/1bitcoinx1" target="_blank">1BitcoinX1</a>
 11. Alamat Bitcoin Ordinals <a href="https://mempool.space/address/bc1pzv8sqw850vuxv600nq73cygezrc8s26tlkpl27v9vdm4lfjkuhfs6szx09" target="_blank">bc1pzv8sqw850vuxv600nq73cygezrc8s26tlkpl27v9vdm4lfjkuhfs6szx09</a> Balance	‎0.00001000 BTC$0.72 pada tanggal 12 Maret 2024
 12. Waktu internasional <a href="https://www.timeanddate.com/worldclock/timezone/utc" target="_blank">Current UTC</a>
