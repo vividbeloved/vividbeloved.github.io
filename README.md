@@ -62,11 +62,11 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
     <i>Kata Harta Karun</i>
   </summary>
   <p>
-    Dalam gerbong waktu satu bulan, akan ada momentum pergerakan satu arah dalam satu hari, sehingga harga di pasar keuangan mudah di ketahui akan kemana mengalirnya.
+    Dalam block waktu satu bulan, akan ada momentum pergerakan satu arah dalam satu hari, sehingga harga di pasar keuangan mudah di ketahui akan kemana mengalirnya.
   </p>
 	<p> "La paciencia es amarga, pero su fruto es dulce". – Aristóteles
 </p>
-	<p> Hati-hati dengan tindakan yang berdasarkan hasil dari pikiran dan perasaan yang impulsif, seringkali kebiasaan tersebut hasil dari pikiran dan perasaan, sehingga fokusnya kurang memperhatikan peta jalan strategi yang sudah direncanakan sebelumnya. Ketika tidak berjalan sesuai peta jalan, maka tindakan akan mengalir bersama arus pergerakan harga yang telah terjadi secara mengejutkan.</p>
+	<p> Hati-hati dengan tindakan yang berdasarkan hasil dari pikiran dan perasaan yang impulsif, seringkali kebiasaan tersebut hasil dari pikiran dan perasaan, sehingga fokusnya kurang memperhatikan peta jalan strategi yang sudah direncanakan sebelumnya. Ketika tidak berjalan sesuai peta jalan, maka tindakan akan mengalami bias dengan mengalir bersama arus pergerakan harga yang telah terjadi secara mengejutkan.</p>
 <p> nsec1n96sr52nvqhqhrfvmgejhszth67dp2hvh9zgnuhcqnn2qcnx0q9hcgr6 </p>
 <p> nsec146q6w2tk7847dnz2nn3sdcs3lmm9y3wdv7ldqeg5276n2qgslf9tw7 </p>
 <p> npub1437e3gdc2gujuntvzjed6647f7qxm548df3qx3pk0dg0w8z2upns2c9qyn </p>
