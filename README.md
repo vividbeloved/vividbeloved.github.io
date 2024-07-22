@@ -340,9 +340,9 @@ Sumber : https://www.blockchain.com/explorer/transactions/btc/f61be88b48af826c90
 
 | Nomoer Akun | Server | Password Investor |
 | ----------- | ------ | ----------------- |
-| 5068889     | live05.mt4tickmill.com | y96WFA$o!aTu |
-| 5068888     | live05.mt4tickmill.com | S5XVT#Ny%\kS |
-| 5068884     | live05.mt4tickmill.com | k9%tV$QK%K4# |
+| 5068889     | live05.mt4tickmill.com | diarsipkan |
+| 5068888     | live05.mt4tickmill.com | Cafe*999 |
+| 5068884     | live05.mt4tickmill.com | diarsipkan |
 
 
 | Jadwal | Tanggal | Jam Wib | Keterangan | Konfirmasi |
