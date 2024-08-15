@@ -53,6 +53,7 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
 11. Alamat Bitcoin Ordinals <a href="https://mempool.space/address/bc1pzv8sqw850vuxv600nq73cygezrc8s26tlkpl27v9vdm4lfjkuhfs6szx09" target="_blank">bc1pzv8sqw850vuxv600nq73cygezrc8s26tlkpl27v9vdm4lfjkuhfs6szx09</a> Balance	‎0.00001000 BTC$0.72 pada tanggal 12 Maret 2024
 12. Waktu internasional <a href="https://www.timeanddate.com/worldclock/timezone/utc" target="_blank">Current UTC</a>
 13. Alamat Bitcoin P2PKH <a href="https://magiceden.io/ordinals/discover-raresats?walletAddress=1BitcoinX1PpTdriS5pNUh7RSD3eggp6HK" target="_blank">1BitcoinX1PpTdriS5pNUh7RSD3eggp6HK</a> di Magic Eden dengan Balance 14.605 sats pada tanggal 11 Agustus 2024
+14. Rencana membuat NPWP Kafe Gunung
    
 ## Gambar
 <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fvividbeloved.github.io">
