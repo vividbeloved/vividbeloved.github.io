@@ -55,6 +55,8 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
 13. Alamat Bitcoin P2PKH <a href="https://magiceden.io/ordinals/discover-raresats?walletAddress=1BitcoinX1PpTdriS5pNUh7RSD3eggp6HK" target="_blank">1BitcoinX1PpTdriS5pNUh7RSD3eggp6HK</a> di Magic Eden dengan Balance 14.605 sats pada tanggal 11 Agustus 2024
 14. Rencana membuat NPWP Kafe Gunung
 15. Hari ini 17 Agustus 2024 baru dapat kabar kalau akun fb saya sudah menghasilkan $0.02 USD
+16. Yang berharga bagimu, bisa sangat di inginkan orang lain atau sebaliknya.
+17. Hari ini 21 Agustus 2024 baru dapat kabar kalau akun fb saya sudah menghasilkan $0.04 USD
    
 ## Gambar
 <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fvividbeloved.github.io">
